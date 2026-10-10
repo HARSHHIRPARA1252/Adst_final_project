@@ -1,0 +1,179 @@
+{% extends "base.html" %}
+
+{% block title %}Match History | BGMI Esports Analytics{% endblock %}
+
+{% block extra_css %}
+<style>
+    .page-header { margin-bottom: 28px; }
+    .page-header h1 { font-size: 38px; font-weight: 900; }
+    .page-header p { color: #9ca3af; margin-top: 8px; }
+
+    .tournament-pills { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 26px; }
+    .t-pill {
+        padding: 9px 22px; border-radius: 50px;
+        border: 1px solid rgba(139,92,246,.35);
+        background: rgba(139,92,246,.08);
+        color: #c4b5fd;
+        text-decoration: none; font-weight: 600; font-size: 14px; transition: .22s;
+    }
+    .t-pill.active, .t-pill:hover {
+        background: linear-gradient(135deg,#7c3aed,#8b5cf6);
+        color: #fff; border-color: transparent;
+        box-shadow: 0 4px 18px rgba(124,58,237,.35);
+    }
+
+    .filter-card { margin-bottom: 24px; }
+    .filter-row { display: flex; gap: 14px; align-items: flex-end; flex-wrap: wrap; }
+    .filter-row .form-group { flex: 1; min-width: 200px; }
+    .filter-row .form-group label { margin-bottom: 8px; color: #c4b5fd; font-size: 13px; font-weight: 600; }
+
+    .match-meta {
+        display: flex; gap: 16px; flex-wrap: wrap;
+        margin-bottom: 22px; align-items: center;
+    }
+    .meta-badge {
+        padding: 8px 16px; border-radius: 10px;
+        background: rgba(139,92,246,0.12);
+        border: 1px solid rgba(139,92,246,0.25);
+        color: #c4b5fd; font-size: 14px; font-weight: 600;
+    }
+
+    .rank-1 { background: rgba(245,158,11,0.12) !important; border-left: 3px solid #f59e0b; }
+    .rank-2 { border-left: 3px solid #9ca3af; }
+    .rank-3 { border-left: 3px solid #b45309; }
+
+    .winner-badge {
+        display: inline-block; padding: 3px 10px; border-radius: 20px;
+        background: rgba(34,197,94,0.15); color: #4ade80;
+        font-size: 12px; font-weight: 700;
+    }
+    .pts-val { color: #a78bfa; font-weight: 800; }
+    .kills-val { color: #f87171; font-weight: 700; }
+
+    .no-match-selected {
+        text-align: center; padding: 60px 20px; color: #6b7280;
+    }
+
+    .match-grid {
+        display: grid; grid-template-columns: repeat(6, 1fr);
+        gap: 10px; margin-bottom: 24px; flex-wrap: wrap;
+    }
+    @media (max-width: 800px) { .match-grid { grid-template-columns: repeat(4, 1fr); } }
+    @media (max-width: 500px) { .match-grid { grid-template-columns: repeat(3, 1fr); } }
+
+    .match-pill {
+        padding: 10px; border-radius: 10px; text-align: center;
+        border: 1px solid rgba(139,92,246,0.2);
+        background: rgba(139,92,246,0.06);
+        color: #c4b5fd; font-weight: 600; font-size: 14px;
+        text-decoration: none; transition: .2s;
+    }
+    .match-pill.active, .match-pill:hover {
+        background: linear-gradient(135deg,#7c3aed,#8b5cf6);
+        color: white; border-color: transparent;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+
+<div class="page-header">
+    <h1>📜 Match History</h1>
+    <p>Detailed breakdown of every match in the tournament</p>
+</div>
+
+<!-- Tournament Filter -->
+<div class="tournament-pills">
+    {% for t in tournaments %}
+    <a href="{{ url_for('history') }}?tournament={{ t }}"
+       class="t-pill {% if t == tournament %}active{% endif %}">
+        {{ t }}
+    </a>
+    {% endfor %}
+</div>
+
+<!-- Match Selection -->
+{% if matches %}
+<div class="card filter-card">
+    <p style="color:#9ca3af; font-size:14px; margin-bottom:14px;">Select a match to view detailed results:</p>
+    <div class="match-grid">
+        {% for m in matches %}
+        <a href="{{ url_for('history') }}?tournament={{ tournament }}&match={{ m }}"
+           class="match-pill {% if selected_match == m|string %}active{% endif %}">
+            M{{ m | int if m == m | int else m }}
+        </a>
+        {% endfor %}
+    </div>
+</div>
+{% endif %}
+
+<!-- Match Results -->
+{% if match_data %}
+
+<div class="match-meta">
+    <span class="meta-badge">📍 Match {{ selected_match }}</span>
+    {% if match_data[0].map is defined and match_data[0].map %}
+    <span class="meta-badge">🗺️ {{ match_data[0].map }}</span>
+    {% endif %}
+    {% if match_data[0].date is defined and match_data[0].date %}
+    <span class="meta-badge">📅 {{ match_data[0].date }}</span>
+    {% endif %}
+    <span class="meta-badge">👥 {{ match_data | length }} Teams</span>
+</div>
+
+<div class="card">
+    <table>
+        <thead>
+            <tr>
+                <th>Rank</th>
+                <th>Team</th>
+                {% if match_data[0].map is defined %}<th>Map</th>{% endif %}
+                <th>Elim Points</th>
+                <th>Place Points</th>
+                <th>Total Score</th>
+                <th>WWCD</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in match_data | sort(attribute='rank') %}
+            <tr class="{% if row.rank == 1 %}rank-1{% elif row.rank == 2 %}rank-2{% elif row.rank == 3 %}rank-3{% endif %}">
+                <td style="font-weight:800; font-size:16px;">
+                    {% if row.rank == 1 %}🥇{% elif row.rank == 2 %}🥈{% elif row.rank == 3 %}🥉{% else %}{{ row.rank }}{% endif %}
+                </td>
+                <td style="font-weight:700; color:white;">
+                    {{ row.team }}
+                    {% if row.wwcd == 1 or row.wwcd == '1' %}
+                    <span class="winner-badge" style="margin-left:8px;">🐔 WWCD</span>
+                    {% endif %}
+                </td>
+                {% if match_data[0].map is defined %}
+                <td style="color:#9ca3af;">{{ row.map }}</td>
+                {% endif %}
+                <td class="kills-val">{{ row.elim_points if row.elim_points is defined else row.kills if row.kills is defined else '-' }}</td>
+                <td>{{ row.place_points if row.place_points is defined else '-' }}</td>
+                <td class="pts-val">{{ row.total_score if row.total_score is defined else row.points if row.points is defined else '-' }}</td>
+                <td>
+                    {% if row.wwcd == 1 or row.wwcd == '1' %}
+                    <span class="winner-badge">WIN</span>
+                    {% else %}
+                    <span style="color:#6b7280;">—</span>
+                    {% endif %}
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+{% elif selected_match %}
+<div class="card no-match-selected">
+    <p style="font-size: 18px;">Match {{ selected_match }} data not available.</p>
+</div>
+{% else %}
+<div class="card no-match-selected">
+    <p style="font-size: 20px; margin-bottom: 10px;">👆 Select a match above</p>
+    <p>Click any match pill to view the detailed results for that match.</p>
+</div>
+{% endif %}
+
+{% endblock %}

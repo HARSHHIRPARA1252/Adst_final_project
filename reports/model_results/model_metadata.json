@@ -1,0 +1,26 @@
+{
+  "selected_model": "Random Forest",
+  "target": "win = 1 for the match-winning team (WWCD); one winner per completed match",
+  "calibration": "sigmoid calibration on expanding chronological match-group folds",
+  "selection_metric": "lowest held-out conditional match log loss, Brier score tie-breaker",
+  "random_state": 42,
+  "historical_matches": 102,
+  "historical_rows": 1632,
+  "test_matches": 6,
+  "test_rows": 96,
+  "test_target_prevalence": 0.0625,
+  "feature_names": [
+    "matches_before",
+    "prev_avg_points",
+    "prev_avg_kills",
+    "prev_win_rate",
+    "recent3_avg_points",
+    "recent3_avg_kills",
+    "recent3_win_rate",
+    "prev_std_points",
+    "prev_std_kills",
+    "pre_match_elo"
+  ],
+  "test_first_match": "BMSD|2026|Upper Bracket Survival|UB|20261002|7",
+  "test_last_match": "BMSD|2026|Upper Bracket Survival|UB|20261002|12"
+}

@@ -1,0 +1,5 @@
+model,accuracy,precision,recall,f1,roc_auc,log_loss,brier
+Logistic Regression,0.505,0.0926,0.8333,0.1667,0.7544,0.7211,0.2542
+Random Forest,0.8812,0.0,0.0,0.0,0.5123,0.3883,0.1161
+Gradient Boosting,0.8713,0.0,0.0,0.0,0.6351,0.3212,0.0932
+Logistic Regression (Calibrated),0.9406,0.0,0.0,0.0,0.7325,0.2145,0.0548

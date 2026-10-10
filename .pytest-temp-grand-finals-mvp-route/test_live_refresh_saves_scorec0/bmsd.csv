@@ -1,0 +1,3 @@
+tournament,year,stage,group,date,match_id,match_order,match_key,team,team_key,points,kills,rank,placement_points,map,win,source
+BMSD,2026,Lower Bracket Survival,LB,2026-10-03,1,65.0,BMSD|2026|Lower Bracket Survival|LB|20261003|1,TEAM A,team a,17,7,1,10,Erangel,1.0,BMSD
+BMSD,2026,Lower Bracket Survival,LB,2026-10-03,1,65.0,BMSD|2026|Lower Bracket Survival|LB|20261003|1,TEAM B,team b,11,5,2,6,Erangel,0.0,BMSD

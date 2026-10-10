@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block title %}BMSD MVP Watchlist | BGMI Analytics{% endblock %}
+{% block content %}
+<div class="page-head">
+  <div><div class="eyebrow">BMSD 2026 · player performance</div><h1>MVP watchlist</h1><p>Track the players producing the most finishes across the tournament or a selected stage.</p></div>
+  <a class="btn btn-secondary" href="{{ url_for('live') }}">Open live tournament center</a>
+</div>
+
+<div class="callout warning" style="margin:18px 0"><strong>What this means:</strong> this is a source-backed performance watchlist, not a calibrated probability of winning the MVP award. The available page provides player finishes by match, but not enough historical MVP award outcomes to train and validate an award-probability model. The watchlist orders by total finishes, then average finishes per match.</div>
+
+<section class="section card">
+  <div class="section-heading">
+    <div><div class="eyebrow">Player leaders</div><h2>{% if selected_stage == 'All Stages' %}All BMSD stages{% else %}{{ selected_stage }}{% endif %}</h2>
+      {% if source_checked %}<p class="muted">Source refreshed {{ source_checked }} · BMSD player stats</p>{% endif %}
+    </div>
+    <form action="{{ url_for('mvp') }}" method="get" class="stage-filter">
+      <label for="stage">Stage
+        <select id="stage" name="stage"><option value="All Stages" {% if selected_stage == 'All Stages' %}selected{% endif %}>All stages</option>{% for stage in stages %}<option value="{{ stage }}" {% if selected_stage == stage %}selected{% endif %}>{{ stage }}</option>{% endfor %}</select>
+      </label>
+      <button class="btn btn-secondary" type="submit">Show</button>
+    </form>
+  </div>
+  {% if players %}
+    <div class="table-wrap"><table><thead><tr><th>Player</th><th>Team</th><th>Matches</th><th>Total finishes</th><th>Average / match</th><th>Peak match</th><th>Matches with 5+ finishes</th></tr></thead><tbody>
+      {% for row in players %}<tr><td><span class="rank-cell">{{ loop.index }}.</span> {{ row.player }}</td><td>{{ row.team }}</td><td>{{ row.matches_played|int }}</td><td>{{ row.total_elims|int }}</td><td>{{ '%.2f'|format(row.avg_elims) }}</td><td>{{ row.max_elims|int }}</td><td>{{ row.five_plus_elims_matches|int }}</td></tr>{% endfor %}
+    </tbody></table></div>
+  {% elif has_data %}<div class="empty-state">No player rows were found for this stage in the latest source snapshot.</div>
+  {% else %}<div class="empty-state"><strong>No BMSD player snapshot is stored yet.</strong>Open the live tournament center and press “Refresh BMSD data” to load public player stats.</div>{% endif %}
+</section>
+
+<section class="section card">
+  <div class="eyebrow">Data source and limits</div><h2 style="margin:7px 0 8px">Player match statistics</h2>
+  <p>The displayed figures come from eSportsAmaze’s player performance table. Stage views are calculated by summing published per-match finishes within that stage. Damage, survival time, and assists are not shown where the source reports zero or does not populate them.</p>
+  <div class="source-links"><a class="source-link" href="{{ stats_url }}" target="_blank" rel="noopener">eSportsAmaze BMSD statistics ↗</a><a class="source-link" href="{{ url_for('live') }}">Refresh source data</a></div>
+</section>
+{% endblock %}

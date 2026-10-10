@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.so
+
+# Virtual environments
+venv/
+.venv/
+.venv-*/
+env/
+.mplcache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model files (optional, may want to include)
+# models/*.pkl
+# models/*.joblib
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Flask
+instance/
+*.sqlite
+
+# Reports
+reports/*.png
+reports/*.pdf
+.pytest_cache/
+.pytest-temp-*/
+__pycache__/
+.venv/
+venv/
+.env
+.model_card_build/

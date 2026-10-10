@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block title %}Match History | BGMI Analytics{% endblock %}
+{% block content %}
+<div class="page-head"><div><div class="eyebrow">Completed scorecards</div><h1>Match history</h1><p>Inspect each team's recorded score and win flag by match.</p></div><form method="get" class="filter-form"><div class="field"><label for="tournament">Tournament</label><select id="tournament" name="tournament">{% for item in tournaments %}<option value="{{ item }}" {% if item == tournament %}selected{% endif %}>{{ item }}</option>{% endfor %}</select></div><button class="btn btn-primary">Apply</button></form></div>
+<section class="card">
+  <form method="get" class="form-inline"><input type="hidden" name="tournament" value="{{ tournament }}"><div class="field" style="min-width:300px"><label for="match">Match</label><select id="match" name="match"><option value="">Choose a completed match</option>{% for row in matches %}<option value="{{ row.match_key }}" {% if row.match_key == selected %}selected{% endif %}>{{ row.tournament }} · {{ row.stage }} · {{ row.match_id }}</option>{% endfor %}</select></div><button class="btn btn-secondary">View scorecard</button></form>
+</section>
+{% if selected %}<section class="section card"><div class="table-wrap"><table><thead><tr><th>Team</th><th>Points</th><th>Kills</th><th>Rank</th><th>Win / WWCD</th><th>Map</th></tr></thead><tbody>{% for row in match_data %}<tr><td>{{ row.team }}</td><td>{{ row.points|round(1) }}</td><td>{{ row.kills|round(1) }}</td><td>{{ row.rank if row.rank == row.rank else '—' }}</td><td>{% if row.win == 1 %}<span class="rank-cell">Winner</span>{% else %}—{% endif %}</td><td>{{ row.map or '—' }}</td></tr>{% endfor %}</tbody></table></div></section>{% endif %}
+{% endblock %}

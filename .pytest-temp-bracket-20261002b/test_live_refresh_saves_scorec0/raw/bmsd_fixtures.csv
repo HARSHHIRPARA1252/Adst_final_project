@@ -1,0 +1,5 @@
+date,overall_match,match,source_match_id,stage,group,map,status,scheduled_at,source_checked,team
+2026-10-03,66,1,fixture-66,Lower Bracket Survival,LB,Erangel,SCHEDULED,2026-10-03T10:00:00Z,2026-10-02,TEAM A
+2026-10-03,66,1,fixture-66,Lower Bracket Survival,LB,Erangel,SCHEDULED,2026-10-03T10:00:00Z,2026-10-02,TEAM B
+2026-10-04,67,2,fixture-67,Semi Finals,SF,Erangel,SCHEDULED,2026-10-04T10:00:00Z,2026-10-02,TEAM C
+2026-10-04,67,2,fixture-67,Semi Finals,SF,Erangel,SCHEDULED,2026-10-04T10:00:00Z,2026-10-02,TEAM D

@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+{% block title %}Team Comparison | BGMI Analytics{% endblock %}
+{% block content %}
+<div class="page-head"><div><div class="eyebrow">Historical statistics</div><h1>Team comparison</h1><p>Compare two teams from the same or different tournaments using recorded performance and the match win model.</p></div></div>
+<section class="card">
+  <form method="get" class="form-inline" id="compare-form" style="display:flex;gap:20px;flex-wrap:wrap;align-items:flex-end">
+    <div style="display:flex;gap:12px;flex-wrap:wrap;background:rgba(255,255,255,0.02);padding:14px;border-radius:8px;border:1px solid rgba(255,255,255,0.08);flex:1;min-width:280px">
+      <div style="width:100%;font-weight:600;font-size:0.88rem;color:var(--text-secondary,#aaa);margin-bottom:-4px">Team A Selection</div>
+      <div class="field" style="flex:1;min-width:130px"><label for="tournament_a">Tournament</label><select name="tournament_a" id="tournament_a">{% for item in tournaments %}<option value="{{ item }}" {% if item == tournament_a %}selected{% endif %}>{{ item }}</option>{% endfor %}</select></div>
+      <div class="field" style="flex:1.5;min-width:150px"><label for="team_a">Team A</label><select name="team_a" id="team_a">{% for item in teams_a %}<option value="{{ item }}" {% if item == team_a %}selected{% endif %}>{{ item }}</option>{% endfor %}</select></div>
+    </div>
+    <div style="display:flex;gap:12px;flex-wrap:wrap;background:rgba(255,255,255,0.02);padding:14px;border-radius:8px;border:1px solid rgba(255,255,255,0.08);flex:1;min-width:280px">
+      <div style="width:100%;font-weight:600;font-size:0.88rem;color:var(--text-secondary,#aaa);margin-bottom:-4px">Team B Selection</div>
+      <div class="field" style="flex:1;min-width:130px"><label for="tournament_b">Tournament</label><select name="tournament_b" id="tournament_b">{% for item in tournaments %}<option value="{{ item }}" {% if item == tournament_b %}selected{% endif %}>{{ item }}</option>{% endfor %}</select></div>
+      <div class="field" style="flex:1.5;min-width:150px"><label for="team_b">Team B</label><select name="team_b" id="team_b">{% for item in teams_b %}<option value="{{ item }}" {% if item == team_b %}selected{% endif %}>{{ item }}</option>{% endfor %}</select></div>
+    </div>
+    <button class="btn btn-primary" type="submit" style="height:44px;align-self:center">Compare</button>
+  </form>
+</section>
+{% if comparison %}
+<section class="section card">
+  <div class="table-wrap"><table><thead><tr><th>Measure</th><th>{{ comparison.team_a.team }}</th><th>{{ comparison.team_b.team }}</th></tr></thead><tbody>
+    <tr><td>Tournament</td><td><span class="rank-cell">{{ comparison.team_a.tournament }}</span></td><td><span class="rank-cell">{{ comparison.team_b.tournament }}</span></td></tr>
+    <tr><td>Recorded matches</td><td>{{ comparison.team_a.matches }}</td><td>{{ comparison.team_b.matches }}</td></tr>
+    <tr><td>Average points / match</td><td>{{ '%.2f'|format(comparison.team_a.avg_points) }}</td><td>{{ '%.2f'|format(comparison.team_b.avg_points) }}</td></tr>
+    <tr><td>Average kills / match</td><td>{{ '%.2f'|format(comparison.team_a.avg_kills) }}</td><td>{{ '%.2f'|format(comparison.team_b.avg_kills) }}</td></tr>
+    <tr><td>Observed match wins</td><td>{{ comparison.team_a.wins }}</td><td>{{ comparison.team_b.wins }}</td></tr>
+    <tr><td>Observed win rate</td><td>{{ '%.2f'|format(comparison.team_a.win_rate * 100) }}%</td><td>{{ '%.2f'|format(comparison.team_b.win_rate * 100) }}%</td></tr>
+    <tr><td>Model next-match estimate</td><td class="rank-cell">{% if comparison.team_a.model_probability is not none %}{{ '%.2f'|format(comparison.team_a.model_probability) }}%{% else %}—{% endif %}</td><td class="rank-cell">{% if comparison.team_b.model_probability is not none %}{{ '%.2f'|format(comparison.team_b.model_probability) }}%{% else %}—{% endif %}</td></tr>
+  </tbody></table></div>
+  <p class="footer-note">The probabilities are separate individual match estimates based on pre-match historical form. They are not a head-to-head matchup or tournament-champion prediction.</p>
+</section>
+{% else %}<section class="section empty-state"><strong>Choose two teams from the selected historical data.</strong>At least two team records are needed for a comparison.</section>{% endif %}
+
+<script>
+const tournamentTeams = {{ tournament_teams|tojson }};
+function updateTeamSelect(tournSelectId, teamSelectId) {
+  const tourn = document.getElementById(tournSelectId).value;
+  const select = document.getElementById(teamSelectId);
+  const currentVal = select.value;
+  const teams = tournamentTeams[tourn] || [];
+  select.innerHTML = '';
+  teams.forEach(t => {
+    const opt = document.createElement('option');
+    opt.value = t;
+    opt.textContent = t;
+    if (t === currentVal) opt.selected = true;
+    select.appendChild(opt);
+  });
+  if (!select.value && teams.length > 0) {
+    select.value = teams[0];
+  }
+}
+document.getElementById('tournament_a')?.addEventListener('change', () => updateTeamSelect('tournament_a', 'team_a'));
+document.getElementById('tournament_b')?.addEventListener('change', () => updateTeamSelect('tournament_b', 'team_b'));
+</script>
+{% endblock %}

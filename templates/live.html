@@ -1,0 +1,187 @@
+{% extends "base.html" %}
+{% block title %}BMSD Live Tournament Center | BGMI Analytics{% endblock %}
+{% block content %}
+<div class="page-head">
+  <div>
+    <div class="eyebrow">BMSD 2026 · live tournament center</div>
+    <h1>Stages, teams & next match</h1>
+    <p>See every bracket’s teams and match progress, then choose a stage and match for an automatic winner estimate. Team statistics are loaded from saved scorecards; you do not need to type them.</p>
+  </div>
+  <div class="button-row">
+    <form action="{{ url_for('refresh_bmsd_source') }}" method="post">
+      <button class="btn btn-primary" type="submit">Refresh BMSD data</button>
+    </form>
+    <a class="btn btn-secondary" href="https://www.youtube.com/@kraftonindiaesports/live" target="_blank" rel="noopener noreferrer">Watch official live stream ↗</a>
+  </div>
+</div>
+
+{% if refreshed %}<div class="callout" style="margin-bottom:14px">BMSD scorecards and published team lists were refreshed from eSportsAmaze{% if source_checked %} · checked {{ source_checked }}{% endif %}.</div>{% endif %}
+{% if uploaded %}<div class="callout" style="margin-bottom:14px">The uploaded scorecards were added to BMSD team history.</div>{% endif %}
+{% if error %}<div class="callout error" style="margin-bottom:14px">{{ error }}</div>{% endif %}
+{% if source_warning %}<div class="callout warning" style="margin-bottom:14px">{{ source_warning }}</div>{% endif %}
+
+<div class="callout warning" style="margin-bottom:18px"><strong>Prediction scope:</strong> estimates are for one match WWCD. They use only results before that match. Tournament champion and player MVP probabilities require separate validated outcome histories.</div>
+
+<section class="stats-grid">
+  <div class="stat-card"><span class="stat-label">Completed BMSD matches</span><strong>{{ bmsd_matches }}</strong><span class="stat-note">scorecards in local history</span></div>
+  <div class="stat-card"><span class="stat-label">BMSD teams with results</span><strong>{{ bmsd_teams }}</strong><span class="stat-note">from completed scorecards</span></div>
+  <div class="stat-card"><span class="stat-label">Published finalists</span><strong>{{ finalists|length }}</strong><span class="stat-note">from the progression page</span></div>
+  <div class="stat-card"><span class="stat-label">Next prediction</span><strong>{% if next_lobby %}{{ next_lobby.stage }} · M{{ next_lobby.match }}{% else %}Waiting for teams{% endif %}</strong><span class="stat-note">{% if model_available %}model {% if model_available %}ready{% endif %}{% else %}prediction model unavailable{% endif %}</span></div>
+</section>
+
+<section class="section two-column">
+  <article class="card next-match-card" id="team-prediction">
+    <div class="eyebrow">Team win prediction model</div>
+    {% if forecast_options %}
+    <form action="{{ url_for('live') }}" method="get" class="match-forecast-select">
+      {% if selected_stage != 'All Stages' %}<input type="hidden" name="stage" value="{{ selected_stage }}">{% endif %}
+      <div class="field"><label for="forecast">Choose bracket and match</label><select id="forecast" name="forecast">{% for option in forecast_options %}<option value="{{ option.id }}" {% if next_lobby_id == option.id|string %}selected{% endif %}>{{ option.stage }} · Match {{ option.match }}{% if option.stage_total %} of {{ option.stage_total }}{% endif %}{% if option.inferred %} · roster from completed results{% endif %}</option>{% endfor %}</select></div>
+      <button class="btn btn-primary" type="submit">Show prediction</button>
+    </form>
+    {% endif %}
+    {% if next_lobby %}
+      <h2>{{ next_lobby.stage }} · Match {{ next_lobby.match or next_lobby.overall_match }}{% if next_lobby.stage_total %} of {{ next_lobby.stage_total }}{% endif %}{% if next_lobby.group %} · {{ next_lobby.group }}{% endif %}</h2>
+      {% if next_lobby.inferred %}<p class="muted">The site confirms this stage has {{ next_lobby.stage_total }} matches. Match {{ next_lobby.completed_in_stage }} is the latest completed scorecard; this forecast uses its published {{ next_lobby.teams|length }}-team lobby for the next match. Map and start time have not been published.</p>{% endif %}
+      {% if grand_finals_smash %}
+        <div class="callout" style="margin:12px 0">
+          <strong>Grand Finals Smash Rule:</strong>
+          {% if grand_finals_smash.target_score is none %}
+            Matches 1–12 use regular scoring. After Match 12, the target is set to the leading team’s score plus 10 points. The target will appear when all 12 scorecards are available.
+          {% else %}
+            Match Point target: <strong>{{ '%.0f'|format(grand_finals_smash.target_score) }}</strong> (leader after Match 12: {{ '%.0f'|format(grand_finals_smash.leader_after_match_12) }} + 10).
+            {% if grand_finals_smash.champion %}
+              {{ grand_finals_smash.champion }} clinched the title in Match {{ grand_finals_smash.championship_match }}; no later match prediction is needed.
+            {% elif grand_finals_smash.smash_phase %}
+              {% if grand_finals_smash.eligible_teams %}Match Point eligible before this match: {{ grand_finals_smash.eligible_teams|join(', ') }}. An eligible team must win a later match for the title.{% else %}No team had reached the target before this match. A team that reaches it during this match becomes eligible for the following match.{% endif %}
+            {% else %}
+              Smash Rule begins in Match 13. This panel estimates this match’s WWCD; it is not a tournament champion probability.
+            {% endif %}
+          {% endif %}
+        </div>
+      {% endif %}
+      <p class="muted">{% if next_lobby.map %}{{ next_lobby.map }}{% endif %}{% if next_lobby.scheduled_at %} · {{ next_lobby.scheduled_at }}{% endif %}</p>
+      <div class="team-chip-list">{% for team in next_lobby.teams %}<span class="team-chip">{{ team }}</span>{% endfor %}</div>
+      {% if next_lobby.predictions %}
+        <h3 class="subhead">Next-match team estimates · WWCD</h3>
+        <div class="table-wrap"><table><thead><tr><th>Team</th><th>Prior matches</th><th>Relative lobby estimate</th></tr></thead><tbody>{% for row in next_lobby.predictions %}<tr><td>{{ row.team }}</td><td>{{ row.matches|int }}</td><td class="rank-cell">{{ '%.2f'|format(row.probability) }}%</td></tr>{% endfor %}</tbody></table></div>
+        <p class="footer-note">These team estimates are normalized to 100% across this lobby. They use only results before Match {{ next_lobby.match }}{% if next_lobby.inferred %} (currently through Match {{ next_lobby.as_of_match }}){% endif %}. Later match forecasts stay based on the same completed history until you refresh after a new result. This is an estimate, not a guarantee.</p>
+      {% elif not model_available %}<div class="empty-state">The match is listed, but the trained model is not available.</div>
+      {% else %}<div class="empty-state">The source lists a match but has not published at least two teams for it yet.</div>{% endif %}
+    {% else %}
+      <h2>No match prediction is available yet</h2>
+      <p>The saved data does not yet contain a complete team list for the next match. Refresh BMSD data when the source publishes the bracket teams.</p>
+      <div class="source-links"><a class="source-link" href="{{ matches_url }}" target="_blank" rel="noopener">Check published match schedule ↗</a></div>
+    {% endif %}
+  </article>
+  <article class="card">
+    <div class="eyebrow">Official qualification route</div>
+    <h2 style="margin:7px 0 6px">Teams listed for Grand Finals</h2>
+    {% if finalists %}
+      <p class="muted">The names below are taken from the source progression route. The page may add more routes as the tournament advances.</p>
+      <div class="table-wrap"><table><thead><tr><th>Team</th><th>Route</th><th>Qualification</th></tr></thead><tbody>{% for row in finalists %}<tr><td>{{ row.team }}</td><td>{{ row.route }}</td><td>{{ row.advancement }}</td></tr>{% endfor %}</tbody></table></div>
+    {% else %}<div class="empty-state">No finalist route is saved yet. Use Refresh BMSD data to load the latest source page.</div>{% endif %}
+    <div class="source-links" style="margin-top:14px"><a class="source-link" href="{{ progression_url }}" target="_blank" rel="noopener">Official progression ↗</a></div>
+  </article>
+</section>
+
+{% if next_lobby %}
+<section class="section card" id="player-prediction">
+  <div class="section-heading"><div><div class="eyebrow">Player prediction · same selected match</div><h2>Who may lead the lobby in finishes?</h2><p class="muted">The highest projected finish output is shown as an MVP-style candidate for {{ next_lobby.stage }} · Match {{ next_lobby.match }}.</p></div></div>
+  {% if mvp_predictions %}
+    <div class="callout" style="margin-bottom:14px"><strong>Current player pick:</strong> {{ mvp_predictions[0].player }} · {{ mvp_predictions[0].team }} · estimated {{ '%.2f'|format(mvp_predictions[0].predicted_finishes) }} finishes.</div>
+    <div class="table-wrap"><table><thead><tr><th>Player</th><th>Team</th><th>Past matches</th><th>Average finishes</th><th>Last 3 average</th><th>Estimated finishes</th></tr></thead><tbody>
+      {% for row in mvp_predictions %}<tr><td>{% if loop.first %}<span class="rank-cell">MVP pick · </span>{% endif %}{{ row.player }}</td><td>{{ row.team }}</td><td>{{ row.matches }}</td><td>{{ '%.2f'|format(row.avg_finishes) }}</td><td>{{ '%.2f'|format(row.recent3_finishes) }}</td><td class="rank-cell">{{ '%.2f'|format(row.predicted_finishes) }}</td></tr>{% endfor %}
+    </tbody></table></div>
+  {% else %}<div class="empty-state">Player match-level finish data is not available for this lobby yet. Refresh BMSD data to load it.</div>{% endif %}
+  <p class="footer-note">Player method selected by chronological validation: {{ mvp_model_method }}. It estimates match-level finishes from each player’s prior form; the highest estimate is shown as an MVP-style pick. eSportsAmaze does not provide validated match-by-match MVP award labels in this dataset, so this is not an award probability.</p>
+</section>
+{% endif %}
+
+{% if remaining_forecasts %}
+<section class="section card">
+  <div class="section-heading"><div><div class="eyebrow">Remaining match estimates</div><h2>All forecastable matches in the active bracket</h2><p class="muted">Choose any match above. These estimates refresh as completed scorecards are added.</p></div></div>
+  <div class="table-wrap"><table><thead><tr><th>Bracket</th><th>Match</th><th>Teams</th><th>Current model favorite</th><th>Relative lobby estimate</th><th></th></tr></thead><tbody>
+    {% for forecast in remaining_forecasts %}<tr><td>{{ forecast.stage }}</td><td>{{ forecast.match }}{% if forecast.stage_total %} / {{ forecast.stage_total }}{% endif %}</td><td>{{ forecast.teams }}</td><td>{{ forecast.favorite or 'Prediction unavailable' }}</td><td>{% if forecast.favorite %}{{ '%.2f'|format(forecast.probability) }}%{% else %}—{% endif %}</td><td><a class="source-link" href="{{ url_for('live', forecast=forecast.id, stage=selected_stage) }}">View</a></td></tr>{% endfor %}
+  </tbody></table></div>
+</section>
+{% endif %}
+
+<section class="section card">
+  <div class="section-heading">
+    <div><div class="eyebrow">Tournament map</div><h2>Teams by stage</h2><p class="muted">Published groups are shown where the stage has groups. Grand Finals uses one team list. Select a stage to narrow the list.</p></div>
+    <form action="{{ url_for('live') }}" method="get" class="stage-filter">
+      <label for="stage">Stage</label>
+      <select id="stage" name="stage"><option value="All Stages" {% if selected_stage == 'All Stages' %}selected{% endif %}>All stages</option>{% for stage in all_stages %}<option value="{{ stage }}" {% if selected_stage == stage %}selected{% endif %}>{{ stage }}</option>{% endfor %}</select>
+      <button class="btn btn-secondary" type="submit">Show</button>
+    </form>
+  </div>
+  {% if stage_sections %}<div class="stage-status-grid">{% for item in stage_sections %}<div class="stage-status-card"><span class="eyebrow">{{ item.stage }}</span><strong>{{ item.completed_matches }} / {{ item.total_matches }} matches</strong><div class="stage-progress-track"><span class="stage-progress-fill" style="width:{{ item.completion_pct }}%"></span></div><small>{{ item.status }} · {{ item.known_teams }} / {{ item.expected_teams }} teams assigned</small></div>{% endfor %}</div>{% endif %}
+  {% if groups %}
+    <div class="stage-group-grid">
+      {% for row in groups %}
+      <article class="stage-group-card">
+        <div class="stage-group-heading"><div><span class="eyebrow">{{ row.stage }}</span>{% if row.stage|lower != 'grand finals' and row.group not in ('Teams', 'Smash Rules') %}<h3>{{ row.group }}</h3>{% endif %}</div><span class="pill">{{ row.teams|length }}{% if row.pending_count %} + {{ row.pending_count }} pending{% else %} teams{% endif %}</span></div>
+        <div class="team-chip-list">{% for team in row.teams %}<span class="team-chip">{{ team }}</span>{% endfor %}</div>
+        {% if row.pending_count %}<p class="footer-note">{{ row.pending_count }} team qualification spot{% if row.pending_count != 1 %}s{% endif %} remain{% if row.pending_count == 1 %}s{% endif %}{% if row.stage %} unresolved{% endif %}.</p>{% endif %}
+      </article>
+      {% endfor %}
+    </div>
+  {% elif selected_stage != 'All Stages' %}<div class="empty-state">The source has not published match teams for {{ selected_stage }} yet. Confirmed Grand Finals qualifiers are listed above.</div>
+  {% else %}<div class="empty-state">No stage/group team lists have been imported. Refresh BMSD data to load the published scorecards.</div>{% endif %}
+</section>
+
+{% if stage_sections %}
+<section class="section card">
+  <div class="section-heading"><div><div class="eyebrow">Bracket prediction progress</div><h2>Match-by-match estimates by stage</h2><p class="muted">Only stages with a complete, source-backed lobby can be predicted. Future rounds are shown as pending until teams qualify.</p></div></div>
+  {% for section in stage_sections %}{% if section.forecasts %}<div class="table-wrap" style="margin-bottom:18px"><h3>{{ section.stage }} · {{ section.completed_matches }} of {{ section.total_matches }} complete</h3><table><thead><tr><th>Match</th><th>Lobby teams</th><th>Current model favorite</th><th>Relative lobby estimate</th><th></th></tr></thead><tbody>{% for forecast in section.forecasts %}<tr><td>{{ forecast.match }} / {{ forecast.stage_total }}</td><td>{{ forecast.teams }}</td><td>{{ forecast.favorite }}</td><td>{{ '%.2f'|format(forecast.probability) }}%</td><td><a class="source-link" href="{{ url_for('live', forecast=forecast.id, stage=selected_stage) }}">Select</a></td></tr>{% endfor %}</tbody></table></div>{% endif %}{% endfor %}
+  {% if not forecast_options %}<div class="empty-state">No complete lobby is available for prediction right now. Refresh after the official bracket teams are published.</div>{% endif %}
+</section>
+{% endif %}
+
+{% if grand_finals_ready %}
+<section class="section two-column" id="grand-finals-mvp">
+  <article class="card">
+    <div class="eyebrow">Grand Finals score</div><h2 style="margin:7px 0 8px">16-team final scoreboard</h2>
+    <p class="muted">Scores below use completed Grand Finals scorecards only. Teams show zero until their first final match is published.</p>
+    <div class="table-wrap"><table><thead><tr><th>Team</th><th>Matches</th><th>Total points</th><th>Finishes</th><th>WWCDs</th></tr></thead><tbody>
+      {% for row in grand_finals_scoreboard %}<tr><td><span class="rank-cell">{{ loop.index }}.</span> {{ row.team }}</td><td>{{ row.matches }}</td><td>{{ '%.0f'|format(row.points) }}</td><td>{{ '%.0f'|format(row.finishes) }}</td><td>{{ row.wwcds }}</td></tr>{% endfor %}
+    </tbody></table></div>
+  </article>
+  <article class="card">
+    <div class="eyebrow">Grand Finals MVP · finish-based candidates</div><h2 style="margin:7px 0 8px">Final player prediction</h2>
+    <p class="muted">Candidates are limited to the 16 qualified finalist teams and ranked by the model’s estimated finishes per match from prior form.</p>
+    {% if grand_finals_mvp_candidates %}
+    <div class="table-wrap"><table><thead><tr><th>Player</th><th>Team</th><th>Past matches</th><th>Recent average</th><th>Estimated finishes / match</th></tr></thead><tbody>
+      {% for row in grand_finals_mvp_candidates %}<tr><td>{% if loop.first %}<span class="rank-cell">Top candidate · </span>{% endif %}{{ row.player }}</td><td>{{ row.team }}</td><td>{{ row.matches }}</td><td>{{ '%.2f'|format(row.recent3_finishes) }}</td><td class="rank-cell">{{ '%.2f'|format(row.predicted_finishes) }}</td></tr>{% endfor %}
+    </tbody></table></div>
+    {% else %}<div class="empty-state">The finalist roster is confirmed; player finish history for these teams is not available yet.</div>{% endif %}
+    <p class="footer-note">This is a finish-based Grand Finals candidate list, not an official MVP award probability. It updates when the BMSD player statistics are refreshed.</p>
+  </article>
+</section>
+{% endif %}
+
+<section class="section card">
+  <div class="section-heading"><div><div class="eyebrow">Completed scorecards</div><h2>Historical BMSD team performance</h2><p class="muted">All available BMSD results are included. These measured stats are descriptive and are not a subjective team ranking.</p></div></div>
+  {% if leaderboard %}
+  <div class="table-wrap"><table><thead><tr><th>Team</th><th>Matches</th><th>Average points</th><th>Average finishes</th><th>WWCDs</th></tr></thead><tbody>{% for row in leaderboard %}<tr><td>{{ row.team }}</td><td>{{ row.matches }}</td><td>{{ '%.2f'|format(row.avg_points) }}</td><td>{{ '%.2f'|format(row.avg_kills) }}</td><td>{{ row.wins }}</td></tr>{% endfor %}</tbody></table></div>
+  {% else %}<div class="empty-state">No completed BMSD scorecards are stored yet.</div>{% endif %}
+</section>
+
+<section class="section two-column">
+  <article class="card">
+    <div class="eyebrow">Data sources</div><h2 style="margin:7px 0 10px">Refresh published tournament data</h2>
+    <p>Refresh saves completed scorecards, published stage rules, teams by bracket, and player data inside this project. The page reads that saved data; you do not need to open a source link or enter statistics.</p>
+    <div class="source-links"><a class="source-link" href="{{ matches_url }}" target="_blank" rel="noopener">eSportsAmaze scorecards ↗</a><a class="source-link" href="{{ format_url }}" target="_blank" rel="noopener">eSportsAmaze stage format ↗</a><a class="source-link" href="{{ eam_url }}" target="_blank" rel="noopener">eSportsAmaze standings ↗</a><a class="source-link" href="{{ liquipedia_url }}" target="_blank" rel="noopener">Liquipedia BMSD ↗</a></div>
+    {% if source_checked %}<p class="footer-note">Last local source check: {{ source_checked }}</p>{% endif %}
+  </article>
+  <details class="card">
+    <summary><span class="eyebrow">Manual backup</span><h2 style="margin:7px 0 0">Import a completed-match CSV</h2></summary>
+    <p class="muted">Use this if a source scorecard is missing or needs a correction. One row per team and exactly one winner per match are required.</p>
+    <form action="{{ url_for('import_bmsd_scorecards') }}" method="post" enctype="multipart/form-data" class="score-import">
+      <div class="field"><label for="scorecards">Completed scorecard CSV</label><input type="file" name="scorecards" id="scorecards" accept=".csv,text/csv" required><small>Up to 5 MB.</small></div>
+      <button class="btn btn-primary" type="submit">Import scorecards</button>
+    </form>
+    <div style="margin-top:12px"><a class="btn btn-secondary" href="{{ url_for('download_bmsd_template') }}">Download CSV template</a></div>
+  </details>
+</section>
+{% endblock %}

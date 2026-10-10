@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block title %}Predict Match Win Chance | BGMI Analytics{% endblock %}
+{% block content %}
+<div class="page-head"><div><div class="eyebrow">Calibrated classifier</div><h1>Match win predictor</h1><p>Estimate the probability that a team wins its next match from its completed match history.</p></div><a class="btn btn-secondary" href="{{ url_for('model_analytics') }}">Model evaluation</a></div>
+<div class="callout warning" style="margin-bottom:18px"><strong>Scope:</strong> this is a single-match WWCD estimate, not a forecast that a team will win the entire tournament. The historical dataset has limited tournament coverage.</div>
+{% if error %}<div class="callout error" style="margin-bottom:18px">{{ error }}</div>{% endif %}
+{% if not model_available %}<div class="callout error" style="margin-bottom:18px">The trained model files are missing. Run <span class="code-inline">python src/model_training.py</span> to create them.</div>{% endif %}
+
+<section class="card">
+  <div class="section-heading"><div><div class="eyebrow">Prediction inputs</div><h2>Choose a team; history fills the statistics</h2></div><span class="muted">Historical win rate: {{ '%.2f'|format(baseline_rate) }}% per team-match</span></div>
+  <div class="callout" style="margin-bottom:18px"><strong>Quick prediction:</strong> select or type the team name and calculate. Leave the statistic boxes blank; they are filled from completed match history. Open the optional section only to override those values with known pre-match stats.</div>
+  <form method="post" action="{{ url_for('predict_page') }}">
+    <div class="field" style="max-width:520px;margin-bottom:16px"><label for="team">Team name</label><input id="team" name="team" list="team-options" value="{{ team }}" placeholder="Select a historical team or enter a BMSD team" required><datalist id="team-options">{% for item in teams %}<option value="{{ item }}">{% endfor %}</datalist><small>Known team history is computed from completed scorecards. For a new team, enter its name and provide any available stats below.</small></div>
+    <details class="optional-inputs" {% if request.method == 'POST' and prediction %}open{% endif %}>
+      <summary>Optional: override with known pre-match statistics</summary>
+      <p class="muted">Use only statistics already known before the match. Do not enter values from the match being predicted.</p>
+    <div class="field-grid">
+      {% set labels = {'matches_before':'Matches played','prev_avg_points':'Average points','prev_avg_kills':'Average kills','prev_win_rate':'Historical win rate (0–1)','recent3_avg_points':'Last 3 matches · average points','recent3_avg_kills':'Last 3 matches · average kills','recent3_win_rate':'Last 3 matches · win rate (0–1)','prev_std_points':'Points consistency · standard deviation','prev_std_kills':'Kills consistency · standard deviation','pre_match_elo':'Pre-match ELO'} %}
+      {% for name in feature_names %}
+      <div class="field"><label for="{{ name }}">{{ labels.get(name, name) }}</label><input type="number" id="{{ name }}" name="{{ name }}" step="any" min="0" {% if name in ['prev_win_rate','recent3_win_rate'] %}max="1" data-win-rate{% endif %} value="{{ request.form.get(name, '') }}" placeholder="Use team history"><small>Leave blank to use completed scorecards.</small></div>
+      {% endfor %}
+    </div>
+    </details>
+    <div style="margin-top:20px"><button class="btn btn-primary" type="submit" {% if not model_available %}disabled{% endif %}>Calculate probability</button></div>
+  </form>
+</section>
+
+{% if prediction %}
+<section class="section result-card card">
+  <div><div class="eyebrow">{{ prediction.team }}</div><div class="probability-value">{{ '%.2f'|format(prediction.winning_probability_percentage) }}%</div><div class="probability-caption">estimated chance of winning one match</div></div>
+  <div>
+    {% if prediction.has_history %}<div class="callout">Team history found. The prediction uses completed results and pre-match form only.</div>{% else %}<div class="callout warning">No exact historical team-name match was found. This estimate uses the model's cold-start form values; add completed BMSD scorecards or enter the team's stats above.</div>{% endif %}
+    <div class="form-section"><h3>Model features used</h3><div class="table-wrap"><table><thead><tr><th>Feature</th><th>Value</th></tr></thead><tbody>{% for name, value in prediction.features.items() %}<tr><td>{{ labels.get(name, name) }}</td><td>{{ '%.3f'|format(value) }}</td></tr>{% endfor %}</tbody></table></div></div>
+  </div>
+</section>
+<section class="section grid-2">
+  <article class="card"><div class="eyebrow">Model-level explanation</div><h2 style="margin:7px 0 15px">Inputs the selected model uses most</h2>
+    {% if prediction.feature_importance %}<div class="importance-list">{% for item in prediction.feature_importance %}<div class="importance-row"><span>{{ labels.get(item.feature, item.feature) }}</span><div class="bar-track"><div class="bar-fill" style="width:{{ item.importance * 100 }}%"></div></div><span class="bar-number">{{ '%.1f'|format(item.importance * 100) }}%</span></div>{% endfor %}</div>{% else %}<p>Model feature importance is not available for the saved estimator.</p>{% endif %}
+    <p class="footer-note">These are global model importances, not proof of cause and not a causal explanation of this team's result.</p>
+  </article>
+  <article class="card"><div class="eyebrow">Probability reading</div><h2 style="margin:7px 0 12px">A model estimate, not a guarantee</h2><p>The win probability is produced by the saved calibrated classifier. It is based on historical team-match rows and the exact feature values shown here.</p><p>Only {{ historical_matches }} complete historical matches are currently available, so estimates can be uncertain. Importing completed BMSD scorecards updates form inputs; it does not automatically retrain the model.</p></article>
+</section>
+{% endif %}
+{% endblock %}

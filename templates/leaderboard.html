@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block title %}Team Statistics | BGMI Analytics{% endblock %}
+{% block content %}
+<div class="page-head"><div><div class="eyebrow">Measured performance</div><h1>Team statistics</h1><p>Rows are sorted by average points per match, with average kills as the tie-breaker.</p></div><form method="get" class="filter-form"><div class="field"><label for="tournament">Tournament</label><select id="tournament" name="tournament">{% for item in tournaments %}<option value="{{ item }}" {% if item == tournament %}selected{% endif %}>{{ item }}</option>{% endfor %}</select></div><button class="btn btn-primary">Filter</button></form></div>
+<section class="card"><div class="table-wrap"><table><thead><tr><th>Team</th><th>Matches</th><th>Total points</th><th>Average points</th><th>Total kills</th><th>Average kills</th><th>WWCD / wins</th><th>Observed win rate</th></tr></thead><tbody>
+{% for row in leaderboard %}<tr><td>{{ row.team }}</td><td>{{ row.matches }}</td><td>{{ row.points|int }}</td><td>{{ '%.2f'|format(row.avg_points) }}</td><td>{{ row.kills|int }}</td><td>{{ '%.2f'|format(row.avg_kills) }}</td><td>{{ row.wins }}</td><td>{{ '%.2f'|format(row.win_rate * 100) }}%</td></tr>{% else %}<tr><td colspan="8">No match records for this filter.</td></tr>{% endfor %}
+</tbody></table></div><p class="footer-note">This is a summary of observed statistics. It is not a subjective ranking.</p></section>
+{% endblock %}

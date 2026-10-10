@@ -1,0 +1,2 @@
+stage,stage_id,sequence,start_date,end_date,total_matches,matches_per_day,teams_count,groups_division,format_type,groups_json,rules_json,source_checked,source_url
+Lower Bracket Survival,stage-lb,5,2026-10-04,2026-10-06,2,1,2,Single Lobby,Survival Stage,"{""LB Team"":[{""teamName"":""TEAM A""},{""teamName"":""TEAM B""}]}",[],2026-10-02,https://example.test/format

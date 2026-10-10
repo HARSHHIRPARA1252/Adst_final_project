@@ -1,0 +1,2041 @@
+match_num,team_a,team_b,winner,actual,prediction,probability
+2,Genesis Esports GENs,Hero Xtreme GodLike HX-GODL,iQOO SouL IQ-SOUL,0,1,0.5295438522581628
+2,Genesis Esports GENs,K9 Esports K9,iQOO SouL IQ-SOUL,0,1,0.816933175464049
+2,Genesis Esports GENs,Learn From Past LEFP,iQOO SouL IQ-SOUL,0,1,0.7425107114532108
+2,Genesis Esports GENs,Meta Ninza META-N,iQOO SouL IQ-SOUL,0,1,0.8381849690165094
+2,Genesis Esports GENs,Myth Official MYTH,iQOO SouL IQ-SOUL,0,0,0.475465265476863
+2,Genesis Esports GENs,Nebula Esports NEBULA,iQOO SouL IQ-SOUL,0,1,0.7761998424258701
+2,Genesis Esports GENs,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,0,1,0.7458914266958873
+2,Genesis Esports GENs,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,0,1,0.7545311651158075
+2,Genesis Esports GENs,Welt Esports WELT,iQOO SouL IQ-SOUL,0,1,0.6952477030764949
+2,Genesis Esports GENs,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,0,1,0.7945852846953392
+2,Genesis Esports GENs,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,0,1,0.8032780854059792
+2,Genesis Esports GENs,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,0,1,0.5915466321151237
+2,Genesis Esports GENs,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,0,1,0.7216184158254637
+2,Genesis Esports GENs,iQOO SouL IQ-SOUL,iQOO SouL IQ-SOUL,0,1,0.6907066146294952
+2,Genesis Esports GENs,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,0,0,0.4047321837175146
+2,Hero Xtreme GodLike HX-GODL,K9 Esports K9,iQOO SouL IQ-SOUL,0,1,0.8195741957289796
+2,Hero Xtreme GodLike HX-GODL,Learn From Past LEFP,iQOO SouL IQ-SOUL,0,1,0.7458914266958873
+2,Hero Xtreme GodLike HX-GODL,Meta Ninza META-N,iQOO SouL IQ-SOUL,0,1,0.8405792290941475
+2,Hero Xtreme GodLike HX-GODL,Myth Official MYTH,iQOO SouL IQ-SOUL,0,0,0.47989620041202613
+2,Hero Xtreme GodLike HX-GODL,Nebula Esports NEBULA,iQOO SouL IQ-SOUL,0,1,0.7792697266849675
+2,Hero Xtreme GodLike HX-GODL,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,0,1,0.7492427449587507
+2,Hero Xtreme GodLike HX-GODL,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,0,1,0.7578055365604454
+2,Hero Xtreme GodLike HX-GODL,Welt Esports WELT,iQOO SouL IQ-SOUL,0,1,0.6989974016539924
+2,Hero Xtreme GodLike HX-GODL,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,0,1,0.7974687786831371
+2,Hero Xtreme GodLike HX-GODL,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,0,1,0.8060693367957347
+2,Hero Xtreme GodLike HX-GODL,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,0,1,0.5958305293328483
+2,Hero Xtreme GodLike HX-GODL,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,0,1,0.7251719073380206
+2,Hero Xtreme GodLike HX-GODL,iQOO SouL IQ-SOUL,iQOO SouL IQ-SOUL,0,1,0.6944876344907315
+2,Hero Xtreme GodLike HX-GODL,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,0,0,0.4090179509536696
+2,K9 Esports K9,Learn From Past LEFP,iQOO SouL IQ-SOUL,0,0,0.42541707153351904
+2,K9 Esports K9,Meta Ninza META-N,iQOO SouL IQ-SOUL,0,1,0.5708086848937965
+2,K9 Esports K9,Myth Official MYTH,iQOO SouL IQ-SOUL,0,0,0.1887961683471567
+2,K9 Esports K9,Nebula Esports NEBULA,iQOO SouL IQ-SOUL,0,0,0.47103819003779834
+2,K9 Esports K9,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,0,0,0.42976373779023036
+2,K9 Esports K9,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,0,0,0.4410980202998983
+2,K9 Esports K9,Welt Esports WELT,iQOO SouL IQ-SOUL,0,0,0.36938299168722827
+2,K9 Esports K9,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,0,0,0.49828895874016144
+2,K9 Esports K9,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,0,1,0.5118168623818132
+2,K9 Esports K9,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,0,0,0.2710561294703897
+2,K9 Esports K9,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,0,0,0.39960052447415134
+2,K9 Esports K9,iQOO SouL IQ-SOUL,iQOO SouL IQ-SOUL,0,0,0.3644251418422285
+2,K9 Esports K9,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,0,0,0.14862587483825007
+2,Learn From Past LEFP,Meta Ninza META-N,iQOO SouL IQ-SOUL,0,1,0.6730028702705542
+2,Learn From Past LEFP,Myth Official MYTH,iQOO SouL IQ-SOUL,0,0,0.26479284074571713
+2,Learn From Past LEFP,Nebula Esports NEBULA,iQOO SouL IQ-SOUL,0,1,0.5794874820770147
+2,Learn From Past LEFP,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,0,1,0.5383822685157177
+2,Learn From Past LEFP,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,0,1,0.5498191181899833
+2,Learn From Past LEFP,Welt Esports WELT,iQOO SouL IQ-SOUL,0,0,0.4754652654768632
+2,Learn From Past LEFP,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,0,1,0.6058265502531114
+2,Learn From Past LEFP,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,0,1,0.618673835598945
+2,Learn From Past LEFP,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,0,0,0.3652558496967252
+2,Learn From Past LEFP,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,0,1,0.5073787165287691
+2,Learn From Past LEFP,iQOO SouL IQ-SOUL,iQOO SouL IQ-SOUL,0,0,0.470145095350524
+2,Learn From Past LEFP,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,0,0,0.21269231427070093
+2,Meta Ninza META-N,Myth Official MYTH,iQOO SouL IQ-SOUL,0,0,0.16701524427633896
+2,Meta Ninza META-N,Nebula Esports NEBULA,iQOO SouL IQ-SOUL,0,0,0.4341212608704895
+2,Meta Ninza META-N,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,0,0,0.39367414979050863
+2,Meta Ninza META-N,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,0,0,0.4047321837175147
+2,Meta Ninza META-N,Welt Esports WELT,iQOO SouL IQ-SOUL,0,0,0.3353817127696234
+2,Meta Ninza META-N,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,0,0,0.4610980223676318
+2,Meta Ninza META-N,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,0,0,0.47457130769765016
+2,Meta Ninza META-N,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,0,0,0.24262349290457447
+2,Meta Ninza META-N,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,0,0,0.3644251418422286
+2,Meta Ninza META-N,iQOO SouL IQ-SOUL,iQOO SouL IQ-SOUL,0,0,0.3306409493378523
+2,Meta Ninza META-N,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,0,0,0.13073242939871893
+2,Myth Official MYTH,Nebula Esports NEBULA,iQOO SouL IQ-SOUL,0,1,0.8142622577762536
+2,Myth Official MYTH,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,0,1,0.7876986241722143
+2,Myth Official MYTH,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,0,1,0.7953069955759745
+2,Myth Official MYTH,Welt Esports WELT,iQOO SouL IQ-SOUL,0,1,0.7425107114532108
+2,Myth Official MYTH,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,0,1,0.8302048374956761
+2,Myth Official MYTH,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,0,1,0.8376981722254383
+2,Myth Official MYTH,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,0,1,0.6467201290786972
+2,Myth Official MYTH,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,0,1,0.7661671839797882
+2,Myth Official MYTH,iQOO SouL IQ-SOUL,iQOO SouL IQ-SOUL,0,1,0.7384089023056781
+2,Myth Official MYTH,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,0,0,0.4621983831351734
+2,Nebula Esports NEBULA,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,0,0,0.4923092006222484
+2,Nebula Esports NEBULA,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,0,1,0.5038355612572606
+2,Nebula Esports NEBULA,Welt Esports WELT,iQOO SouL IQ-SOUL,0,0,0.42976373779023025
+2,Nebula Esports NEBULA,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,0,1,0.5609960228816236
+2,Nebula Esports NEBULA,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,0,1,0.5742776918968742
+2,Nebula Esports NEBULA,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,0,0,0.3236120720842413
+2,Nebula Esports NEBULA,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,0,0,0.4613074321071449
+2,Nebula Esports NEBULA,iQOO SouL IQ-SOUL,iQOO SouL IQ-SOUL,0,0,0.4245410522050248
+2,Nebula Esports NEBULA,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,0,0,0.18341646472512838
+2,Vasista Esports VASISTA,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,0,1,0.5454196078270626
+2,Vasista Esports VASISTA,Welt Esports WELT,iQOO SouL IQ-SOUL,0,0,0.47103819003779834
+2,Vasista Esports VASISTA,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,0,1,0.6015777561229831
+2,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,0,1,0.6144753984546162
+2,Vasista Esports VASISTA,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,0,0,0.36114841216029125
+2,Vasista Esports VASISTA,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,0,1,0.5029394074008089
+2,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,iQOO SouL IQ-SOUL,0,0,0.4657235739532684
+2,Vasista Esports VASISTA,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,0,0,0.20973362669190004
+2,Victores Sumus V-SUMUS,Welt Esports WELT,iQOO SouL IQ-SOUL,0,0,0.45956717275103204
+2,Victores Sumus V-SUMUS,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,0,1,0.5904764325152146
+2,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,0,1,0.6034965818916694
+2,Victores Sumus V-SUMUS,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,0,0,0.35057985849211204
+2,Victores Sumus V-SUMUS,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,0,0,0.49141324308520895
+2,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,iQOO SouL IQ-SOUL,0,0,0.45427083184136596
+2,Victores Sumus V-SUMUS,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,0,0,0.202193656214769
+2,Welt Esports WELT,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,0,1,0.660179218431244
+2,Welt Esports WELT,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,0,1,0.6722134787897219
+2,Welt Esports WELT,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,0,0,0.4210819043791322
+2,Welt Esports WELT,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,0,1,0.5655719791892995
+2,Welt Esports WELT,iQOO SouL IQ-SOUL,iQOO SouL IQ-SOUL,0,1,0.5286506923270361
+2,Welt Esports WELT,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,0,0,0.25455161844032254
+2,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,0,1,0.5474054143736776
+2,Wyld Fangs WYLD-F,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,0,0,0.30019821652695283
+2,Wyld Fangs WYLD-F,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,0,0,0.4343282931891819
+2,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,iQOO SouL IQ-SOUL,0,0,0.39812301138181666
+2,Wyld Fangs WYLD-F,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,0,0,0.16763211074736387
+2,iQOO Orangutan IQ-OG,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,0,0,0.2889529777347464
+2,iQOO Orangutan IQ-OG,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,0,0,0.4210819043791322
+2,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,iQOO SouL IQ-SOUL,0,0,0.38522885273162516
+2,iQOO Orangutan IQ-OG,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,0,0,0.16021581298178722
+2,iQOO Reckoning Esports IQ-RGE,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,0,1,0.6722134787897219
+2,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,iQOO SouL IQ-SOUL,0,1,0.6385634571786297
+2,iQOO Reckoning Esports IQ-RGE,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,0,0,0.34976413624244196
+2,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,iQOO SouL IQ-SOUL,0,0,0.496748450827325
+2,iQOO Revenant XSpark IQ-RNTX,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,0,0,0.23108104490642903
+2,iQOO SouL IQ-SOUL,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,1,0,0.25862293029862926
+3,Genesis Esports GENs,Hero Xtreme GodLike HX-GODL,Hero Xtreme GodLike HX-GODL,0,1,0.5110804865958789
+3,Genesis Esports GENs,K9 Esports K9,Hero Xtreme GodLike HX-GODL,0,1,0.6769136170420065
+3,Genesis Esports GENs,Learn From Past LEFP,Hero Xtreme GodLike HX-GODL,0,1,0.5689516489801009
+3,Genesis Esports GENs,Meta Ninza META-N,Hero Xtreme GodLike HX-GODL,0,1,0.6659367821562833
+3,Genesis Esports GENs,Myth Official MYTH,Hero Xtreme GodLike HX-GODL,0,1,0.5460494122859673
+3,Genesis Esports GENs,Nebula Esports NEBULA,Hero Xtreme GodLike HX-GODL,0,1,0.5800287513769457
+3,Genesis Esports GENs,Vasista Esports VASISTA,Hero Xtreme GodLike HX-GODL,0,1,0.6133977333583129
+3,Genesis Esports GENs,Victores Sumus V-SUMUS,Hero Xtreme GodLike HX-GODL,0,1,0.5793521348289334
+3,Genesis Esports GENs,Welt Esports WELT,Hero Xtreme GodLike HX-GODL,0,0,0.48870380822195736
+3,Genesis Esports GENs,Wyld Fangs WYLD-F,Hero Xtreme GodLike HX-GODL,0,1,0.6855609931980777
+3,Genesis Esports GENs,iQOO Orangutan IQ-OG,Hero Xtreme GodLike HX-GODL,0,1,0.5108029186910464
+3,Genesis Esports GENs,iQOO Reckoning Esports IQ-RGE,Hero Xtreme GodLike HX-GODL,0,1,0.6127389837773444
+3,Genesis Esports GENs,iQOO Revenant XSpark IQ-RNTX,Hero Xtreme GodLike HX-GODL,0,0,0.464299567833596
+3,Genesis Esports GENs,iQOO SouL IQ-SOUL,Hero Xtreme GodLike HX-GODL,0,1,0.6345738673835969
+3,Genesis Esports GENs,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,0,1,0.5339657260080329
+3,Hero Xtreme GodLike HX-GODL,K9 Esports K9,Hero Xtreme GodLike HX-GODL,1,1,0.6966439414713338
+3,Hero Xtreme GodLike HX-GODL,Learn From Past LEFP,Hero Xtreme GodLike HX-GODL,1,1,0.5912942832147127
+3,Hero Xtreme GodLike HX-GODL,Meta Ninza META-N,Hero Xtreme GodLike HX-GODL,1,1,0.6860265201406414
+3,Hero Xtreme GodLike HX-GODL,Myth Official MYTH,Hero Xtreme GodLike HX-GODL,1,1,0.5686792083698118
+3,Hero Xtreme GodLike HX-GODL,Nebula Esports NEBULA,Hero Xtreme GodLike HX-GODL,1,1,0.6021986678880267
+3,Hero Xtreme GodLike HX-GODL,Vasista Esports VASISTA,Hero Xtreme GodLike HX-GODL,1,1,0.6349148763798855
+3,Hero Xtreme GodLike HX-GODL,Victores Sumus V-SUMUS,Hero Xtreme GodLike HX-GODL,1,1,0.6015332318730635
+3,Hero Xtreme GodLike HX-GODL,Welt Esports WELT,Hero Xtreme GodLike HX-GODL,1,1,0.511635601736576
+3,Hero Xtreme GodLike HX-GODL,Wyld Fangs WYLD-F,Hero Xtreme GodLike HX-GODL,1,1,0.7049933807315231
+3,Hero Xtreme GodLike HX-GODL,iQOO Orangutan IQ-OG,Hero Xtreme GodLike HX-GODL,1,1,0.5336892962100166
+3,Hero Xtreme GodLike HX-GODL,iQOO Reckoning Esports IQ-RGE,Hero Xtreme GodLike HX-GODL,1,1,0.6342709304710147
+3,Hero Xtreme GodLike HX-GODL,iQOO Revenant XSpark IQ-RNTX,Hero Xtreme GodLike HX-GODL,1,0,0.487177342961356
+3,Hero Xtreme GodLike HX-GODL,iQOO SouL IQ-SOUL,Hero Xtreme GodLike HX-GODL,1,1,0.6555741994815413
+3,Hero Xtreme GodLike HX-GODL,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,1,1,0.5567088812047565
+3,K9 Esports K9,Learn From Past LEFP,Hero Xtreme GodLike HX-GODL,0,0,0.4192199769463317
+3,K9 Esports K9,Meta Ninza META-N,Hero Xtreme GodLike HX-GODL,0,1,0.5215648700369586
+3,K9 Esports K9,Myth Official MYTH,Hero Xtreme GodLike HX-GODL,0,0,0.3967966703286754
+3,K9 Esports K9,Nebula Esports NEBULA,Hero Xtreme GodLike HX-GODL,0,0,0.43029196390763397
+3,K9 Esports K9,Vasista Esports VASISTA,Hero Xtreme GodLike HX-GODL,0,0,0.46457586391801825
+3,K9 Esports K9,Victores Sumus V-SUMUS,Hero Xtreme GodLike HX-GODL,0,0,0.42961133792531175
+3,K9 Esports K9,Welt Esports WELT,Hero Xtreme GodLike HX-GODL,0,0,0.3432726466134712
+3,K9 Esports K9,Wyld Fangs WYLD-F,Hero Xtreme GodLike HX-GODL,0,1,0.543860943093993
+3,K9 Esports K9,iQOO Orangutan IQ-OG,Hero Xtreme GodLike HX-GODL,0,0,0.36347039773111045
+3,K9 Esports K9,iQOO Reckoning Esports IQ-RGE,Hero Xtreme GodLike HX-GODL,0,0,0.4638851648459394
+3,K9 Esports K9,iQOO Revenant XSpark IQ-RNTX,Hero Xtreme GodLike HX-GODL,0,0,0.321563333410639
+3,K9 Esports K9,iQOO SouL IQ-SOUL,Hero Xtreme GodLike HX-GODL,0,0,0.48708738953648933
+3,K9 Esports K9,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,0,0,0.38521310478248755
+3,Learn From Past LEFP,Meta Ninza META-N,Hero Xtreme GodLike HX-GODL,0,1,0.6337554277645273
+3,Learn From Past LEFP,Myth Official MYTH,Hero Xtreme GodLike HX-GODL,0,1,0.5108029186910464
+3,Learn From Past LEFP,Nebula Esports NEBULA,Hero Xtreme GodLike HX-GODL,0,1,0.5452232501145788
+3,Learn From Past LEFP,Vasista Esports VASISTA,Hero Xtreme GodLike HX-GODL,0,1,0.5793521348289334
+3,Learn From Past LEFP,Victores Sumus V-SUMUS,Hero Xtreme GodLike HX-GODL,0,1,0.5445345912045004
+3,Learn From Past LEFP,Welt Esports WELT,Hero Xtreme GodLike HX-GODL,0,0,0.45346130428833953
+3,Learn From Past LEFP,Wyld Fangs WYLD-F,Hero Xtreme GodLike HX-GODL,0,1,0.6542886950243574
+3,Learn From Past LEFP,iQOO Orangutan IQ-OG,Hero Xtreme GodLike HX-GODL,0,0,0.475448681550024
+3,Learn From Past LEFP,iQOO Reckoning Esports IQ-RGE,Hero Xtreme GodLike HX-GODL,0,1,0.5786752200147882
+3,Learn From Past LEFP,iQOO Revenant XSpark IQ-RNTX,Hero Xtreme GodLike HX-GODL,0,0,0.4293391618830724
+3,Learn From Past LEFP,iQOO SouL IQ-SOUL,Hero Xtreme GodLike HX-GODL,0,1,0.6011806283869763
+3,Learn From Past LEFP,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,0,0,0.49864244267010305
+3,Meta Ninza META-N,Myth Official MYTH,Hero Xtreme GodLike HX-GODL,0,0,0.40876554254205827
+3,Meta Ninza META-N,Nebula Esports NEBULA,Hero Xtreme GodLike HX-GODL,0,0,0.4425299581054719
+3,Meta Ninza META-N,Vasista Esports VASISTA,Hero Xtreme GodLike HX-GODL,0,0,0.4769725777686075
+3,Meta Ninza META-N,Victores Sumus V-SUMUS,Hero Xtreme GodLike HX-GODL,0,0,0.44184498753872575
+3,Meta Ninza META-N,Welt Esports WELT,Hero Xtreme GodLike HX-GODL,0,0,0.35457606337077485
+3,Meta Ninza META-N,Wyld Fangs WYLD-F,Hero Xtreme GodLike HX-GODL,0,1,0.5561756607938827
+3,Meta Ninza META-N,iQOO Orangutan IQ-OG,Hero Xtreme GodLike HX-GODL,0,0,0.3750590649839673
+3,Meta Ninza META-N,iQOO Reckoning Esports IQ-RGE,Hero Xtreme GodLike HX-GODL,0,0,0.4762798428093465
+3,Meta Ninza META-N,iQOO Revenant XSpark IQ-RNTX,Hero Xtreme GodLike HX-GODL,0,0,0.33251384125119027
+3,Meta Ninza META-N,iQOO SouL IQ-SOUL,Hero Xtreme GodLike HX-GODL,0,0,0.499524379580711
+3,Meta Ninza META-N,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,0,0,0.39706257059384453
+3,Myth Official MYTH,Nebula Esports NEBULA,Hero Xtreme GodLike HX-GODL,0,1,0.5681342025928482
+3,Myth Official MYTH,Vasista Esports VASISTA,Hero Xtreme GodLike HX-GODL,0,1,0.6017994514477506
+3,Myth Official MYTH,Victores Sumus V-SUMUS,Hero Xtreme GodLike HX-GODL,0,1,0.5674527134651705
+3,Myth Official MYTH,Welt Esports WELT,Hero Xtreme GodLike HX-GODL,0,0,0.47655692599085997
+3,Myth Official MYTH,Wyld Fangs WYLD-F,Hero Xtreme GodLike HX-GODL,0,1,0.6749805190220158
+3,Myth Official MYTH,iQOO Orangutan IQ-OG,Hero Xtreme GodLike HX-GODL,0,0,0.49864244267010305
+3,Myth Official MYTH,iQOO Reckoning Esports IQ-RGE,Hero Xtreme GodLike HX-GODL,0,1,0.6011337899489557
+3,Myth Official MYTH,iQOO Revenant XSpark IQ-RNTX,Hero Xtreme GodLike HX-GODL,0,0,0.4522227671982498
+3,Myth Official MYTH,iQOO SouL IQ-SOUL,Hero Xtreme GodLike HX-GODL,0,1,0.6232206510200579
+3,Myth Official MYTH,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,0,1,0.5218420476950635
+3,Nebula Esports NEBULA,Vasista Esports VASISTA,Hero Xtreme GodLike HX-GODL,0,1,0.5682704695570621
+3,Nebula Esports NEBULA,Victores Sumus V-SUMUS,Hero Xtreme GodLike HX-GODL,0,1,0.5332746127718377
+3,Nebula Esports NEBULA,Welt Esports WELT,Hero Xtreme GodLike HX-GODL,0,0,0.4422559434962933
+3,Nebula Esports NEBULA,Wyld Fangs WYLD-F,Hero Xtreme GodLike HX-GODL,0,1,0.6439679959303801
+3,Nebula Esports NEBULA,iQOO Orangutan IQ-OG,Hero Xtreme GodLike HX-GODL,0,0,0.4641614279982011
+3,Nebula Esports NEBULA,iQOO Reckoning Esports IQ-RGE,Hero Xtreme GodLike HX-GODL,0,1,0.567589031798722
+3,Nebula Esports NEBULA,iQOO Revenant XSpark IQ-RNTX,Hero Xtreme GodLike HX-GODL,0,0,0.41827369176145845
+3,Nebula Esports NEBULA,iQOO SouL IQ-SOUL,Hero Xtreme GodLike HX-GODL,0,1,0.5902673247627549
+3,Nebula Esports NEBULA,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,0,0,0.4873161030757086
+3,Vasista Esports VASISTA,Victores Sumus V-SUMUS,Hero Xtreme GodLike HX-GODL,0,0,0.49864244267010305
+3,Vasista Esports VASISTA,Welt Esports WELT,Hero Xtreme GodLike HX-GODL,0,0,0.40836292152978015
+3,Vasista Esports VASISTA,Wyld Fangs WYLD-F,Hero Xtreme GodLike HX-GODL,0,1,0.6115667334441447
+3,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,Hero Xtreme GodLike HX-GODL,0,0,0.4298835565326642
+3,Vasista Esports VASISTA,iQOO Reckoning Esports IQ-RGE,Hero Xtreme GodLike HX-GODL,0,1,0.5332746127718379
+3,Vasista Esports VASISTA,iQOO Revenant XSpark IQ-RNTX,Hero Xtreme GodLike HX-GODL,0,0,0.38495007343212234
+3,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,Hero Xtreme GodLike HX-GODL,0,1,0.5563458671724716
+3,Vasista Esports VASISTA,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,0,0,0.45277315600536194
+3,Victores Sumus V-SUMUS,Welt Esports WELT,Hero Xtreme GodLike HX-GODL,0,0,0.44294104556964237
+3,Victores Sumus V-SUMUS,Wyld Fangs WYLD-F,Hero Xtreme GodLike HX-GODL,0,1,0.644604434853712
+3,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,Hero Xtreme GodLike HX-GODL,0,0,0.4648521817473856
+3,Victores Sumus V-SUMUS,iQOO Reckoning Esports IQ-RGE,Hero Xtreme GodLike HX-GODL,0,1,0.5682704695570621
+3,Victores Sumus V-SUMUS,iQOO Revenant XSpark IQ-RNTX,Hero Xtreme GodLike HX-GODL,0,0,0.4189495487927567
+3,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,Hero Xtreme GodLike HX-GODL,0,1,0.5909387806644981
+3,Victores Sumus V-SUMUS,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,0,0,0.48800993254596825
+3,Welt Esports WELT,Wyld Fangs WYLD-F,Hero Xtreme GodLike HX-GODL,0,1,0.7232643929289001
+3,Welt Esports WELT,iQOO Orangutan IQ-OG,Hero Xtreme GodLike HX-GODL,0,1,0.5558863405199541
+3,Welt Esports WELT,iQOO Reckoning Esports IQ-RGE,Hero Xtreme GodLike HX-GODL,0,1,0.6547772063473467
+3,Welt Esports WELT,iQOO Revenant XSpark IQ-RNTX,Hero Xtreme GodLike HX-GODL,0,1,0.5095537831503497
+3,Welt Esports WELT,iQOO SouL IQ-SOUL,Hero Xtreme GodLike HX-GODL,0,1,0.6754971170636267
+3,Welt Esports WELT,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,0,1,0.578675220014788
+3,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,Hero Xtreme GodLike HX-GODL,0,0,0.35430789494190496
+3,Wyld Fangs WYLD-F,iQOO Reckoning Esports IQ-RGE,Hero Xtreme GodLike HX-GODL,0,0,0.45399678174342123
+3,Wyld Fangs WYLD-F,iQOO Revenant XSpark IQ-RNTX,Hero Xtreme GodLike HX-GODL,0,0,0.3129378761627119
+3,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,Hero Xtreme GodLike HX-GODL,0,0,0.4771446038617405
+3,Wyld Fangs WYLD-F,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,0,0,0.3758261172039829
+3,iQOO Orangutan IQ-OG,iQOO Reckoning Esports IQ-RGE,Hero Xtreme GodLike HX-GODL,0,1,0.6345285665911808
+3,iQOO Orangutan IQ-OG,iQOO Revenant XSpark IQ-RNTX,Hero Xtreme GodLike HX-GODL,0,0,0.4874548651451109
+3,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,Hero Xtreme GodLike HX-GODL,0,1,0.6558249718698683
+3,iQOO Orangutan IQ-OG,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,0,1,0.5569829925777919
+3,iQOO Reckoning Esports IQ-RGE,iQOO Revenant XSpark IQ-RNTX,Hero Xtreme GodLike HX-GODL,0,0,0.3856077775488269
+3,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,Hero Xtreme GodLike HX-GODL,0,1,0.5570311951368689
+3,iQOO Reckoning Esports IQ-RGE,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,0,0,0.45346130428833936
+3,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,Hero Xtreme GodLike HX-GODL,0,1,0.6965678458427567
+3,iQOO Revenant XSpark IQ-RNTX,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,0,1,0.6023317098504604
+3,iQOO SouL IQ-SOUL,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,0,0,0.4305163933207718
+4,Genesis Esports GENs,Hero Xtreme GodLike HX-GODL,Vasista Esports VASISTA,0,1,0.592342940551586
+4,Genesis Esports GENs,K9 Esports K9,Vasista Esports VASISTA,0,1,0.7235409104833826
+4,Genesis Esports GENs,Learn From Past LEFP,Vasista Esports VASISTA,0,1,0.501137556336395
+4,Genesis Esports GENs,Meta Ninza META-N,Vasista Esports VASISTA,0,1,0.6869619686922368
+4,Genesis Esports GENs,Myth Official MYTH,Vasista Esports VASISTA,0,1,0.629019702649621
+4,Genesis Esports GENs,Nebula Esports NEBULA,Vasista Esports VASISTA,0,1,0.642290019943734
+4,Genesis Esports GENs,Vasista Esports VASISTA,Vasista Esports VASISTA,0,1,0.6343119214677225
+4,Genesis Esports GENs,Victores Sumus V-SUMUS,Vasista Esports VASISTA,0,1,0.5291368228148857
+4,Genesis Esports GENs,Welt Esports WELT,Vasista Esports VASISTA,0,1,0.5519470155894626
+4,Genesis Esports GENs,Wyld Fangs WYLD-F,Vasista Esports VASISTA,0,1,0.6622779995414325
+4,Genesis Esports GENs,iQOO Orangutan IQ-OG,Vasista Esports VASISTA,0,1,0.5224110588747664
+4,Genesis Esports GENs,iQOO Reckoning Esports IQ-RGE,Vasista Esports VASISTA,0,1,0.6486630656837472
+4,Genesis Esports GENs,iQOO Revenant XSpark IQ-RNTX,Vasista Esports VASISTA,0,0,0.4582571162788201
+4,Genesis Esports GENs,iQOO SouL IQ-SOUL,Vasista Esports VASISTA,0,1,0.555723880508305
+4,Genesis Esports GENs,iQOO Team Tamilas IQ-TT,Vasista Esports VASISTA,0,0,0.4781861451079537
+4,Hero Xtreme GodLike HX-GODL,K9 Esports K9,Vasista Esports VASISTA,0,1,0.6735987671384032
+4,Hero Xtreme GodLike HX-GODL,Learn From Past LEFP,Vasista Esports VASISTA,0,0,0.4420030355702751
+4,Hero Xtreme GodLike HX-GODL,Meta Ninza META-N,Vasista Esports VASISTA,0,1,0.6337566947597076
+4,Hero Xtreme GodLike HX-GODL,Myth Official MYTH,Vasista Esports VASISTA,0,1,0.5721005733711996
+4,Hero Xtreme GodLike HX-GODL,Nebula Esports NEBULA,Vasista Esports VASISTA,0,1,0.5860670973987282
+4,Hero Xtreme GodLike HX-GODL,Vasista Esports VASISTA,Vasista Esports VASISTA,0,1,0.5776595873252426
+4,Hero Xtreme GodLike HX-GODL,Victores Sumus V-SUMUS,Vasista Esports VASISTA,0,0,0.4698098890977723
+4,Hero Xtreme GodLike HX-GODL,Welt Esports WELT,Vasista Esports VASISTA,0,0,0.4927388994090215
+4,Hero Xtreme GodLike HX-GODL,Wyld Fangs WYLD-F,Vasista Esports VASISTA,0,1,0.6072757662741712
+4,Hero Xtreme GodLike HX-GODL,iQOO Orangutan IQ-OG,Vasista Esports VASISTA,0,0,0.46309656350019385
+4,Hero Xtreme GodLike HX-GODL,iQOO Reckoning Esports IQ-RGE,Vasista Esports VASISTA,0,1,0.5928067874517288
+4,Hero Xtreme GodLike HX-GODL,iQOO Revenant XSpark IQ-RNTX,Vasista Esports VASISTA,0,0,0.40012408971023816
+4,Hero Xtreme GodLike HX-GODL,iQOO SouL IQ-SOUL,Vasista Esports VASISTA,0,0,0.49655962619757227
+4,Hero Xtreme GodLike HX-GODL,iQOO Team Tamilas IQ-TT,Vasista Esports VASISTA,0,0,0.4194825706012438
+4,K9 Esports K9,Learn From Past LEFP,Vasista Esports VASISTA,0,0,0.30545138375838177
+4,K9 Esports K9,Meta Ninza META-N,Vasista Esports VASISTA,0,0,0.4899844593354898
+4,K9 Esports K9,Myth Official MYTH,Vasista Esports VASISTA,0,0,0.42604448202994694
+4,K9 Esports K9,Nebula Esports NEBULA,Vasista Esports VASISTA,0,0,0.44011277816710015
+4,K9 Esports K9,Vasista Esports VASISTA,Vasista Esports VASISTA,0,0,0.4316158220721522
+4,K9 Esports K9,Victores Sumus V-SUMUS,Vasista Esports VASISTA,0,0,0.32974418849720744
+4,K9 Esports K9,Welt Esports WELT,Vasista Esports VASISTA,0,0,0.3503545287409521
+4,K9 Esports K9,Wyld Fangs WYLD-F,Vasista Esports VASISTA,0,0,0.4619339437116209
+4,K9 Esports K9,iQOO Orangutan IQ-OG,Vasista Esports VASISTA,0,0,0.3238099458269387
+4,K9 Esports K9,iQOO Reckoning Esports IQ-RGE,Vasista Esports VASISTA,0,0,0.44698649706709326
+4,K9 Esports K9,iQOO Revenant XSpark IQ-RNTX,Vasista Esports VASISTA,0,0,0.27024441866507215
+4,K9 Esports K9,iQOO SouL IQ-SOUL,Vasista Esports VASISTA,0,0,0.3538413364724471
+4,K9 Esports K9,iQOO Team Tamilas IQ-TT,Vasista Esports VASISTA,0,0,0.28631836688379797
+4,Learn From Past LEFP,Meta Ninza META-N,Vasista Esports VASISTA,0,1,0.7145276427436642
+4,Learn From Past LEFP,Myth Official MYTH,Vasista Esports VASISTA,0,1,0.659156119276613
+4,Learn From Past LEFP,Nebula Esports NEBULA,Vasista Esports VASISTA,0,1,0.6719107047866453
+4,Learn From Past LEFP,Vasista Esports VASISTA,Vasista Esports VASISTA,0,1,0.6642479008610128
+4,Learn From Past LEFP,Victores Sumus V-SUMUS,Vasista Esports VASISTA,0,1,0.5617338346444851
+4,Learn From Past LEFP,Welt Esports WELT,Vasista Esports VASISTA,0,1,0.5842057778864174
+4,Learn From Past LEFP,Wyld Fangs WYLD-F,Vasista Esports VASISTA,0,1,0.6910397186811547
+4,Learn From Past LEFP,iQOO Orangutan IQ-OG,Vasista Esports VASISTA,0,1,0.5550821789933247
+4,Learn From Past LEFP,iQOO Reckoning Esports IQ-RGE,Vasista Esports VASISTA,0,1,0.6780205715467212
+4,Learn From Past LEFP,iQOO Revenant XSpark IQ-RNTX,Vasista Esports VASISTA,0,0,0.4910412465524786
+4,Learn From Past LEFP,iQOO SouL IQ-SOUL,Vasista Esports VASISTA,0,1,0.5879137381993048
+4,Learn From Past LEFP,iQOO Team Tamilas IQ-TT,Vasista Esports VASISTA,0,1,0.511051049126463
+4,Meta Ninza META-N,Myth Official MYTH,Vasista Esports VASISTA,0,0,0.46957061548677814
+4,Meta Ninza META-N,Nebula Esports NEBULA,Vasista Esports VASISTA,0,0,0.48386451201432934
+4,Meta Ninza META-N,Vasista Esports VASISTA,Vasista Esports VASISTA,0,0,0.4752398510132624
+4,Meta Ninza META-N,Victores Sumus V-SUMUS,Vasista Esports VASISTA,0,0,0.369770315994102
+4,Meta Ninza META-N,Welt Esports WELT,Vasista Esports VASISTA,0,0,0.3914214323525526
+4,Meta Ninza META-N,Wyld Fangs WYLD-F,Vasista Esports VASISTA,0,1,0.5058948675701619
+4,Meta Ninza META-N,iQOO Orangutan IQ-OG,Vasista Esports VASISTA,0,0,0.3635064067863889
+4,Meta Ninza META-N,iQOO Reckoning Esports IQ-RGE,Vasista Esports VASISTA,0,0,0.49082252141523075
+4,Meta Ninza META-N,iQOO Revenant XSpark IQ-RNTX,Vasista Esports VASISTA,0,0,0.3063492375526732
+4,Meta Ninza META-N,iQOO SouL IQ-SOUL,Vasista Esports VASISTA,0,0,0.3950684004650888
+4,Meta Ninza META-N,iQOO Team Tamilas IQ-TT,Vasista Esports VASISTA,0,0,0.32361834669332334
+4,Myth Official MYTH,Nebula Esports NEBULA,Vasista Esports VASISTA,0,1,0.5481939732208955
+4,Myth Official MYTH,Vasista Esports VASISTA,Vasista Esports VASISTA,0,1,0.539621488549186
+4,Myth Official MYTH,Victores Sumus V-SUMUS,Vasista Esports VASISTA,0,0,0.4316158220721523
+4,Myth Official MYTH,Welt Esports WELT,Vasista Esports VASISTA,0,0,0.4542779383535332
+4,Myth Official MYTH,Wyld Fangs WYLD-F,Vasista Esports VASISTA,0,1,0.5699191220704275
+4,Myth Official MYTH,iQOO Orangutan IQ-OG,Vasista Esports VASISTA,0,0,0.4250107670131741
+4,Myth Official MYTH,iQOO Reckoning Esports IQ-RGE,Vasista Esports VASISTA,0,1,0.5550821789933247
+4,Myth Official MYTH,iQOO Revenant XSpark IQ-RNTX,Vasista Esports VASISTA,0,0,0.363708922874718
+4,Myth Official MYTH,iQOO SouL IQ-SOUL,Vasista Esports VASISTA,0,0,0.4580697445952034
+4,Myth Official MYTH,iQOO Team Tamilas IQ-TT,Vasista Esports VASISTA,0,0,0.38242877106070633
+4,Nebula Esports NEBULA,Vasista Esports VASISTA,Vasista Esports VASISTA,0,1,0.5253570203404422
+4,Nebula Esports NEBULA,Victores Sumus V-SUMUS,Vasista Esports VASISTA,0,0,0.4176165428823096
+4,Nebula Esports NEBULA,Welt Esports WELT,Vasista Esports VASISTA,0,0,0.4401127781671002
+4,Nebula Esports NEBULA,Wyld Fangs WYLD-F,Vasista Esports VASISTA,0,1,0.5558206891319746
+4,Nebula Esports NEBULA,iQOO Orangutan IQ-OG,Vasista Esports VASISTA,0,0,0.41107078151464493
+4,Nebula Esports NEBULA,iQOO Reckoning Esports IQ-RGE,Vasista Esports VASISTA,0,1,0.54088918240624
+4,Nebula Esports NEBULA,iQOO Revenant XSpark IQ-RNTX,Vasista Esports VASISTA,0,0,0.35055375316248216
+4,Nebula Esports NEBULA,iQOO SouL IQ-SOUL,Vasista Esports VASISTA,0,0,0.44388252007057577
+4,Nebula Esports NEBULA,iQOO Team Tamilas IQ-TT,Vasista Esports VASISTA,0,0,0.3689891610926241
+4,Vasista Esports VASISTA,Victores Sumus V-SUMUS,Vasista Esports VASISTA,1,0,0.42604448202994694
+4,Vasista Esports VASISTA,Welt Esports WELT,Vasista Esports VASISTA,1,0,0.44864497327870173
+4,Vasista Esports VASISTA,Wyld Fangs WYLD-F,Vasista Esports VASISTA,1,1,0.5643350642031566
+4,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,Vasista Esports VASISTA,1,0,0.4194617656163658
+4,Vasista Esports VASISTA,iQOO Reckoning Esports IQ-RGE,Vasista Esports VASISTA,1,1,0.5494577704098276
+4,Vasista Esports VASISTA,iQOO Revenant XSpark IQ-RNTX,Vasista Esports VASISTA,1,0,0.358461321039889
+4,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,Vasista Esports VASISTA,1,0,0.4524287416576106
+4,Vasista Esports VASISTA,iQOO Team Tamilas IQ-TT,Vasista Esports VASISTA,1,0,0.37707113651428903
+4,Victores Sumus V-SUMUS,Welt Esports WELT,Vasista Esports VASISTA,0,1,0.556737954048532
+4,Victores Sumus V-SUMUS,Wyld Fangs WYLD-F,Vasista Esports VASISTA,0,1,0.666601805818037
+4,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,Vasista Esports VASISTA,0,1,0.5272473120169267
+4,Victores Sumus V-SUMUS,iQOO Reckoning Esports IQ-RGE,Vasista Esports VASISTA,0,1,0.6530698707930477
+4,Victores Sumus V-SUMUS,iQOO Revenant XSpark IQ-RNTX,Vasista Esports VASISTA,0,0,0.4630753209046398
+4,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,Vasista Esports VASISTA,0,1,0.5605065908842802
+4,Victores Sumus V-SUMUS,iQOO Team Tamilas IQ-TT,Vasista Esports VASISTA,0,0,0.4830270600980209
+4,Welt Esports WELT,Wyld Fangs WYLD-F,Vasista Esports VASISTA,0,1,0.6458837408290793
+4,Welt Esports WELT,iQOO Orangutan IQ-OG,Vasista Esports VASISTA,0,1,0.5043089562718296
+4,Welt Esports WELT,iQOO Reckoning Esports IQ-RGE,Vasista Esports VASISTA,0,1,0.6319751578063979
+4,Welt Esports WELT,iQOO Revenant XSpark IQ-RNTX,Vasista Esports VASISTA,0,0,0.44032844772002977
+4,Welt Esports WELT,iQOO SouL IQ-SOUL,Vasista Esports VASISTA,0,1,0.5377672278757877
+4,Welt Esports WELT,iQOO Team Tamilas IQ-TT,Vasista Esports VASISTA,0,0,0.4601400308593361
+4,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,Vasista Esports VASISTA,0,0,0.3899111950071298
+4,Wyld Fangs WYLD-F,iQOO Reckoning Esports IQ-RGE,Vasista Esports VASISTA,0,1,0.5189354078267862
+4,Wyld Fangs WYLD-F,iQOO Revenant XSpark IQ-RNTX,Vasista Esports VASISTA,0,0,0.3307597241327571
+4,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,Vasista Esports VASISTA,0,0,0.4222449076577238
+4,Wyld Fangs WYLD-F,iQOO Team Tamilas IQ-TT,Vasista Esports VASISTA,0,0,0.3487131061207986
+4,iQOO Orangutan IQ-OG,iQOO Reckoning Esports IQ-RGE,Vasista Esports VASISTA,0,1,0.6591561192766131
+4,iQOO Orangutan IQ-OG,iQOO Revenant XSpark IQ-RNTX,Vasista Esports VASISTA,0,0,0.469788608007953
+4,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,Vasista Esports VASISTA,0,1,0.5671403900189399
+4,iQOO Orangutan IQ-OG,iQOO Team Tamilas IQ-TT,Vasista Esports VASISTA,0,0,0.48976575194947736
+4,iQOO Reckoning Esports IQ-RGE,iQOO Revenant XSpark IQ-RNTX,Vasista Esports VASISTA,0,0,0.3442398715205963
+4,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,Vasista Esports VASISTA,0,0,0.43701881311039814
+4,iQOO Reckoning Esports IQ-RGE,iQOO Team Tamilas IQ-TT,Vasista Esports VASISTA,0,0,0.36252858670545
+4,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,Vasista Esports VASISTA,0,1,0.6288435567262058
+4,iQOO Revenant XSpark IQ-RNTX,iQOO Team Tamilas IQ-TT,Vasista Esports VASISTA,0,1,0.553821347297665
+4,iQOO SouL IQ-SOUL,iQOO Team Tamilas IQ-TT,Vasista Esports VASISTA,0,0,0.4563455181810915
+5,Genesis Esports GENs,Hero Xtreme GodLike HX-GODL,Hero Xtreme GodLike HX-GODL,0,1,0.6108792691775525
+5,Genesis Esports GENs,K9 Esports K9,Hero Xtreme GodLike HX-GODL,0,1,0.7513563624173714
+5,Genesis Esports GENs,Learn From Past LEFP,Hero Xtreme GodLike HX-GODL,0,1,0.5773266779228403
+5,Genesis Esports GENs,Meta Ninza META-N,Hero Xtreme GodLike HX-GODL,0,1,0.6477086303605798
+5,Genesis Esports GENs,Myth Official MYTH,Hero Xtreme GodLike HX-GODL,0,1,0.6525510357851718
+5,Genesis Esports GENs,Nebula Esports NEBULA,Hero Xtreme GodLike HX-GODL,0,1,0.6393728080686192
+5,Genesis Esports GENs,Vasista Esports VASISTA,Hero Xtreme GodLike HX-GODL,0,1,0.7261693710183329
+5,Genesis Esports GENs,Victores Sumus V-SUMUS,Hero Xtreme GodLike HX-GODL,0,1,0.558071986762595
+5,Genesis Esports GENs,Welt Esports WELT,Hero Xtreme GodLike HX-GODL,0,1,0.6585310934230033
+5,Genesis Esports GENs,Wyld Fangs WYLD-F,Hero Xtreme GodLike HX-GODL,0,0,0.48044635112263834
+5,Genesis Esports GENs,iQOO Orangutan IQ-OG,Hero Xtreme GodLike HX-GODL,0,1,0.5411787120633186
+5,Genesis Esports GENs,iQOO Reckoning Esports IQ-RGE,Hero Xtreme GodLike HX-GODL,0,1,0.6704634837908875
+5,Genesis Esports GENs,iQOO Revenant XSpark IQ-RNTX,Hero Xtreme GodLike HX-GODL,0,0,0.46221818691925215
+5,Genesis Esports GENs,iQOO SouL IQ-SOUL,Hero Xtreme GodLike HX-GODL,0,1,0.5279082355460646
+5,Genesis Esports GENs,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,0,0,0.46757750592962677
+5,Hero Xtreme GodLike HX-GODL,K9 Esports K9,Hero Xtreme GodLike HX-GODL,1,1,0.688029298766632
+5,Hero Xtreme GodLike HX-GODL,Learn From Past LEFP,Hero Xtreme GodLike HX-GODL,1,0,0.49921786714181654
+5,Hero Xtreme GodLike HX-GODL,Meta Ninza META-N,Hero Xtreme GodLike HX-GODL,1,1,0.572986162648916
+5,Hero Xtreme GodLike HX-GODL,Myth Official MYTH,Hero Xtreme GodLike HX-GODL,1,1,0.5781867783737082
+5,Hero Xtreme GodLike HX-GODL,Nebula Esports NEBULA,Hero Xtreme GodLike HX-GODL,1,1,0.5640722380659128
+5,Hero Xtreme GodLike HX-GODL,Vasista Esports VASISTA,Hero Xtreme GodLike HX-GODL,1,1,0.6593359282079391
+5,Hero Xtreme GodLike HX-GODL,Victores Sumus V-SUMUS,Hero Xtreme GodLike HX-GODL,1,0,0.47961224688289233
+5,Hero Xtreme GodLike HX-GODL,Welt Esports WELT,Hero Xtreme GodLike HX-GODL,1,1,0.5846320446986794
+5,Hero Xtreme GodLike HX-GODL,Wyld Fangs WYLD-F,Hero Xtreme GodLike HX-GODL,1,0,0.4029491959033021
+5,Hero Xtreme GodLike HX-GODL,iQOO Orangutan IQ-OG,Hero Xtreme GodLike HX-GODL,1,0,0.4626078333817421
+5,Hero Xtreme GodLike HX-GODL,iQOO Reckoning Esports IQ-RGE,Hero Xtreme GodLike HX-GODL,1,1,0.597568699491674
+5,Hero Xtreme GodLike HX-GODL,iQOO Revenant XSpark IQ-RNTX,Hero Xtreme GodLike HX-GODL,1,0,0.38547977966083413
+5,Hero Xtreme GodLike HX-GODL,iQOO SouL IQ-SOUL,Hero Xtreme GodLike HX-GODL,1,0,0.4493770150091457
+5,Hero Xtreme GodLike HX-GODL,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,1,0,0.3905955776553632
+5,K9 Esports K9,Learn From Past LEFP,Hero Xtreme GodLike HX-GODL,0,0,0.34119392549985506
+5,K9 Esports K9,Meta Ninza META-N,Hero Xtreme GodLike HX-GODL,0,0,0.41076482734729336
+5,K9 Esports K9,Myth Official MYTH,Hero Xtreme GodLike HX-GODL,0,0,0.4159272155730656
+5,K9 Esports K9,Nebula Esports NEBULA,Hero Xtreme GodLike HX-GODL,0,0,0.4019987431163002
+5,K9 Esports K9,Vasista Esports VASISTA,Hero Xtreme GodLike HX-GODL,0,1,0.5013716519043016
+5,K9 Esports K9,Victores Sumus V-SUMUS,Hero Xtreme GodLike HX-GODL,0,0,0.3237818100421062
+5,K9 Esports K9,Welt Esports WELT,Hero Xtreme GodLike HX-GODL,0,0,0.42237489037827475
+5,K9 Esports K9,Wyld Fangs WYLD-F,Hero Xtreme GodLike HX-GODL,0,0,0.2596013845985032
+5,K9 Esports K9,iQOO Orangutan IQ-OG,Hero Xtreme GodLike HX-GODL,0,0,0.30902144573933776
+5,K9 Esports K9,iQOO Reckoning Esports IQ-RGE,Hero Xtreme GodLike HX-GODL,0,0,0.43548543889015245
+5,K9 Esports K9,iQOO Revenant XSpark IQ-RNTX,Hero Xtreme GodLike HX-GODL,0,0,0.24578825075715205
+5,K9 Esports K9,iQOO SouL IQ-SOUL,Hero Xtreme GodLike HX-GODL,0,0,0.2977494689700351
+5,K9 Esports K9,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,0,0,0.24980377430812334
+5,Learn From Past LEFP,Meta Ninza META-N,Hero Xtreme GodLike HX-GODL,0,1,0.6066485533749181
+5,Learn From Past LEFP,Myth Official MYTH,Hero Xtreme GodLike HX-GODL,0,1,0.6117170127602889
+5,Learn From Past LEFP,Nebula Esports NEBULA,Hero Xtreme GodLike HX-GODL,0,1,0.5979442557755076
+5,Learn From Past LEFP,Vasista Esports VASISTA,Hero Xtreme GodLike HX-GODL,0,1,0.6898754965642209
+5,Learn From Past LEFP,Victores Sumus V-SUMUS,Hero Xtreme GodLike HX-GODL,0,1,0.5143972070983183
+5,Learn From Past LEFP,Welt Esports WELT,Hero Xtreme GodLike HX-GODL,0,1,0.6179884456673366
+5,Learn From Past LEFP,Wyld Fangs WYLD-F,Hero Xtreme GodLike HX-GODL,0,0,0.43684149362239616
+5,Learn From Past LEFP,iQOO Orangutan IQ-OG,Hero Xtreme GodLike HX-GODL,0,0,0.49733816765306765
+5,Learn From Past LEFP,iQOO Reckoning Esports IQ-RGE,Hero Xtreme GodLike HX-GODL,0,1,0.6305427365094479
+5,Learn From Past LEFP,iQOO Revenant XSpark IQ-RNTX,Hero Xtreme GodLike HX-GODL,0,0,0.4189337249794119
+5,Learn From Past LEFP,iQOO SouL IQ-SOUL,Hero Xtreme GodLike HX-GODL,0,0,0.4840086762827336
+5,Learn From Past LEFP,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,0,0,0.42418703398286667
+5,Meta Ninza META-N,Myth Official MYTH,Hero Xtreme GodLike HX-GODL,0,1,0.5392594375425256
+5,Meta Ninza META-N,Nebula Esports NEBULA,Hero Xtreme GodLike HX-GODL,0,1,0.5249126292770248
+5,Meta Ninza META-N,Vasista Esports VASISTA,Hero Xtreme GodLike HX-GODL,0,1,0.6230146292033637
+5,Meta Ninza META-N,Victores Sumus V-SUMUS,Hero Xtreme GodLike HX-GODL,0,0,0.4403925837736043
+5,Meta Ninza META-N,Welt Esports WELT,Hero Xtreme GodLike HX-GODL,0,1,0.5458322877215169
+5,Meta Ninza META-N,Wyld Fangs WYLD-F,Hero Xtreme GodLike HX-GODL,0,0,0.3655943025109024
+5,Meta Ninza META-N,iQOO Orangutan IQ-OG,Hero Xtreme GodLike HX-GODL,0,0,0.4236466694303262
+5,Meta Ninza META-N,iQOO Reckoning Esports IQ-RGE,Hero Xtreme GodLike HX-GODL,0,1,0.5590659628172364
+5,Meta Ninza META-N,iQOO Revenant XSpark IQ-RNTX,Hero Xtreme GodLike HX-GODL,0,0,0.3487982628614379
+5,Meta Ninza META-N,iQOO SouL IQ-SOUL,Hero Xtreme GodLike HX-GODL,0,0,0.41067859785986593
+5,Meta Ninza META-N,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,0,0,0.3537074506624682
+5,Myth Official MYTH,Nebula Esports NEBULA,Hero Xtreme GodLike HX-GODL,0,1,0.5196009255412699
+5,Myth Official MYTH,Vasista Esports VASISTA,Hero Xtreme GodLike HX-GODL,0,1,0.6180015507126788
+5,Myth Official MYTH,Victores Sumus V-SUMUS,Hero Xtreme GodLike HX-GODL,0,0,0.43515277233814237
+5,Myth Official MYTH,Welt Esports WELT,Hero Xtreme GodLike HX-GODL,0,1,0.5405497528642206
+5,Myth Official MYTH,Wyld Fangs WYLD-F,Hero Xtreme GodLike HX-GODL,0,0,0.36067086334289555
+5,Myth Official MYTH,iQOO Orangutan IQ-OG,Hero Xtreme GodLike HX-GODL,0,0,0.41845711341172914
+5,Myth Official MYTH,iQOO Reckoning Esports IQ-RGE,Hero Xtreme GodLike HX-GODL,0,1,0.5538115274027712
+5,Myth Official MYTH,iQOO Revenant XSpark IQ-RNTX,Hero Xtreme GodLike HX-GODL,0,0,0.3439783728219399
+5,Myth Official MYTH,iQOO SouL IQ-SOUL,Hero Xtreme GodLike HX-GODL,0,0,0.4055361227262868
+5,Myth Official MYTH,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,0,0,0.34885606424086923
+5,Nebula Esports NEBULA,Vasista Esports VASISTA,Hero Xtreme GodLike HX-GODL,0,1,0.6315106480787879
+5,Nebula Esports NEBULA,Victores Sumus V-SUMUS,Hero Xtreme GodLike HX-GODL,0,0,0.44936676222408456
+5,Nebula Esports NEBULA,Welt Esports WELT,Hero Xtreme GodLike HX-GODL,0,1,0.5548248289475194
+5,Nebula Esports NEBULA,Wyld Fangs WYLD-F,Hero Xtreme GodLike HX-GODL,0,0,0.37406310975539997
+5,Nebula Esports NEBULA,iQOO Orangutan IQ-OG,Hero Xtreme GodLike HX-GODL,0,0,0.43254336552716527
+5,Nebula Esports NEBULA,iQOO Reckoning Esports IQ-RGE,Hero Xtreme GodLike HX-GODL,0,1,0.5680038568820659
+5,Nebula Esports NEBULA,iQOO Revenant XSpark IQ-RNTX,Hero Xtreme GodLike HX-GODL,0,0,0.35709700072316514
+5,Nebula Esports NEBULA,iQOO SouL IQ-SOUL,Hero Xtreme GodLike HX-GODL,0,0,0.41950117965359274
+5,Nebula Esports NEBULA,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,0,0,0.362058050080315
+5,Vasista Esports VASISTA,Victores Sumus V-SUMUS,Hero Xtreme GodLike HX-GODL,0,0,0.3530041480004227
+5,Vasista Esports VASISTA,Welt Esports WELT,Hero Xtreme GodLike HX-GODL,0,0,0.4545146203169912
+5,Vasista Esports VASISTA,Wyld Fangs WYLD-F,Hero Xtreme GodLike HX-GODL,0,0,0.2854766289176575
+5,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,Hero Xtreme GodLike HX-GODL,0,0,0.33757664985744074
+5,Vasista Esports VASISTA,iQOO Reckoning Esports IQ-RGE,Hero Xtreme GodLike HX-GODL,0,0,0.46781482280618003
+5,Vasista Esports VASISTA,iQOO Revenant XSpark IQ-RNTX,Hero Xtreme GodLike HX-GODL,0,0,0.27079024243416383
+5,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,Hero Xtreme GodLike HX-GODL,0,0,0.32575412915698243
+5,Vasista Esports VASISTA,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,0,0,0.27506526199230424
+5,Victores Sumus V-SUMUS,Welt Esports WELT,Hero Xtreme GodLike HX-GODL,0,1,0.636333747169782
+5,Victores Sumus V-SUMUS,Wyld Fangs WYLD-F,Hero Xtreme GodLike HX-GODL,0,0,0.4562315635394569
+5,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,Hero Xtreme GodLike HX-GODL,0,1,0.5169485767099208
+5,Victores Sumus V-SUMUS,iQOO Reckoning Esports IQ-RGE,Hero Xtreme GodLike HX-GODL,0,1,0.6486279340231631
+5,Victores Sumus V-SUMUS,iQOO Revenant XSpark IQ-RNTX,Hero Xtreme GodLike HX-GODL,0,0,0.43814734756313783
+5,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,Hero Xtreme GodLike HX-GODL,0,1,0.5036200873070215
+5,Victores Sumus V-SUMUS,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,0,0,0.443457714581887
+5,Welt Esports WELT,Wyld Fangs WYLD-F,Hero Xtreme GodLike HX-GODL,0,0,0.3545868956189275
+5,Welt Esports WELT,iQOO Orangutan IQ-OG,Hero Xtreme GodLike HX-GODL,0,0,0.41202658430345246
+5,Welt Esports WELT,iQOO Reckoning Esports IQ-RGE,Hero Xtreme GodLike HX-GODL,0,1,0.5472583717651915
+5,Welt Esports WELT,iQOO Revenant XSpark IQ-RNTX,Hero Xtreme GodLike HX-GODL,0,0,0.3380271062036023
+5,Welt Esports WELT,iQOO SouL IQ-SOUL,Hero Xtreme GodLike HX-GODL,0,0,0.3991678630895452
+5,Welt Esports WELT,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,0,0,0.3428645132395546
+5,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,Hero Xtreme GodLike HX-GODL,0,1,0.5937321825538019
+5,Wyld Fangs WYLD-F,iQOO Reckoning Esports IQ-RGE,Hero Xtreme GodLike HX-GODL,0,1,0.715980299306642
+5,Wyld Fangs WYLD-F,iQOO Revenant XSpark IQ-RNTX,Hero Xtreme GodLike HX-GODL,0,1,0.5157225891921887
+5,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,Hero Xtreme GodLike HX-GODL,0,1,0.5808043184332659
+5,Wyld Fangs WYLD-F,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,0,1,0.5211011506043988
+5,iQOO Orangutan IQ-OG,iQOO Reckoning Esports IQ-RGE,Hero Xtreme GodLike HX-GODL,0,1,0.6640211443123418
+5,iQOO Orangutan IQ-OG,iQOO Revenant XSpark IQ-RNTX,Hero Xtreme GodLike HX-GODL,0,0,0.45501393387726485
+5,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,Hero Xtreme GodLike HX-GODL,0,1,0.5206714066563148
+5,iQOO Orangutan IQ-OG,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,0,0,0.46036122742262686
+5,iQOO Reckoning Esports IQ-RGE,iQOO Revenant XSpark IQ-RNTX,Hero Xtreme GodLike HX-GODL,0,0,0.32615541950059945
+5,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,Hero Xtreme GodLike HX-GODL,0,0,0.38640228572917285
+5,iQOO Reckoning Esports IQ-RGE,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,0,0,0.33090786024982877
+5,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,Hero Xtreme GodLike HX-GODL,0,1,0.5985044336672711
+5,iQOO Revenant XSpark IQ-RNTX,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,0,1,0.5393226614732328
+5,iQOO SouL IQ-SOUL,iQOO Team Tamilas IQ-TT,Hero Xtreme GodLike HX-GODL,0,0,0.47363726267889794
+6,Genesis Esports GENs,Hero Xtreme GodLike HX-GODL,Victores Sumus V-SUMUS,0,1,0.6653560470439256
+6,Genesis Esports GENs,K9 Esports K9,Victores Sumus V-SUMUS,0,1,0.6964146915875054
+6,Genesis Esports GENs,Learn From Past LEFP,Victores Sumus V-SUMUS,0,1,0.5792897967070897
+6,Genesis Esports GENs,Meta Ninza META-N,Victores Sumus V-SUMUS,0,1,0.5699206130956143
+6,Genesis Esports GENs,Myth Official MYTH,Victores Sumus V-SUMUS,0,1,0.6220410425566167
+6,Genesis Esports GENs,Nebula Esports NEBULA,Victores Sumus V-SUMUS,0,1,0.6068961189256815
+6,Genesis Esports GENs,Vasista Esports VASISTA,Victores Sumus V-SUMUS,0,1,0.6808512176906745
+6,Genesis Esports GENs,Victores Sumus V-SUMUS,Victores Sumus V-SUMUS,0,1,0.5681244727739065
+6,Genesis Esports GENs,Welt Esports WELT,Victores Sumus V-SUMUS,0,1,0.6116844237136053
+6,Genesis Esports GENs,Wyld Fangs WYLD-F,Victores Sumus V-SUMUS,0,1,0.5287383500551963
+6,Genesis Esports GENs,iQOO Orangutan IQ-OG,Victores Sumus V-SUMUS,0,0,0.4856613243919192
+6,Genesis Esports GENs,iQOO Reckoning Esports IQ-RGE,Victores Sumus V-SUMUS,0,1,0.6213100962208805
+6,Genesis Esports GENs,iQOO Revenant XSpark IQ-RNTX,Victores Sumus V-SUMUS,0,0,0.4095836587041038
+6,Genesis Esports GENs,iQOO SouL IQ-SOUL,Victores Sumus V-SUMUS,0,0,0.45187297317742675
+6,Genesis Esports GENs,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,0,0,0.4909493000512235
+6,Hero Xtreme GodLike HX-GODL,K9 Esports K9,Victores Sumus V-SUMUS,0,1,0.5693255525745344
+6,Hero Xtreme GodLike HX-GODL,Learn From Past LEFP,Victores Sumus V-SUMUS,0,0,0.44242549140801574
+6,Hero Xtreme GodLike HX-GODL,Meta Ninza META-N,Victores Sumus V-SUMUS,0,0,0.4329916882503079
+6,Hero Xtreme GodLike HX-GODL,Myth Official MYTH,Victores Sumus V-SUMUS,0,0,0.4867625365213931
+6,Hero Xtreme GodLike HX-GODL,Nebula Esports NEBULA,Victores Sumus V-SUMUS,0,0,0.47080849473356573
+6,Hero Xtreme GodLike HX-GODL,Vasista Esports VASISTA,Victores Sumus V-SUMUS,0,1,0.5514432474615045
+6,Hero Xtreme GodLike HX-GODL,Victores Sumus V-SUMUS,Victores Sumus V-SUMUS,0,0,0.4311944290994582
+6,Hero Xtreme GodLike HX-GODL,Welt Esports WELT,Victores Sumus V-SUMUS,0,0,0.475822734375255
+6,Hero Xtreme GodLike HX-GODL,Wyld Fangs WYLD-F,Victores Sumus V-SUMUS,0,0,0.39267006660488196
+6,Hero Xtreme GodLike HX-GODL,iQOO Orangutan IQ-OG,Victores Sumus V-SUMUS,0,0,0.35238931980495614
+6,Hero Xtreme GodLike HX-GODL,iQOO Reckoning Esports IQ-RGE,Victores Sumus V-SUMUS,0,0,0.4859861558981238
+6,Hero Xtreme GodLike HX-GODL,iQOO Revenant XSpark IQ-RNTX,Victores Sumus V-SUMUS,0,0,0.2855961908956554
+6,Hero Xtreme GodLike HX-GODL,iQOO SouL IQ-SOUL,Victores Sumus V-SUMUS,0,0,0.32206704738988085
+6,Hero Xtreme GodLike HX-GODL,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,0,0,0.3572340598793027
+6,K9 Esports K9,Learn From Past LEFP,Victores Sumus V-SUMUS,0,0,0.4074899519397063
+6,K9 Esports K9,Meta Ninza META-N,Victores Sumus V-SUMUS,0,0,0.398268983293446
+6,K9 Esports K9,Myth Official MYTH,Victores Sumus V-SUMUS,0,0,0.45115881187116447
+6,K9 Esports K9,Nebula Esports NEBULA,Victores Sumus V-SUMUS,0,0,0.4353817895108946
+6,K9 Esports K9,Vasista Esports VASISTA,Victores Sumus V-SUMUS,0,1,0.5158637316407794
+6,K9 Esports K9,Victores Sumus V-SUMUS,Victores Sumus V-SUMUS,0,0,0.396515061503309
+6,K9 Esports K9,Welt Esports WELT,Victores Sumus V-SUMUS,0,0,0.4403326743867156
+6,K9 Esports K9,Wyld Fangs WYLD-F,Victores Sumus V-SUMUS,0,0,0.3591328187627353
+6,K9 Esports K9,iQOO Orangutan IQ-OG,Victores Sumus V-SUMUS,0,0,0.3204769911247042
+6,K9 Esports K9,iQOO Reckoning Esports IQ-RGE,Victores Sumus V-SUMUS,0,0,0.4503893851188847
+6,K9 Esports K9,iQOO Revenant XSpark IQ-RNTX,Victores Sumus V-SUMUS,0,0,0.2573291477028177
+6,K9 Esports K9,iQOO SouL IQ-SOUL,Victores Sumus V-SUMUS,0,0,0.2916639939788177
+6,K9 Esports K9,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,0,0,0.32510324099258875
+6,Learn From Past LEFP,Meta Ninza META-N,Victores Sumus V-SUMUS,0,1,0.5244158440770529
+6,Learn From Past LEFP,Myth Official MYTH,Victores Sumus V-SUMUS,0,1,0.5779672564892459
+6,Learn From Past LEFP,Nebula Esports NEBULA,Victores Sumus V-SUMUS,0,1,0.5622989694254454
+6,Learn From Past LEFP,Vasista Esports VASISTA,Victores Sumus V-SUMUS,0,1,0.6396626520812289
+6,Learn From Past LEFP,Victores Sumus V-SUMUS,Victores Sumus V-SUMUS,0,1,0.5225888562268937
+6,Learn From Past LEFP,Welt Esports WELT,Victores Sumus V-SUMUS,0,1,0.5672431447029117
+6,Learn From Past LEFP,Wyld Fangs WYLD-F,Victores Sumus V-SUMUS,0,0,0.482830275753245
+6,Learn From Past LEFP,iQOO Orangutan IQ-OG,Victores Sumus V-SUMUS,0,0,0.4400013490976588
+6,Learn From Past LEFP,iQOO Reckoning Esports IQ-RGE,Victores Sumus V-SUMUS,0,1,0.5772090077670703
+6,Learn From Past LEFP,iQOO Revenant XSpark IQ-RNTX,Victores Sumus V-SUMUS,0,0,0.365986703571887
+6,Learn From Past LEFP,iQOO SouL IQ-SOUL,Victores Sumus V-SUMUS,0,0,0.40687670241132423
+6,Learn From Past LEFP,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,0,0,0.4452225177515233
+6,Meta Ninza META-N,Myth Official MYTH,Victores Sumus V-SUMUS,0,1,0.5872880863589315
+6,Meta Ninza META-N,Nebula Esports NEBULA,Victores Sumus V-SUMUS,0,1,0.5717094143207729
+6,Meta Ninza META-N,Vasista Esports VASISTA,Victores Sumus V-SUMUS,0,1,0.648449696302141
+6,Meta Ninza META-N,Victores Sumus V-SUMUS,Victores Sumus V-SUMUS,0,1,0.5321426948172215
+6,Meta Ninza META-N,Welt Esports WELT,Victores Sumus V-SUMUS,0,1,0.5766273266417004
+6,Meta Ninza META-N,Wyld Fangs WYLD-F,Victores Sumus V-SUMUS,0,0,0.49240694538696644
+6,Meta Ninza META-N,iQOO Orangutan IQ-OG,Victores Sumus V-SUMUS,0,0,0.4494668119016988
+6,Meta Ninza META-N,iQOO Reckoning Esports IQ-RGE,Victores Sumus V-SUMUS,0,1,0.5865346040061814
+6,Meta Ninza META-N,iQOO Revenant XSpark IQ-RNTX,Victores Sumus V-SUMUS,0,0,0.3749259542144452
+6,Meta Ninza META-N,iQOO SouL IQ-SOUL,Victores Sumus V-SUMUS,0,0,0.4161591318177831
+6,Meta Ninza META-N,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,0,0,0.45470909860807085
+6,Myth Official MYTH,Nebula Esports NEBULA,Victores Sumus V-SUMUS,0,1,0.5180261193336464
+6,Myth Official MYTH,Vasista Esports VASISTA,Victores Sumus V-SUMUS,0,1,0.5976152468219083
+6,Myth Official MYTH,Victores Sumus V-SUMUS,Victores Sumus V-SUMUS,0,0,0.47802794231613843
+6,Myth Official MYTH,Welt Esports WELT,Victores Sumus V-SUMUS,0,1,0.5230461987436419
+6,Myth Official MYTH,Wyld Fangs WYLD-F,Victores Sumus V-SUMUS,0,0,0.43854535590472027
+6,Myth Official MYTH,iQOO Orangutan IQ-OG,Victores Sumus V-SUMUS,0,0,0.3966319927686006
+6,Myth Official MYTH,iQOO Reckoning Esports IQ-RGE,Victores Sumus V-SUMUS,0,1,0.5331922726233096
+6,Myth Official MYTH,iQOO Revenant XSpark IQ-RNTX,Victores Sumus V-SUMUS,0,0,0.32567005299642454
+6,Myth Official MYTH,iQOO SouL IQ-SOUL,Victores Sumus V-SUMUS,0,0,0.3646463149442985
+6,Myth Official MYTH,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,0,0,0.4017076939763358
+6,Nebula Esports NEBULA,Vasista Esports VASISTA,Victores Sumus V-SUMUS,0,1,0.6128896597195669
+6,Nebula Esports NEBULA,Victores Sumus V-SUMUS,Victores Sumus V-SUMUS,0,0,0.49399825370608896
+6,Nebula Esports NEBULA,Welt Esports WELT,Victores Sumus V-SUMUS,0,1,0.5389675395815499
+6,Nebula Esports NEBULA,Wyld Fangs WYLD-F,Victores Sumus V-SUMUS,0,0,0.454344767939801
+6,Nebula Esports NEBULA,iQOO Orangutan IQ-OG,Victores Sumus V-SUMUS,0,0,0.41202953272914483
+6,Nebula Esports NEBULA,iQOO Reckoning Esports IQ-RGE,Victores Sumus V-SUMUS,0,1,0.5490669179041187
+6,Nebula Esports NEBULA,iQOO Revenant XSpark IQ-RNTX,Victores Sumus V-SUMUS,0,0,0.3398645166596452
+6,Nebula Esports NEBULA,iQOO SouL IQ-SOUL,Victores Sumus V-SUMUS,0,0,0.37958331501415427
+6,Nebula Esports NEBULA,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,0,0,0.41716604206408364
+6,Vasista Esports VASISTA,Victores Sumus V-SUMUS,Victores Sumus V-SUMUS,0,0,0.41401043206483096
+6,Vasista Esports VASISTA,Welt Esports WELT,Victores Sumus V-SUMUS,0,0,0.4582931892159436
+6,Vasista Esports VASISTA,Wyld Fangs WYLD-F,Victores Sumus V-SUMUS,0,0,0.37600645807963623
+6,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,Victores Sumus V-SUMUS,0,0,0.33648801837332853
+6,Vasista Esports VASISTA,iQOO Reckoning Esports IQ-RGE,Victores Sumus V-SUMUS,0,0,0.4684167804220375
+6,Vasista Esports VASISTA,iQOO Revenant XSpark IQ-RNTX,Victores Sumus V-SUMUS,0,0,0.27144556730101826
+6,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,Victores Sumus V-SUMUS,0,0,0.3068856286660736
+6,Vasista Esports VASISTA,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,0,0,0.3412293326845232
+6,Victores Sumus V-SUMUS,Welt Esports WELT,Victores Sumus V-SUMUS,1,1,0.5784143456879625
+6,Victores Sumus V-SUMUS,Wyld Fangs WYLD-F,Victores Sumus V-SUMUS,1,0,0.4942376522159212
+6,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,Victores Sumus V-SUMUS,1,0,0.45127980732939826
+6,Victores Sumus V-SUMUS,iQOO Reckoning Esports IQ-RGE,Victores Sumus V-SUMUS,1,1,0.5883096616109572
+6,Victores Sumus V-SUMUS,iQOO Revenant XSpark IQ-RNTX,Victores Sumus V-SUMUS,1,0,0.37664398048394176
+6,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,Victores Sumus V-SUMUS,1,0,0.41793976922631065
+6,Victores Sumus V-SUMUS,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,1,0,0.4565257047969948
+6,Welt Esports WELT,Wyld Fangs WYLD-F,Victores Sumus V-SUMUS,0,0,0.44936283259292464
+6,Welt Esports WELT,iQOO Orangutan IQ-OG,Victores Sumus V-SUMUS,0,0,0.40716536042114
+6,Welt Esports WELT,iQOO Reckoning Esports IQ-RGE,Victores Sumus V-SUMUS,0,1,0.5440819879360242
+6,Welt Esports WELT,iQOO Revenant XSpark IQ-RNTX,Victores Sumus V-SUMUS,0,0,0.33536635373847545
+6,Welt Esports WELT,iQOO SouL IQ-SOUL,Victores Sumus V-SUMUS,0,0,0.37485797742128046
+6,Welt Esports WELT,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,0,0,0.41228375084472907
+6,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,Victores Sumus V-SUMUS,0,0,0.490906453445714
+6,Wyld Fangs WYLD-F,iQOO Reckoning Esports IQ-RGE,Victores Sumus V-SUMUS,0,1,0.6262365040389626
+6,Wyld Fangs WYLD-F,iQOO Revenant XSpark IQ-RNTX,Victores Sumus V-SUMUS,0,0,0.4146695701057827
+6,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,Victores Sumus V-SUMUS,0,0,0.45707747652588887
+6,Wyld Fangs WYLD-F,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,0,0,0.49619644354179476
+6,iQOO Orangutan IQ-OG,iQOO Reckoning Esports IQ-RGE,Victores Sumus V-SUMUS,0,1,0.6656455220436681
+6,iQOO Orangutan IQ-OG,iQOO Revenant XSpark IQ-RNTX,Victores Sumus V-SUMUS,0,0,0.45704517883894075
+6,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,Victores Sumus V-SUMUS,0,1,0.5000842380411278
+6,iQOO Orangutan IQ-OG,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,0,1,0.5392282503112247
+6,iQOO Reckoning Esports IQ-RGE,iQOO Revenant XSpark IQ-RNTX,Victores Sumus V-SUMUS,0,0,0.32635293031775114
+6,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,Victores Sumus V-SUMUS,0,0,0.36536663775505335
+6,iQOO Reckoning Esports IQ-RGE,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,0,0,0.40245485345986043
+6,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,Victores Sumus V-SUMUS,0,1,0.5765565113329911
+6,iQOO Revenant XSpark IQ-RNTX,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,0,1,0.6143305521682643
+6,iQOO SouL IQ-SOUL,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,0,1,0.5727234911145062
+7,Genesis Esports GENs,Hero Xtreme GodLike HX-GODL,iQOO Orangutan IQ-OG,0,1,0.5757007870633627
+7,Genesis Esports GENs,K9 Esports K9,iQOO Orangutan IQ-OG,0,1,0.7225969984323805
+7,Genesis Esports GENs,Learn From Past LEFP,iQOO Orangutan IQ-OG,0,1,0.5606403669642096
+7,Genesis Esports GENs,Meta Ninza META-N,iQOO Orangutan IQ-OG,0,1,0.578395093011436
+7,Genesis Esports GENs,Myth Official MYTH,iQOO Orangutan IQ-OG,0,1,0.6245221103990556
+7,Genesis Esports GENs,Nebula Esports NEBULA,iQOO Orangutan IQ-OG,0,1,0.6249378294620889
+7,Genesis Esports GENs,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,0,1,0.7227903022575335
+7,Genesis Esports GENs,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,0,1,0.6539773884084356
+7,Genesis Esports GENs,Welt Esports WELT,iQOO Orangutan IQ-OG,0,1,0.5712121032121928
+7,Genesis Esports GENs,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,0,1,0.5946447905799068
+7,Genesis Esports GENs,iQOO Orangutan IQ-OG,iQOO Orangutan IQ-OG,0,1,0.5042973412222713
+7,Genesis Esports GENs,iQOO Reckoning Esports IQ-RGE,iQOO Orangutan IQ-OG,0,1,0.616389938743734
+7,Genesis Esports GENs,iQOO Revenant XSpark IQ-RNTX,iQOO Orangutan IQ-OG,0,0,0.4202026822500282
+7,Genesis Esports GENs,iQOO SouL IQ-SOUL,iQOO Orangutan IQ-OG,0,0,0.47269776672566627
+7,Genesis Esports GENs,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,0,0,0.4842528071673083
+7,Hero Xtreme GodLike HX-GODL,K9 Esports K9,iQOO Orangutan IQ-OG,0,1,0.6874669748493982
+7,Hero Xtreme GodLike HX-GODL,Learn From Past LEFP,iQOO Orangutan IQ-OG,0,1,0.5186624928065456
+7,Hero Xtreme GodLike HX-GODL,Meta Ninza META-N,iQOO Orangutan IQ-OG,0,1,0.5367117799810882
+7,Hero Xtreme GodLike HX-GODL,Myth Official MYTH,iQOO Orangutan IQ-OG,0,1,0.5841201880163118
+7,Hero Xtreme GodLike HX-GODL,Nebula Esports NEBULA,iQOO Orangutan IQ-OG,0,1,0.58455088210994
+7,Hero Xtreme GodLike HX-GODL,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,0,1,0.6876741776435602
+7,Hero Xtreme GodLike HX-GODL,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,0,1,0.6147899662087115
+7,Hero Xtreme GodLike HX-GODL,Welt Esports WELT,iQOO Orangutan IQ-OG,0,1,0.5293964408130092
+7,Hero Xtreme GodLike HX-GODL,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,0,1,0.5533273561867708
+7,Hero Xtreme GodLike HX-GODL,iQOO Orangutan IQ-OG,iQOO Orangutan IQ-OG,0,0,0.462101106260292
+7,Hero Xtreme GodLike HX-GODL,iQOO Reckoning Esports IQ-RGE,iQOO Orangutan IQ-OG,0,1,0.5757074700142943
+7,Hero Xtreme GodLike HX-GODL,iQOO Revenant XSpark IQ-RNTX,iQOO Orangutan IQ-OG,0,0,0.37965375686875097
+7,Hero Xtreme GodLike HX-GODL,iQOO SouL IQ-SOUL,iQOO Orangutan IQ-OG,0,0,0.43084746458902073
+7,Hero Xtreme GodLike HX-GODL,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,0,0,0.44223746982260975
+7,K9 Esports K9,Learn From Past LEFP,iQOO Orangutan IQ-OG,0,0,0.3594973371951297
+7,K9 Esports K9,Meta Ninza META-N,iQOO Orangutan IQ-OG,0,0,0.3763383675753406
+7,K9 Esports K9,Myth Official MYTH,iQOO Orangutan IQ-OG,0,0,0.4224995799742588
+7,K9 Esports K9,Nebula Esports NEBULA,iQOO Orangutan IQ-OG,0,0,0.4229322949344679
+7,K9 Esports K9,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,0,1,0.5342057437722765
+7,K9 Esports K9,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,0,0,0.45394610209890485
+7,K9 Esports K9,Welt Esports WELT,iQOO Orangutan IQ-OG,0,0,0.36946569989056205
+7,K9 Esports K9,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,0,0,0.39219203728723034
+7,K9 Esports K9,iQOO Orangutan IQ-OG,iQOO Orangutan IQ-OG,0,0,0.30914531236469245
+7,K9 Esports K9,iQOO Reckoning Esports IQ-RGE,iQOO Orangutan IQ-OG,0,0,0.41409684143546044
+7,K9 Esports K9,iQOO Revenant XSpark IQ-RNTX,iQOO Orangutan IQ-OG,0,0,0.24172428838267487
+7,K9 Esports K9,iQOO SouL IQ-SOUL,iQOO Orangutan IQ-OG,0,0,0.2827978247395354
+7,K9 Esports K9,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,0,0,0.2922838918257748
+7,Learn From Past LEFP,Meta Ninza META-N,iQOO Orangutan IQ-OG,0,1,0.5519369026343642
+7,Learn From Past LEFP,Myth Official MYTH,iQOO Orangutan IQ-OG,0,1,0.5989515012463429
+7,Learn From Past LEFP,Nebula Esports NEBULA,iQOO Orangutan IQ-OG,0,1,0.5993773702128744
+7,Learn From Past LEFP,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,0,1,0.7007047369114776
+7,Learn From Past LEFP,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,0,1,0.6292217980778165
+7,Learn From Past LEFP,Welt Esports WELT,iQOO Orangutan IQ-OG,0,1,0.544658010826663
+7,Learn From Past LEFP,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,0,1,0.5684454937787379
+7,Learn From Past LEFP,iQOO Orangutan IQ-OG,iQOO Orangutan IQ-OG,0,0,0.4773906552580775
+7,Learn From Past LEFP,iQOO Reckoning Esports IQ-RGE,iQOO Orangutan IQ-OG,0,1,0.5906285385029654
+7,Learn From Past LEFP,iQOO Revenant XSpark IQ-RNTX,iQOO Orangutan IQ-OG,0,0,0.3942146156072181
+7,Learn From Past LEFP,iQOO SouL IQ-SOUL,iQOO Orangutan IQ-OG,0,0,0.44596026511572084
+7,Learn From Past LEFP,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,0,0,0.4574286967901363
+7,Meta Ninza META-N,Myth Official MYTH,iQOO Orangutan IQ-OG,0,1,0.5814359922880878
+7,Meta Ninza META-N,Nebula Esports NEBULA,iQOO Orangutan IQ-OG,0,1,0.5818674763121665
+7,Meta Ninza META-N,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,0,1,0.6852982569010272
+7,Meta Ninza META-N,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,0,1,0.6121722914272166
+7,Meta Ninza META-N,Welt Esports WELT,iQOO Orangutan IQ-OG,0,1,0.5266452683001334
+7,Meta Ninza META-N,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,0,1,0.5505973232874133
+7,Meta Ninza META-N,iQOO Orangutan IQ-OG,iQOO Orangutan IQ-OG,0,0,0.4593582904778501
+7,Meta Ninza META-N,iQOO Reckoning Esports IQ-RGE,iQOO Orangutan IQ-OG,0,1,0.5730086681142247
+7,Meta Ninza META-N,iQOO Revenant XSpark IQ-RNTX,iQOO Orangutan IQ-OG,0,0,0.37705727133936634
+7,Meta Ninza META-N,iQOO SouL IQ-SOUL,iQOO Orangutan IQ-OG,0,0,0.4281425008591548
+7,Meta Ninza META-N,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,0,0,0.4395162183898942
+7,Myth Official MYTH,Nebula Esports NEBULA,iQOO Orangutan IQ-OG,0,1,0.5344069597536413
+7,Myth Official MYTH,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,0,1,0.6423618874197291
+7,Myth Official MYTH,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,0,1,0.5655834478121744
+7,Myth Official MYTH,Welt Esports WELT,iQOO Orangutan IQ-OG,0,0,0.4785340883321782
+7,Myth Official MYTH,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,0,1,0.5026214308039686
+7,Myth Official MYTH,iQOO Orangutan IQ-OG,iQOO Orangutan IQ-OG,0,0,0.41204329482178986
+7,Myth Official MYTH,iQOO Reckoning Esports IQ-RGE,iQOO Orangutan IQ-OG,0,1,0.5253628464692695
+7,Myth Official MYTH,iQOO Revenant XSpark IQ-RNTX,iQOO Orangutan IQ-OG,0,0,0.3329981038261992
+7,Myth Official MYTH,iQOO SouL IQ-SOUL,iQOO Orangutan IQ-OG,0,0,0.3817723320321172
+7,Myth Official MYTH,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,0,0,0.3927602569997911
+7,Nebula Esports NEBULA,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,0,1,0.6419544162897173
+7,Nebula Esports NEBULA,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,0,1,0.5651477180738189
+7,Nebula Esports NEBULA,Welt Esports WELT,iQOO Orangutan IQ-OG,0,0,0.47809161621304086
+7,Nebula Esports NEBULA,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,0,1,0.5021781348917028
+7,Nebula Esports NEBULA,iQOO Orangutan IQ-OG,iQOO Orangutan IQ-OG,0,0,0.41161377411510963
+7,Nebula Esports NEBULA,iQOO Reckoning Esports IQ-RGE,iQOO Orangutan IQ-OG,0,1,0.5249206612143076
+7,Nebula Esports NEBULA,iQOO Revenant XSpark IQ-RNTX,iQOO Orangutan IQ-OG,0,0,0.33260436895783874
+7,Nebula Esports NEBULA,iQOO SouL IQ-SOUL,iQOO Orangutan IQ-OG,0,0,0.38135389945663484
+7,Nebula Esports NEBULA,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,0,0,0.392337424089128
+7,Vasista Esports VASISTA,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,0,0,0.4537070200956306
+7,Vasista Esports VASISTA,Welt Esports WELT,iQOO Orangutan IQ-OG,0,0,0.3692410249994372
+7,Vasista Esports VASISTA,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,0,0,0.3919621333686485
+7,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,iQOO Orangutan IQ-OG,0,0,0.30893934623538705
+7,Vasista Esports VASISTA,iQOO Reckoning Esports IQ-RGE,iQOO Orangutan IQ-OG,0,0,0.4138628402009414
+7,Vasista Esports VASISTA,iQOO Revenant XSpark IQ-RNTX,iQOO Orangutan IQ-OG,0,0,0.24154753585540845
+7,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,iQOO Orangutan IQ-OG,0,0,0.2826022318507582
+7,Vasista Esports VASISTA,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,0,0,0.29208441000056734
+7,Victores Sumus V-SUMUS,Welt Esports WELT,iQOO Orangutan IQ-OG,0,0,0.44677789554727854
+7,Victores Sumus V-SUMUS,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,0,0,0.47070965287858146
+7,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,iQOO Orangutan IQ-OG,0,0,0.3814716736006852
+7,Victores Sumus V-SUMUS,iQOO Reckoning Esports IQ-RGE,iQOO Orangutan IQ-OG,0,0,0.49343963398899465
+7,Victores Sumus V-SUMUS,iQOO Revenant XSpark IQ-RNTX,iQOO Orangutan IQ-OG,0,0,0.305246470574073
+7,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,iQOO Orangutan IQ-OG,0,0,0.3521016628468488
+7,Victores Sumus V-SUMUS,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,0,0,0.3627366763798712
+7,Welt Esports WELT,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,0,1,0.5578583447475011
+7,Welt Esports WELT,iQOO Orangutan IQ-OG,iQOO Orangutan IQ-OG,0,0,0.46666553101273933
+7,Welt Esports WELT,iQOO Reckoning Esports IQ-RGE,iQOO Orangutan IQ-OG,0,1,0.5801836812361453
+7,Welt Esports WELT,iQOO Revenant XSpark IQ-RNTX,iQOO Orangutan IQ-OG,0,0,0.38398515664422445
+7,Welt Esports WELT,iQOO SouL IQ-SOUL,iQOO Orangutan IQ-OG,0,0,0.43535303653996554
+7,Welt Esports WELT,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,0,0,0.4467686539131206
+7,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,iQOO Orangutan IQ-OG,0,0,0.4427673848124345
+7,Wyld Fangs WYLD-F,iQOO Reckoning Esports IQ-RGE,iQOO Orangutan IQ-OG,0,1,0.5565384571349329
+7,Wyld Fangs WYLD-F,iQOO Revenant XSpark IQ-RNTX,iQOO Orangutan IQ-OG,0,0,0.36145157450765253
+7,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,iQOO Orangutan IQ-OG,0,0,0.4118202357486211
+7,Wyld Fangs WYLD-F,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,0,0,0.423081145093503
+7,iQOO Orangutan IQ-OG,iQOO Reckoning Esports IQ-RGE,iQOO Orangutan IQ-OG,1,1,0.6440843414703571
+7,iQOO Orangutan IQ-OG,iQOO Revenant XSpark IQ-RNTX,iQOO Orangutan IQ-OG,1,0,0.4494090312618644
+7,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,iQOO Orangutan IQ-OG,1,1,0.5023912357510177
+7,iQOO Orangutan IQ-OG,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,1,1,0.5139646359462655
+7,iQOO Reckoning Esports IQ-RGE,iQOO Revenant XSpark IQ-RNTX,iQOO Orangutan IQ-OG,0,0,0.34071217153350847
+7,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,iQOO Orangutan IQ-OG,0,0,0.3899557069253698
+7,iQOO Reckoning Esports IQ-RGE,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,0,0,0.40102637991873014
+7,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,iQOO Orangutan IQ-OG,0,1,0.5863013806644919
+7,iQOO Revenant XSpark IQ-RNTX,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,0,1,0.5974867954986615
+7,iQOO SouL IQ-SOUL,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,0,1,0.5454691672030904
+8,Genesis Esports GENs,Hero Xtreme GodLike HX-GODL,Wyld Fangs WYLD-F,0,1,0.6885306519364219
+8,Genesis Esports GENs,K9 Esports K9,Wyld Fangs WYLD-F,0,1,0.7428475071335018
+8,Genesis Esports GENs,Learn From Past LEFP,Wyld Fangs WYLD-F,0,1,0.6172611775598498
+8,Genesis Esports GENs,Meta Ninza META-N,Wyld Fangs WYLD-F,0,1,0.6288700629389644
+8,Genesis Esports GENs,Myth Official MYTH,Wyld Fangs WYLD-F,0,1,0.7241791269339515
+8,Genesis Esports GENs,Nebula Esports NEBULA,Wyld Fangs WYLD-F,0,1,0.6865655155452693
+8,Genesis Esports GENs,Vasista Esports VASISTA,Wyld Fangs WYLD-F,0,1,0.6986343843224218
+8,Genesis Esports GENs,Victores Sumus V-SUMUS,Wyld Fangs WYLD-F,0,1,0.7435378967854978
+8,Genesis Esports GENs,Welt Esports WELT,Wyld Fangs WYLD-F,0,1,0.6751586688668705
+8,Genesis Esports GENs,Wyld Fangs WYLD-F,Wyld Fangs WYLD-F,0,1,0.6700739986834768
+8,Genesis Esports GENs,iQOO Orangutan IQ-OG,Wyld Fangs WYLD-F,0,1,0.7212290995968211
+8,Genesis Esports GENs,iQOO Reckoning Esports IQ-RGE,Wyld Fangs WYLD-F,0,1,0.6582657830262825
+8,Genesis Esports GENs,iQOO Revenant XSpark IQ-RNTX,Wyld Fangs WYLD-F,0,1,0.5630589064586942
+8,Genesis Esports GENs,iQOO SouL IQ-SOUL,Wyld Fangs WYLD-F,0,1,0.5726473813056087
+8,Genesis Esports GENs,iQOO Team Tamilas IQ-TT,Wyld Fangs WYLD-F,0,1,0.5737944148466239
+8,Hero Xtreme GodLike HX-GODL,K9 Esports K9,Wyld Fangs WYLD-F,0,1,0.5995607143693608
+8,Hero Xtreme GodLike HX-GODL,Learn From Past LEFP,Wyld Fangs WYLD-F,0,0,0.45530784079423037
+8,Hero Xtreme GodLike HX-GODL,Meta Ninza META-N,Wyld Fangs WYLD-F,0,0,0.46759199551343933
+8,Hero Xtreme GodLike HX-GODL,Myth Official MYTH,Wyld Fangs WYLD-F,0,1,0.576421595531484
+8,Hero Xtreme GodLike HX-GODL,Nebula Esports NEBULA,Wyld Fangs WYLD-F,0,1,0.5316886859302704
+8,Hero Xtreme GodLike HX-GODL,Vasista Esports VASISTA,Wyld Fangs WYLD-F,0,1,0.5457756910024262
+8,Hero Xtreme GodLike HX-GODL,Victores Sumus V-SUMUS,Wyld Fangs WYLD-F,0,1,0.6004288721689267
+8,Hero Xtreme GodLike HX-GODL,Welt Esports WELT,Wyld Fangs WYLD-F,0,1,0.5185975277125962
+8,Hero Xtreme GodLike HX-GODL,Wyld Fangs WYLD-F,Wyld Fangs WYLD-F,0,1,0.5128305149097262
+8,Hero Xtreme GodLike HX-GODL,iQOO Orangutan IQ-OG,Wyld Fangs WYLD-F,0,1,0.572823437283746
+8,Hero Xtreme GodLike HX-GODL,iQOO Reckoning Esports IQ-RGE,Wyld Fangs WYLD-F,0,0,0.4995972629988413
+8,Hero Xtreme GodLike HX-GODL,iQOO Revenant XSpark IQ-RNTX,Wyld Fangs WYLD-F,0,0,0.40044757283246185
+8,Hero Xtreme GodLike HX-GODL,iQOO SouL IQ-SOUL,Wyld Fangs WYLD-F,0,0,0.40986444720123016
+8,Hero Xtreme GodLike HX-GODL,iQOO Team Tamilas IQ-TT,Wyld Fangs WYLD-F,0,0,0.4109990033128633
+8,K9 Esports K9,Learn From Past LEFP,Wyld Fangs WYLD-F,0,0,0.39011957007685594
+8,K9 Esports K9,Meta Ninza META-N,Wyld Fangs WYLD-F,0,0,0.4019427972524926
+8,K9 Esports K9,Myth Official MYTH,Wyld Fangs WYLD-F,0,1,0.5101331336202852
+8,K9 Esports K9,Nebula Esports NEBULA,Wyld Fangs WYLD-F,0,0,0.4648984001624573
+8,K9 Esports K9,Vasista Esports VASISTA,Wyld Fangs WYLD-F,0,0,0.4790258921769119
+8,K9 Esports K9,Victores Sumus V-SUMUS,Wyld Fangs WYLD-F,0,1,0.5348657686533794
+8,K9 Esports K9,Welt Esports WELT,Wyld Fangs WYLD-F,0,0,0.4518649940792862
+8,K9 Esports K9,Wyld Fangs WYLD-F,Wyld Fangs WYLD-F,0,0,0.4461523201669227
+8,K9 Esports K9,iQOO Orangutan IQ-OG,Wyld Fangs WYLD-F,0,1,0.506454015299556
+8,K9 Esports K9,iQOO Reckoning Esports IQ-RGE,Wyld Fangs WYLD-F,0,0,0.4331099957251074
+8,K9 Esports K9,iQOO Revenant XSpark IQ-RNTX,Wyld Fangs WYLD-F,0,0,0.3382364339239865
+8,K9 Esports K9,iQOO SouL IQ-SOUL,Wyld Fangs WYLD-F,0,0,0.3470371536159142
+8,K9 Esports K9,iQOO Team Tamilas IQ-TT,Wyld Fangs WYLD-F,0,0,0.34810038160649903
+8,Learn From Past LEFP,Meta Ninza META-N,Wyld Fangs WYLD-F,0,1,0.5462438352256612
+8,Learn From Past LEFP,Myth Official MYTH,Wyld Fangs WYLD-F,0,1,0.6509960187887137
+8,Learn From Past LEFP,Nebula Esports NEBULA,Wyld Fangs WYLD-F,0,1,0.6087936877075186
+8,Learn From Past LEFP,Vasista Esports VASISTA,Wyld Fangs WYLD-F,0,1,0.6222093532191896
+8,Learn From Past LEFP,Victores Sumus V-SUMUS,Wyld Fangs WYLD-F,0,1,0.673173114087738
+8,Learn From Past LEFP,Welt Esports WELT,Wyld Fangs WYLD-F,0,1,0.5962210574528655
+8,Learn From Past LEFP,Wyld Fangs WYLD-F,Wyld Fangs WYLD-F,0,1,0.5906499367449003
+8,Learn From Past LEFP,iQOO Orangutan IQ-OG,Wyld Fangs WYLD-F,0,1,0.647644107851613
+8,Learn From Past LEFP,iQOO Reckoning Esports IQ-RGE,Wyld Fangs WYLD-F,0,1,0.5777902171748878
+8,Learn From Past LEFP,iQOO Revenant XSpark IQ-RNTX,Wyld Fangs WYLD-F,0,0,0.47794405523981753
+8,Learn From Past LEFP,iQOO SouL IQ-SOUL,Wyld Fangs WYLD-F,0,0,0.48770091307913516
+8,Learn From Past LEFP,iQOO Team Tamilas IQ-TT,Wyld Fangs WYLD-F,0,0,0.48887244079800884
+8,Meta Ninza META-N,Myth Official MYTH,Wyld Fangs WYLD-F,0,1,0.6396826863324345
+8,Meta Ninza META-N,Nebula Esports NEBULA,Wyld Fangs WYLD-F,0,1,0.5969592905085636
+8,Meta Ninza META-N,Vasista Esports VASISTA,Wyld Fangs WYLD-F,0,1,0.6105211570384551
+8,Meta Ninza META-N,Victores Sumus V-SUMUS,Wyld Fangs WYLD-F,0,1,0.662205649777242
+8,Meta Ninza META-N,Welt Esports WELT,Wyld Fangs WYLD-F,0,1,0.5842660489534672
+8,Meta Ninza META-N,Wyld Fangs WYLD-F,Wyld Fangs WYLD-F,0,1,0.5786465499181824
+8,Meta Ninza META-N,iQOO Orangutan IQ-OG,Wyld Fangs WYLD-F,0,1,0.6362828265721142
+8,Meta Ninza META-N,iQOO Reckoning Esports IQ-RGE,Wyld Fangs WYLD-F,0,1,0.565687020836071
+8,Meta Ninza META-N,iQOO Revenant XSpark IQ-RNTX,Wyld Fangs WYLD-F,0,0,0.46562578741684113
+8,Meta Ninza META-N,iQOO SouL IQ-SOUL,Wyld Fangs WYLD-F,0,0,0.4753601524697968
+8,Meta Ninza META-N,iQOO Team Tamilas IQ-TT,Wyld Fangs WYLD-F,0,0,0.47652961038129305
+8,Myth Official MYTH,Nebula Esports NEBULA,Wyld Fangs WYLD-F,0,0,0.48872607114161865
+8,Myth Official MYTH,Vasista Esports VASISTA,Wyld Fangs WYLD-F,0,1,0.5028971412635962
+8,Myth Official MYTH,Victores Sumus V-SUMUS,Wyld Fangs WYLD-F,0,1,0.5585363874933078
+8,Myth Official MYTH,Welt Esports WELT,Wyld Fangs WYLD-F,0,0,0.4756184077015462
+8,Myth Official MYTH,Wyld Fangs WYLD-F,Wyld Fangs WYLD-F,0,0,0.4698628516426609
+8,Myth Official MYTH,iQOO Orangutan IQ-OG,Wyld Fangs WYLD-F,0,1,0.5303007949752127
+8,Myth Official MYTH,iQOO Reckoning Esports IQ-RGE,Wyld Fangs WYLD-F,0,0,0.45669894781970216
+8,Myth Official MYTH,iQOO Revenant XSpark IQ-RNTX,Wyld Fangs WYLD-F,0,0,0.35993902710325143
+8,Myth Official MYTH,iQOO SouL IQ-SOUL,Wyld Fangs WYLD-F,0,0,0.36898957362292145
+8,Myth Official MYTH,iQOO Team Tamilas IQ-TT,Wyld Fangs WYLD-F,0,0,0.3700819388257888
+8,Nebula Esports NEBULA,Vasista Esports VASISTA,Wyld Fangs WYLD-F,0,1,0.5480424597833267
+8,Nebula Esports NEBULA,Victores Sumus V-SUMUS,Wyld Fangs WYLD-F,0,1,0.6026214819720287
+8,Nebula Esports NEBULA,Welt Esports WELT,Wyld Fangs WYLD-F,0,1,0.5208808612711883
+8,Nebula Esports NEBULA,Wyld Fangs WYLD-F,Wyld Fangs WYLD-F,0,1,0.5151156266695477
+8,Nebula Esports NEBULA,iQOO Orangutan IQ-OG,Wyld Fangs WYLD-F,0,1,0.5750603212800286
+8,Nebula Esports NEBULA,iQOO Reckoning Esports IQ-RGE,Wyld Fangs WYLD-F,0,1,0.5018841557862066
+8,Nebula Esports NEBULA,iQOO Revenant XSpark IQ-RNTX,Wyld Fangs WYLD-F,0,0,0.40264580209036344
+8,Nebula Esports NEBULA,iQOO SouL IQ-SOUL,Wyld Fangs WYLD-F,0,0,0.41207884039124265
+8,Nebula Esports NEBULA,iQOO Team Tamilas IQ-TT,Wyld Fangs WYLD-F,0,0,0.4132152341681223
+8,Vasista Esports VASISTA,Victores Sumus V-SUMUS,Wyld Fangs WYLD-F,0,1,0.5889697345911583
+8,Vasista Esports VASISTA,Welt Esports WELT,Wyld Fangs WYLD-F,0,1,0.5067195947235212
+8,Vasista Esports VASISTA,Wyld Fangs WYLD-F,Wyld Fangs WYLD-F,0,1,0.5009472192258708
+8,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,Wyld Fangs WYLD-F,0,1,0.5611512510519592
+8,Vasista Esports VASISTA,iQOO Reckoning Esports IQ-RGE,Wyld Fangs WYLD-F,0,0,0.48771362481545577
+8,Vasista Esports VASISTA,iQOO Revenant XSpark IQ-RNTX,Wyld Fangs WYLD-F,0,0,0.3890885627197088
+8,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,Wyld Fangs WYLD-F,0,0,0.39841582521844987
+8,Vasista Esports VASISTA,iQOO Team Tamilas IQ-TT,Wyld Fangs WYLD-F,0,0,0.39954014605314403
+8,Victores Sumus V-SUMUS,Welt Esports WELT,Wyld Fangs WYLD-F,0,0,0.4509692048661648
+8,Victores Sumus V-SUMUS,Wyld Fangs WYLD-F,Wyld Fangs WYLD-F,0,0,0.4452586564707463
+8,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,Wyld Fangs WYLD-F,0,1,0.5055498184589194
+8,Victores Sumus V-SUMUS,iQOO Reckoning Esports IQ-RGE,Wyld Fangs WYLD-F,0,0,0.43222206897349363
+8,Victores Sumus V-SUMUS,iQOO Revenant XSpark IQ-RNTX,Wyld Fangs WYLD-F,0,0,0.33742723668577884
+8,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,Wyld Fangs WYLD-F,0,0,0.3462179168903515
+8,Victores Sumus V-SUMUS,iQOO Team Tamilas IQ-TT,Wyld Fangs WYLD-F,0,0,0.3472799698684472
+8,Welt Esports WELT,Wyld Fangs WYLD-F,Wyld Fangs WYLD-F,0,1,0.5282153320290388
+8,Welt Esports WELT,iQOO Orangutan IQ-OG,Wyld Fangs WYLD-F,0,1,0.5878363554239112
+8,Welt Esports WELT,iQOO Reckoning Esports IQ-RGE,Wyld Fangs WYLD-F,0,1,0.5150047631208823
+8,Welt Esports WELT,iQOO Revenant XSpark IQ-RNTX,Wyld Fangs WYLD-F,0,0,0.4153352596770892
+8,Welt Esports WELT,iQOO SouL IQ-SOUL,Wyld Fangs WYLD-F,0,0,0.42485414570313657
+8,Welt Esports WELT,iQOO Team Tamilas IQ-TT,Wyld Fangs WYLD-F,0,0,0.42600024242757534
+8,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,Wyld Fangs WYLD-F,1,1,0.5934194093749298
+8,Wyld Fangs WYLD-F,iQOO Reckoning Esports IQ-RGE,Wyld Fangs WYLD-F,1,1,0.5207700895524977
+8,Wyld Fangs WYLD-F,iQOO Revenant XSpark IQ-RNTX,Wyld Fangs WYLD-F,1,0,0.42095325235330006
+8,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,Wyld Fangs WYLD-F,1,0,0.43050608757557185
+8,Wyld Fangs WYLD-F,iQOO Team Tamilas IQ-TT,Wyld Fangs WYLD-F,1,0,0.431655988140828
+8,iQOO Orangutan IQ-OG,iQOO Reckoning Esports IQ-RGE,Wyld Fangs WYLD-F,0,0,0.4603537581073049
+8,iQOO Orangutan IQ-OG,iQOO Revenant XSpark IQ-RNTX,Wyld Fangs WYLD-F,0,0,0.36333734486368957
+8,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,Wyld Fangs WYLD-F,0,0,0.3724236215653026
+8,iQOO Orangutan IQ-OG,iQOO Team Tamilas IQ-TT,Wyld Fangs WYLD-F,0,0,0.3735201352046027
+8,iQOO Reckoning Esports IQ-RGE,iQOO Revenant XSpark IQ-RNTX,Wyld Fangs WYLD-F,0,0,0.4339097026244366
+8,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,Wyld Fangs WYLD-F,0,0,0.44353134910030556
+8,iQOO Reckoning Esports IQ-RGE,iQOO Team Tamilas IQ-TT,Wyld Fangs WYLD-F,0,0,0.44468887414985614
+8,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,Wyld Fangs WYLD-F,0,1,0.543675223690803
+8,iQOO Revenant XSpark IQ-RNTX,iQOO Team Tamilas IQ-TT,Wyld Fangs WYLD-F,0,1,0.5448382111705352
+8,iQOO SouL IQ-SOUL,iQOO Team Tamilas IQ-TT,Wyld Fangs WYLD-F,0,1,0.5351323004424817
+9,Genesis Esports GENs,Hero Xtreme GodLike HX-GODL,Meta Ninza META-N,0,1,0.5303399788940049
+9,Genesis Esports GENs,K9 Esports K9,Meta Ninza META-N,0,1,0.7010053618308048
+9,Genesis Esports GENs,Learn From Past LEFP,Meta Ninza META-N,0,1,0.665582062215387
+9,Genesis Esports GENs,Meta Ninza META-N,Meta Ninza META-N,0,1,0.5797752789898285
+9,Genesis Esports GENs,Myth Official MYTH,Meta Ninza META-N,0,1,0.6873514827724149
+9,Genesis Esports GENs,Nebula Esports NEBULA,Meta Ninza META-N,0,1,0.6883845521386892
+9,Genesis Esports GENs,Vasista Esports VASISTA,Meta Ninza META-N,0,1,0.6687509556028589
+9,Genesis Esports GENs,Victores Sumus V-SUMUS,Meta Ninza META-N,0,1,0.7025818931130549
+9,Genesis Esports GENs,Welt Esports WELT,Meta Ninza META-N,0,1,0.6715026057627895
+9,Genesis Esports GENs,Wyld Fangs WYLD-F,Meta Ninza META-N,0,1,0.6885571281021252
+9,Genesis Esports GENs,iQOO Orangutan IQ-OG,Meta Ninza META-N,0,1,0.7263132015158382
+9,Genesis Esports GENs,iQOO Reckoning Esports IQ-RGE,Meta Ninza META-N,0,1,0.6201072372697558
+9,Genesis Esports GENs,iQOO Revenant XSpark IQ-RNTX,Meta Ninza META-N,0,1,0.541009423927199
+9,Genesis Esports GENs,iQOO SouL IQ-SOUL,Meta Ninza META-N,0,1,0.5867985719455678
+9,Genesis Esports GENs,iQOO Team Tamilas IQ-TT,Meta Ninza META-N,0,1,0.5977848608903615
+9,Hero Xtreme GodLike HX-GODL,K9 Esports K9,Meta Ninza META-N,0,1,0.7040488155891491
+9,Hero Xtreme GodLike HX-GODL,Learn From Past LEFP,Meta Ninza META-N,0,1,0.6688157388161087
+9,Hero Xtreme GodLike HX-GODL,Meta Ninza META-N,Meta Ninza META-N,0,1,0.5833192358839399
+9,Hero Xtreme GodLike HX-GODL,Myth Official MYTH,Meta Ninza META-N,0,1,0.6904725514632221
+9,Hero Xtreme GodLike HX-GODL,Nebula Esports NEBULA,Meta Ninza META-N,0,1,0.6914999366670352
+9,Hero Xtreme GodLike HX-GODL,Vasista Esports VASISTA,Meta Ninza META-N,0,1,0.6719690921455428
+9,Hero Xtreme GodLike HX-GODL,Victores Sumus V-SUMUS,Meta Ninza META-N,0,1,0.7056160384766657
+9,Hero Xtreme GodLike HX-GODL,Welt Esports WELT,Meta Ninza META-N,0,1,0.6747070128841843
+9,Hero Xtreme GodLike HX-GODL,Wyld Fangs WYLD-F,Meta Ninza META-N,0,1,0.6916715600765002
+9,Hero Xtreme GodLike HX-GODL,iQOO Orangutan IQ-OG,Meta Ninza META-N,0,1,0.7291985627221571
+9,Hero Xtreme GodLike HX-GODL,iQOO Reckoning Esports IQ-RGE,Meta Ninza META-N,0,1,0.6235319192245176
+9,Hero Xtreme GodLike HX-GODL,iQOO Revenant XSpark IQ-RNTX,Meta Ninza META-N,0,1,0.5446235284063552
+9,Hero Xtreme GodLike HX-GODL,iQOO SouL IQ-SOUL,Meta Ninza META-N,0,1,0.5903251510980635
+9,Hero Xtreme GodLike HX-GODL,iQOO Team Tamilas IQ-TT,Meta Ninza META-N,0,1,0.6012813864560757
+9,K9 Esports K9,Learn From Past LEFP,Meta Ninza META-N,0,0,0.49306369385357895
+9,K9 Esports K9,Meta Ninza META-N,Meta Ninza META-N,0,0,0.402714713376183
+9,K9 Esports K9,Myth Official MYTH,Meta Ninza META-N,0,1,0.5179294958869043
+9,K9 Esports K9,Nebula Esports NEBULA,Meta Ninza META-N,0,1,0.5191307345321589
+9,K9 Esports K9,Vasista Esports VASISTA,Meta Ninza META-N,0,0,0.4966310040296408
+9,K9 Esports K9,Victores Sumus V-SUMUS,Meta Ninza META-N,0,1,0.5358398360784125
+9,K9 Esports K9,Welt Esports WELT,Meta Ninza META-N,0,0,0.4997428921134883
+9,K9 Esports K9,Wyld Fangs WYLD-F,Meta Ninza META-N,0,1,0.5193315943727292
+9,K9 Esports K9,iQOO Orangutan IQ-OG,Meta Ninza META-N,0,1,0.5646312585798366
+9,K9 Esports K9,iQOO Reckoning Esports IQ-RGE,Meta Ninza META-N,0,0,0.44373580378131505
+9,K9 Esports K9,iQOO Revenant XSpark IQ-RNTX,Meta Ninza META-N,0,0,0.3654908640063944
+9,K9 Esports K9,iQOO SouL IQ-SOUL,Meta Ninza META-N,0,0,0.40968420622210744
+9,K9 Esports K9,iQOO Team Tamilas IQ-TT,Meta Ninza META-N,0,0,0.4207309205830131
+9,Learn From Past LEFP,Meta Ninza META-N,Meta Ninza META-N,0,0,0.4426665380304332
+9,Learn From Past LEFP,Myth Official MYTH,Meta Ninza META-N,0,1,0.5586212205524058
+9,Learn From Past LEFP,Nebula Esports NEBULA,Meta Ninza META-N,0,1,0.5598072403947894
+9,Learn From Past LEFP,Vasista Esports VASISTA,Meta Ninza META-N,0,1,0.5375151856627238
+9,Learn From Past LEFP,Victores Sumus V-SUMUS,Meta Ninza META-N,0,1,0.5762566348259216
+9,Learn From Past LEFP,Welt Esports WELT,Meta Ninza META-N,0,1,0.5406081215975401
+9,Learn From Past LEFP,Wyld Fangs WYLD-F,Meta Ninza META-N,0,1,0.5600055101836832
+9,Learn From Past LEFP,iQOO Orangutan IQ-OG,Meta Ninza META-N,0,1,0.6043919593983094
+9,Learn From Past LEFP,iQOO Reckoning Esports IQ-RGE,Meta Ninza META-N,0,0,0.4844563780180925
+9,Learn From Past LEFP,iQOO Revenant XSpark IQ-RNTX,Meta Ninza META-N,0,0,0.4042492033323013
+9,Learn From Past LEFP,iQOO SouL IQ-SOUL,Meta Ninza META-N,0,0,0.44980675201379594
+9,Learn From Past LEFP,iQOO Team Tamilas IQ-TT,Meta Ninza META-N,0,0,0.4610902960909709
+9,Meta Ninza META-N,Myth Official MYTH,Meta Ninza META-N,1,1,0.6461109248048452
+9,Meta Ninza META-N,Nebula Esports NEBULA,Meta Ninza META-N,1,1,0.6472103219000024
+9,Meta Ninza META-N,Vasista Esports VASISTA,Meta Ninza META-N,1,1,0.6263904772661677
+9,Meta Ninza META-N,Victores Sumus V-SUMUS,Meta Ninza META-N,1,1,0.662363486272127
+9,Meta Ninza META-N,Welt Esports WELT,Meta Ninza META-N,1,1,0.6292989555763953
+9,Meta Ninza META-N,Wyld Fangs WYLD-F,Meta Ninza META-N,1,1,0.6473940205238798
+9,Meta Ninza META-N,iQOO Orangutan IQ-OG,Meta Ninza META-N,1,1,0.6878782362319713
+9,Meta Ninza META-N,iQOO Reckoning Esports IQ-RGE,Meta Ninza META-N,1,1,0.5754750096189235
+9,Meta Ninza META-N,iQOO Revenant XSpark IQ-RNTX,Meta Ninza META-N,1,0,0.49465733638371856
+9,Meta Ninza META-N,iQOO SouL IQ-SOUL,Meta Ninza META-N,1,1,0.5411487053877452
+9,Meta Ninza META-N,iQOO Team Tamilas IQ-TT,Meta Ninza META-N,1,1,0.5524229635635636
+9,Myth Official MYTH,Nebula Esports NEBULA,Meta Ninza META-N,0,1,0.5351628684411796
+9,Myth Official MYTH,Vasista Esports VASISTA,Meta Ninza META-N,0,1,0.5127091462527165
+9,Myth Official MYTH,Victores Sumus V-SUMUS,Meta Ninza META-N,0,1,0.5517958585774045
+9,Myth Official MYTH,Welt Esports WELT,Meta Ninza META-N,0,1,0.5158185426518805
+9,Myth Official MYTH,Wyld Fangs WYLD-F,Meta Ninza META-N,0,1,0.5353630253268588
+9,Myth Official MYTH,iQOO Orangutan IQ-OG,Meta Ninza META-N,0,1,0.580372627759169
+9,Myth Official MYTH,iQOO Reckoning Esports IQ-RGE,Meta Ninza META-N,0,0,0.45966526676277863
+9,Myth Official MYTH,iQOO Revenant XSpark IQ-RNTX,Meta Ninza META-N,0,0,0.3805329651090446
+9,Myth Official MYTH,iQOO SouL IQ-SOUL,Meta Ninza META-N,0,0,0.4253259296041678
+9,Myth Official MYTH,iQOO Team Tamilas IQ-TT,Meta Ninza META-N,0,0,0.43648255322659163
+9,Nebula Esports NEBULA,Vasista Esports VASISTA,Meta Ninza META-N,0,1,0.5115069608819393
+9,Nebula Esports NEBULA,Victores Sumus V-SUMUS,Meta Ninza META-N,0,1,0.5506055814033216
+9,Nebula Esports NEBULA,Welt Esports WELT,Meta Ninza META-N,0,1,0.5146167661300439
+9,Nebula Esports NEBULA,Wyld Fangs WYLD-F,Meta Ninza META-N,0,1,0.5341659496732443
+9,Nebula Esports NEBULA,iQOO Orangutan IQ-OG,Meta Ninza META-N,0,1,0.5792003668895496
+9,Nebula Esports NEBULA,iQOO Reckoning Esports IQ-RGE,Meta Ninza META-N,0,0,0.4584704374923107
+9,Nebula Esports NEBULA,iQOO Revenant XSpark IQ-RNTX,Meta Ninza META-N,0,0,0.37939939999820566
+9,Nebula Esports NEBULA,iQOO SouL IQ-SOUL,Meta Ninza META-N,0,0,0.4241502932582464
+9,Nebula Esports NEBULA,iQOO Team Tamilas IQ-TT,Meta Ninza META-N,0,0,0.4352994378371586
+9,Vasista Esports VASISTA,Victores Sumus V-SUMUS,Meta Ninza META-N,0,1,0.5727681793941847
+9,Vasista Esports VASISTA,Welt Esports WELT,Meta Ninza META-N,0,1,0.5370619553898832
+9,Vasista Esports VASISTA,Wyld Fangs WYLD-F,Meta Ninza META-N,0,1,0.5564862364321531
+9,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,Meta Ninza META-N,0,1,0.6009747411709497
+9,Vasista Esports VASISTA,iQOO Reckoning Esports IQ-RGE,Meta Ninza META-N,0,0,0.48089297261407626
+9,Vasista Esports VASISTA,iQOO Revenant XSpark IQ-RNTX,Meta Ninza META-N,0,0,0.40081708508435887
+9,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,Meta Ninza META-N,0,0,0.4462775889946885
+9,Vasista Esports VASISTA,iQOO Team Tamilas IQ-TT,Meta Ninza META-N,0,0,0.45754622548016943
+9,Victores Sumus V-SUMUS,Welt Esports WELT,Meta Ninza META-N,0,0,0.4978596159237937
+9,Victores Sumus V-SUMUS,Wyld Fangs WYLD-F,Meta Ninza META-N,0,1,0.5174508553574937
+9,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,Meta Ninza META-N,0,1,0.562778543555099
+9,Victores Sumus V-SUMUS,iQOO Reckoning Esports IQ-RGE,Meta Ninza META-N,0,0,0.4418771585228207
+9,Victores Sumus V-SUMUS,iQOO Revenant XSpark IQ-RNTX,Meta Ninza META-N,0,0,0.363745646616166
+9,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,Meta Ninza META-N,0,0,0.40786361178461233
+9,Victores Sumus V-SUMUS,iQOO Team Tamilas IQ-TT,Meta Ninza META-N,0,0,0.41889607093944253
+9,Welt Esports WELT,Wyld Fangs WYLD-F,Meta Ninza META-N,0,1,0.5534118924196351
+9,Welt Esports WELT,iQOO Orangutan IQ-OG,Meta Ninza META-N,0,1,0.5979860001963538
+9,Welt Esports WELT,iQOO Reckoning Esports IQ-RGE,Meta Ninza META-N,0,0,0.4777863569643435
+9,Welt Esports WELT,iQOO Revenant XSpark IQ-RNTX,Meta Ninza META-N,0,0,0.39783132252356496
+9,Welt Esports WELT,iQOO SouL IQ-SOUL,Meta Ninza META-N,0,0,0.4432036706770394
+9,Welt Esports WELT,iQOO Team Tamilas IQ-TT,Meta Ninza META-N,0,0,0.454458392958611
+9,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,Meta Ninza META-N,0,1,0.5790042441753656
+9,Wyld Fangs WYLD-F,iQOO Reckoning Esports IQ-RGE,Meta Ninza META-N,0,0,0.4582706745011923
+9,Wyld Fangs WYLD-F,iQOO Revenant XSpark IQ-RNTX,Meta Ninza META-N,0,0,0.3792099639059124
+9,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,Meta Ninza META-N,0,0,0.42395377701465237
+9,Wyld Fangs WYLD-F,iQOO Team Tamilas IQ-TT,Meta Ninza META-N,0,0,0.435101659029398
+9,iQOO Orangutan IQ-OG,iQOO Reckoning Esports IQ-RGE,Meta Ninza META-N,0,0,0.41340156444770193
+9,iQOO Orangutan IQ-OG,iQOO Revenant XSpark IQ-RNTX,Meta Ninza META-N,0,0,0.3372624933341168
+9,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,Meta Ninza META-N,0,0,0.38008721587334093
+9,iQOO Orangutan IQ-OG,iQOO Team Tamilas IQ-TT,Meta Ninza META-N,0,0,0.390864290205147
+9,iQOO Reckoning Esports IQ-RGE,iQOO Revenant XSpark IQ-RNTX,Meta Ninza META-N,0,0,0.45276033567393553
+9,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,Meta Ninza META-N,0,0,0.49920386944190104
+9,iQOO Reckoning Esports IQ-RGE,iQOO Team Tamilas IQ-TT,Meta Ninza META-N,0,1,0.5105766378338272
+9,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,Meta Ninza META-N,0,1,0.5799119311688701
+9,iQOO Revenant XSpark IQ-RNTX,iQOO Team Tamilas IQ-TT,Meta Ninza META-N,0,1,0.5909536855852495
+9,iQOO SouL IQ-SOUL,iQOO Team Tamilas IQ-TT,Meta Ninza META-N,0,1,0.545268168179325
+10,Genesis Esports GENs,Hero Xtreme GodLike HX-GODL,K9 Esports K9,0,1,0.5175156051639203
+10,Genesis Esports GENs,K9 Esports K9,K9 Esports K9,0,1,0.6524975572048393
+10,Genesis Esports GENs,Learn From Past LEFP,K9 Esports K9,0,1,0.66694694826406
+10,Genesis Esports GENs,Meta Ninza META-N,K9 Esports K9,0,1,0.6334326558244655
+10,Genesis Esports GENs,Myth Official MYTH,K9 Esports K9,0,1,0.6655322288552065
+10,Genesis Esports GENs,Nebula Esports NEBULA,K9 Esports K9,0,1,0.6368057723997304
+10,Genesis Esports GENs,Vasista Esports VASISTA,K9 Esports K9,0,1,0.5840880716273499
+10,Genesis Esports GENs,Victores Sumus V-SUMUS,K9 Esports K9,0,1,0.6119027403149059
+10,Genesis Esports GENs,Welt Esports WELT,K9 Esports K9,0,1,0.5924677391508326
+10,Genesis Esports GENs,Wyld Fangs WYLD-F,K9 Esports K9,0,1,0.6600382195482307
+10,Genesis Esports GENs,iQOO Orangutan IQ-OG,K9 Esports K9,0,1,0.6466454207778455
+10,Genesis Esports GENs,iQOO Reckoning Esports IQ-RGE,K9 Esports K9,0,1,0.5843620244836476
+10,Genesis Esports GENs,iQOO Revenant XSpark IQ-RNTX,K9 Esports K9,0,1,0.513733407507481
+10,Genesis Esports GENs,iQOO SouL IQ-SOUL,K9 Esports K9,0,0,0.4841320473576157
+10,Genesis Esports GENs,iQOO Team Tamilas IQ-TT,K9 Esports K9,0,1,0.5599533496878129
+10,Hero Xtreme GodLike HX-GODL,K9 Esports K9,K9 Esports K9,0,1,0.6673041149428706
+10,Hero Xtreme GodLike HX-GODL,Learn From Past LEFP,K9 Esports K9,0,1,0.6814384192760069
+10,Hero Xtreme GodLike HX-GODL,Meta Ninza META-N,K9 Esports K9,0,1,0.6486140825035975
+10,Hero Xtreme GodLike HX-GODL,Myth Official MYTH,K9 Esports K9,0,1,0.6800557264718592
+10,Hero Xtreme GodLike HX-GODL,Nebula Esports NEBULA,K9 Esports K9,0,1,0.6519242661235207
+10,Hero Xtreme GodLike HX-GODL,Vasista Esports VASISTA,K9 Esports K9,0,1,0.6000226833177298
+10,Hero Xtreme GodLike HX-GODL,Victores Sumus V-SUMUS,K9 Esports K9,0,1,0.6274514055208927
+10,Hero Xtreme GodLike HX-GODL,Welt Esports WELT,K9 Esports K9,0,1,0.6082966060365952
+10,Hero Xtreme GodLike HX-GODL,Wyld Fangs WYLD-F,K9 Esports K9,0,1,0.6746836699845818
+10,Hero Xtreme GodLike HX-GODL,iQOO Orangutan IQ-OG,K9 Esports K9,0,1,0.6615719996251219
+10,Hero Xtreme GodLike HX-GODL,iQOO Reckoning Esports IQ-RGE,K9 Esports K9,0,1,0.6002933229202662
+10,Hero Xtreme GodLike HX-GODL,iQOO Revenant XSpark IQ-RNTX,K9 Esports K9,0,1,0.5301954168036765
+10,Hero Xtreme GodLike HX-GODL,iQOO SouL IQ-SOUL,K9 Esports K9,0,1,0.5006220593331843
+10,Hero Xtreme GodLike HX-GODL,iQOO Team Tamilas IQ-TT,K9 Esports K9,0,1,0.5761416185020674
+10,K9 Esports K9,Learn From Past LEFP,K9 Esports K9,1,1,0.5499442597590738
+10,K9 Esports K9,Meta Ninza META-N,K9 Esports K9,1,1,0.5132489495946437
+10,K9 Esports K9,Myth Official MYTH,K9 Esports K9,1,1,0.5483690910496506
+10,K9 Esports K9,Nebula Esports NEBULA,K9 Esports K9,1,1,0.516884506932526
+10,K9 Esports K9,Vasista Esports VASISTA,K9 Esports K9,1,0,0.4614802345210301
+10,K9 Esports K9,Victores Sumus V-SUMUS,K9 Esports K9,1,0,0.4903397380533189
+10,K9 Esports K9,Welt Esports WELT,K9 Esports K9,1,0,0.47008903158585774
+10,K9 Esports K9,Wyld Fangs WYLD-F,K9 Esports K9,1,1,0.5422741627661909
+10,K9 Esports K9,iQOO Orangutan IQ-OG,K9 Esports K9,1,1,0.5275627430056222
+10,K9 Esports K9,iQOO Reckoning Esports IQ-RGE,K9 Esports K9,1,0,0.4617605266643199
+10,K9 Esports K9,iQOO Revenant XSpark IQ-RNTX,K9 Esports K9,1,0,0.39197551475423464
+10,K9 Esports K9,iQOO SouL IQ-SOUL,K9 Esports K9,1,0,0.3641362128303199
+10,K9 Esports K9,iQOO Team Tamilas IQ-TT,K9 Esports K9,1,0,0.43708757331291753
+10,Learn From Past LEFP,Meta Ninza META-N,K9 Esports K9,0,0,0.49715882928139005
+10,Learn From Past LEFP,Myth Official MYTH,K9 Esports K9,0,1,0.5323821855074623
+10,Learn From Past LEFP,Nebula Esports NEBULA,K9 Esports K9,0,1,0.5007976756453668
+10,Learn From Past LEFP,Vasista Esports VASISTA,K9 Esports K9,0,0,0.44552756158428175
+10,Learn From Past LEFP,Victores Sumus V-SUMUS,K9 Esports K9,0,0,0.47426803622618807
+10,Learn From Past LEFP,Welt Esports WELT,K9 Esports K9,0,0,0.4540897014893812
+10,Learn From Past LEFP,Wyld Fangs WYLD-F,K9 Esports K9,0,1,0.5262578961259711
+10,Learn From Past LEFP,iQOO Orangutan IQ-OG,K9 Esports K9,0,1,0.5114954342906234
+10,Learn From Past LEFP,iQOO Reckoning Esports IQ-RGE,K9 Esports K9,0,0,0.44580618558569957
+10,Learn From Past LEFP,iQOO Revenant XSpark IQ-RNTX,K9 Esports K9,0,0,0.3767446217440325
+10,Learn From Past LEFP,iQOO SouL IQ-SOUL,K9 Esports K9,0,0,0.34936550355454005
+10,Learn From Past LEFP,iQOO Team Tamilas IQ-TT,K9 Esports K9,0,0,0.4213184149285698
+10,Meta Ninza META-N,Myth Official MYTH,K9 Esports K9,0,1,0.5688467760302404
+10,Meta Ninza META-N,Nebula Esports NEBULA,K9 Esports K9,0,1,0.5375859576485186
+10,Meta Ninza META-N,Vasista Esports VASISTA,K9 Esports K9,0,0,0.4821773764364657
+10,Meta Ninza META-N,Victores Sumus V-SUMUS,K9 Esports K9,0,1,0.511102776754882
+10,Meta Ninza META-N,Welt Esports WELT,K9 Esports K9,0,0,0.49082037230773584
+10,Meta Ninza META-N,Wyld Fangs WYLD-F,K9 Esports K9,0,1,0.5628078760738918
+10,Meta Ninza META-N,iQOO Orangutan IQ-OG,K9 Esports K9,0,1,0.5482065731851676
+10,Meta Ninza META-N,iQOO Reckoning Esports IQ-RGE,K9 Esports K9,0,0,0.4824589772365042
+10,Meta Ninza META-N,iQOO Revenant XSpark IQ-RNTX,K9 Esports K9,0,0,0.41193994281350677
+10,Meta Ninza META-N,iQOO SouL IQ-SOUL,K9 Esports K9,0,0,0.3835772218444614
+10,Meta Ninza META-N,iQOO Team Tamilas IQ-TT,K9 Esports K9,0,0,0.45762036886776064
+10,Myth Official MYTH,Nebula Esports NEBULA,K9 Esports K9,0,1,0.50238820165855
+10,Myth Official MYTH,Vasista Esports VASISTA,K9 Esports K9,0,0,0.4470997665087209
+10,Myth Official MYTH,Victores Sumus V-SUMUS,K9 Esports K9,0,0,0.4758546215030412
+10,Myth Official MYTH,Welt Esports WELT,K9 Esports K9,0,0,0.45566729055582184
+10,Myth Official MYTH,Wyld Fangs WYLD-F,K9 Esports K9,0,1,0.5278437827675326
+10,Myth Official MYTH,iQOO Orangutan IQ-OG,K9 Esports K9,0,1,0.5130850154419253
+10,Myth Official MYTH,iQOO Reckoning Esports IQ-RGE,K9 Esports K9,0,0,0.4473785804157084
+10,Myth Official MYTH,iQOO Revenant XSpark IQ-RNTX,K9 Esports K9,0,0,0.37823967914519624
+10,Myth Official MYTH,iQOO SouL IQ-SOUL,K9 Esports K9,0,0,0.3508130669517846
+10,Myth Official MYTH,iQOO Team Tamilas IQ-TT,K9 Esports K9,0,0,0.4228703431706318
+10,Nebula Esports NEBULA,Vasista Esports VASISTA,K9 Esports K9,0,0,0.47854412898720045
+10,Nebula Esports NEBULA,Victores Sumus V-SUMUS,K9 Esports K9,0,1,0.5074651697772354
+10,Nebula Esports NEBULA,Welt Esports WELT,K9 Esports K9,0,0,0.48718327139708956
+10,Nebula Esports NEBULA,Wyld Fangs WYLD-F,K9 Esports K9,0,1,0.5592232036352323
+10,Nebula Esports NEBULA,iQOO Orangutan IQ-OG,K9 Esports K9,0,1,0.5445990531305062
+10,Nebula Esports NEBULA,iQOO Reckoning Esports IQ-RGE,K9 Esports K9,0,0,0.4788255699886994
+10,Nebula Esports NEBULA,iQOO Revenant XSpark IQ-RNTX,K9 Esports K9,0,0,0.40841851276748065
+10,Nebula Esports NEBULA,iQOO SouL IQ-SOUL,K9 Esports K9,0,0,0.38014151622538017
+10,Nebula Esports NEBULA,iQOO Team Tamilas IQ-TT,K9 Esports K9,0,0,0.45400992429770054
+10,Vasista Esports VASISTA,Victores Sumus V-SUMUS,K9 Esports K9,0,1,0.5626223451111397
+10,Vasista Esports VASISTA,Welt Esports WELT,K9 Esports K9,0,1,0.5425643672626871
+10,Vasista Esports VASISTA,Wyld Fangs WYLD-F,K9 Esports K9,0,1,0.6130043932215551
+10,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,K9 Esports K9,0,1,0.5988847306810753
+10,Vasista Esports VASISTA,iQOO Reckoning Esports IQ-RGE,K9 Esports K9,0,1,0.5342463675172912
+10,Vasista Esports VASISTA,iQOO Revenant XSpark IQ-RNTX,K9 Esports K9,0,0,0.4629285720473779
+10,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,K9 Esports K9,0,0,0.43364400569298767
+10,Vasista Esports VASISTA,iQOO Team Tamilas IQ-TT,K9 Esports K9,0,1,0.5093656424734702
+10,Victores Sumus V-SUMUS,Welt Esports WELT,K9 Esports K9,0,1,0.513729404561603
+10,Victores Sumus V-SUMUS,Wyld Fangs WYLD-F,K9 Esports K9,0,1,0.585215158949613
+10,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,K9 Esports K9,0,1,0.5707915009609607
+10,Victores Sumus V-SUMUS,iQOO Reckoning Esports IQ-RGE,K9 Esports K9,0,1,0.5053650857804662
+10,Victores Sumus V-SUMUS,iQOO Revenant XSpark IQ-RNTX,K9 Esports K9,0,0,0.43430759528543433
+10,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,K9 Esports K9,0,0,0.40546668737010244
+10,Victores Sumus V-SUMUS,iQOO Team Tamilas IQ-TT,K9 Esports K9,0,0,0.4804419424137108
+10,Welt Esports WELT,Wyld Fangs WYLD-F,K9 Esports K9,0,1,0.6047653011354919
+10,Welt Esports WELT,iQOO Orangutan IQ-OG,K9 Esports K9,0,1,0.5905458213413365
+10,Welt Esports WELT,iQOO Reckoning Esports IQ-RGE,K9 Esports K9,0,1,0.5256280744002768
+10,Welt Esports WELT,iQOO Revenant XSpark IQ-RNTX,K9 Esports K9,0,0,0.45433847595043175
+10,Welt Esports WELT,iQOO SouL IQ-SOUL,K9 Esports K9,0,0,0.42516713334706185
+10,Welt Esports WELT,iQOO Team Tamilas IQ-TT,K9 Esports K9,0,1,0.5007172191268517
+10,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,K9 Esports K9,0,1,0.5192240223431721
+10,Wyld Fangs WYLD-F,iQOO Reckoning Esports IQ-RGE,K9 Esports K9,0,0,0.45346357684731964
+10,Wyld Fangs WYLD-F,iQOO Revenant XSpark IQ-RNTX,K9 Esports K9,0,0,0.38403779887627026
+10,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,K9 Esports K9,0,0,0.35643177396133885
+10,Wyld Fangs WYLD-F,iQOO Team Tamilas IQ-TT,K9 Esports K9,0,0,0.4288806977947862
+10,iQOO Orangutan IQ-OG,iQOO Reckoning Esports IQ-RGE,K9 Esports K9,0,0,0.4681562728390074
+10,iQOO Orangutan IQ-OG,iQOO Revenant XSpark IQ-RNTX,K9 Esports K9,0,0,0.39811963194485933
+10,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,K9 Esports K9,0,0,0.37010958050775716
+10,iQOO Orangutan IQ-OG,iQOO Team Tamilas IQ-TT,K9 Esports K9,0,0,0.443423118548975
+10,iQOO Reckoning Esports IQ-RGE,iQOO Revenant XSpark IQ-RNTX,K9 Esports K9,0,0,0.4626481803291452
+10,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,K9 Esports K9,0,0,0.4333670389314252
+10,iQOO Reckoning Esports IQ-RGE,iQOO Team Tamilas IQ-TT,K9 Esports K9,0,1,0.5090837850376981
+10,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,K9 Esports K9,0,1,0.504407858186904
+10,iQOO Revenant XSpark IQ-RNTX,iQOO Team Tamilas IQ-TT,K9 Esports K9,0,1,0.5798354054578575
+10,iQOO SouL IQ-SOUL,iQOO Team Tamilas IQ-TT,K9 Esports K9,0,1,0.6083872980584187
+11,Genesis Esports GENs,Hero Xtreme GodLike HX-GODL,Nebula Esports NEBULA,0,1,0.5458384590705864
+11,Genesis Esports GENs,K9 Esports K9,Nebula Esports NEBULA,0,1,0.7436029806602764
+11,Genesis Esports GENs,Learn From Past LEFP,Nebula Esports NEBULA,0,1,0.625281141427471
+11,Genesis Esports GENs,Meta Ninza META-N,Nebula Esports NEBULA,0,1,0.6111174155865804
+11,Genesis Esports GENs,Myth Official MYTH,Nebula Esports NEBULA,0,1,0.6262009600869705
+11,Genesis Esports GENs,Nebula Esports NEBULA,Nebula Esports NEBULA,0,1,0.5999400068513192
+11,Genesis Esports GENs,Vasista Esports VASISTA,Nebula Esports NEBULA,0,1,0.5166315766475805
+11,Genesis Esports GENs,Victores Sumus V-SUMUS,Nebula Esports NEBULA,0,1,0.5362053284471023
+11,Genesis Esports GENs,Welt Esports WELT,Nebula Esports NEBULA,0,1,0.5566398711336967
+11,Genesis Esports GENs,Wyld Fangs WYLD-F,Nebula Esports NEBULA,0,1,0.607516712876717
+11,Genesis Esports GENs,iQOO Orangutan IQ-OG,Nebula Esports NEBULA,0,0,0.46963709450215946
+11,Genesis Esports GENs,iQOO Reckoning Esports IQ-RGE,Nebula Esports NEBULA,0,1,0.5988211065674343
+11,Genesis Esports GENs,iQOO Revenant XSpark IQ-RNTX,Nebula Esports NEBULA,0,0,0.4913371355656594
+11,Genesis Esports GENs,iQOO SouL IQ-SOUL,Nebula Esports NEBULA,0,0,0.426043054561579
+11,Genesis Esports GENs,iQOO Team Tamilas IQ-TT,Nebula Esports NEBULA,0,1,0.5548762587620881
+11,Hero Xtreme GodLike HX-GODL,K9 Esports K9,Nebula Esports NEBULA,0,1,0.7343844142081456
+11,Hero Xtreme GodLike HX-GODL,Learn From Past LEFP,Nebula Esports NEBULA,0,1,0.6140166225752385
+11,Hero Xtreme GodLike HX-GODL,Meta Ninza META-N,Nebula Esports NEBULA,0,1,0.5996996981295695
+11,Hero Xtreme GodLike HX-GODL,Myth Official MYTH,Nebula Esports NEBULA,0,1,0.6149470644988418
+11,Hero Xtreme GodLike HX-GODL,Nebula Esports NEBULA,Nebula Esports NEBULA,0,1,0.5884151396759525
+11,Hero Xtreme GodLike HX-GODL,Vasista Esports VASISTA,Nebula Esports NEBULA,0,1,0.5046881659987538
+11,Hero Xtreme GodLike HX-GODL,Victores Sumus V-SUMUS,Nebula Esports NEBULA,0,1,0.5243002359184951
+11,Hero Xtreme GodLike HX-GODL,Welt Esports WELT,Nebula Esports NEBULA,0,1,0.5448140341470327
+11,Hero Xtreme GodLike HX-GODL,Wyld Fangs WYLD-F,Nebula Esports NEBULA,0,1,0.5960631550544044
+11,Hero Xtreme GodLike HX-GODL,iQOO Orangutan IQ-OG,Nebula Esports NEBULA,0,0,0.457751260588869
+11,Hero Xtreme GodLike HX-GODL,iQOO Reckoning Esports IQ-RGE,Nebula Esports NEBULA,0,1,0.5872861802496054
+11,Hero Xtreme GodLike HX-GODL,iQOO Revenant XSpark IQ-RNTX,Nebula Esports NEBULA,0,0,0.479398527482863
+11,Hero Xtreme GodLike HX-GODL,iQOO SouL IQ-SOUL,Nebula Esports NEBULA,0,0,0.4143984588605347
+11,Hero Xtreme GodLike HX-GODL,iQOO Team Tamilas IQ-TT,Nebula Esports NEBULA,0,1,0.543041997738708
+11,K9 Esports K9,Learn From Past LEFP,Nebula Esports NEBULA,0,0,0.3973109062932279
+11,K9 Esports K9,Meta Ninza META-N,Nebula Esports NEBULA,0,0,0.3830326102119157
+11,K9 Esports K9,Myth Official MYTH,Nebula Esports NEBULA,0,0,0.39825178578032716
+11,K9 Esports K9,Nebula Esports NEBULA,Nebula Esports NEBULA,0,0,0.3720359223004346
+11,K9 Esports K9,Vasista Esports VASISTA,Nebula Esports NEBULA,0,0,0.2968889184741347
+11,K9 Esports K9,Victores Sumus V-SUMUS,Nebula Esports NEBULA,0,0,0.3135375353139808
+11,K9 Esports K9,Welt Esports WELT,Nebula Esports NEBULA,0,0,0.33155252387748474
+11,K9 Esports K9,Wyld Fangs WYLD-F,Nebula Esports NEBULA,0,0,0.3794644540672389
+11,K9 Esports K9,iQOO Orangutan IQ-OG,Nebula Esports NEBULA,0,0,0.2591657813900097
+11,K9 Esports K9,iQOO Reckoning Esports IQ-RGE,Nebula Esports NEBULA,0,0,0.3709479522500503
+11,K9 Esports K9,iQOO Revenant XSpark IQ-RNTX,Nebula Esports NEBULA,0,0,0.2762054482520816
+11,K9 Esports K9,iQOO SouL IQ-SOUL,Nebula Esports NEBULA,0,0,0.22675572534019134
+11,K9 Esports K9,iQOO Team Tamilas IQ-TT,Nebula Esports NEBULA,0,0,0.32997129836734457
+11,Learn From Past LEFP,Meta Ninza META-N,Nebula Esports NEBULA,0,1,0.5190055346849055
+11,Learn From Past LEFP,Myth Official MYTH,Nebula Esports NEBULA,0,1,0.5349429818777449
+11,Learn From Past LEFP,Nebula Esports NEBULA,Nebula Esports NEBULA,0,1,0.5073150467751695
+11,Learn From Past LEFP,Vasista Esports VASISTA,Nebula Esports NEBULA,0,0,0.4232607083218459
+11,Learn From Past LEFP,Victores Sumus V-SUMUS,Nebula Esports NEBULA,0,0,0.44253562239508154
+11,Learn From Past LEFP,Welt Esports WELT,Nebula Esports NEBULA,0,0,0.46296376984158477
+11,Learn From Past LEFP,Wyld Fangs WYLD-F,Nebula Esports NEBULA,0,1,0.5152285040964691
+11,Learn From Past LEFP,iQOO Orangutan IQ-OG,Nebula Esports NEBULA,0,0,0.3781156338598917
+11,Learn From Past LEFP,iQOO Reckoning Esports IQ-RGE,Nebula Esports NEBULA,0,1,0.5061503362768185
+11,Learn From Past LEFP,iQOO Revenant XSpark IQ-RNTX,Nebula Esports NEBULA,0,0,0.39876639262604663
+11,Learn From Past LEFP,iQOO SouL IQ-SOUL,Nebula Esports NEBULA,0,0,0.337609167636179
+11,Learn From Past LEFP,iQOO Team Tamilas IQ-TT,Nebula Esports NEBULA,0,0,0.46118822292362877
+11,Meta Ninza META-N,Myth Official MYTH,Nebula Esports NEBULA,0,1,0.5498374220509282
+11,Meta Ninza META-N,Nebula Esports NEBULA,Nebula Esports NEBULA,0,1,0.5223041788561745
+11,Meta Ninza META-N,Vasista Esports VASISTA,Nebula Esports NEBULA,0,0,0.4379740600114736
+11,Meta Ninza META-N,Victores Sumus V-SUMUS,Nebula Esports NEBULA,0,0,0.4573876321175898
+11,Meta Ninza META-N,Welt Esports WELT,Nebula Esports NEBULA,0,0,0.4779136143284639
+11,Meta Ninza META-N,Wyld Fangs WYLD-F,Nebula Esports NEBULA,0,1,0.5301998329284471
+11,Meta Ninza META-N,iQOO Orangutan IQ-OG,Nebula Esports NEBULA,0,0,0.3923271933509751
+11,Meta Ninza META-N,iQOO Reckoning Esports IQ-RGE,Nebula Esports NEBULA,0,1,0.5211414559576901
+11,Meta Ninza META-N,iQOO Revenant XSpark IQ-RNTX,Nebula Esports NEBULA,0,0,0.4132383596566624
+11,Meta Ninza META-N,iQOO SouL IQ-SOUL,Nebula Esports NEBULA,0,0,0.3511579577365482
+11,Meta Ninza META-N,iQOO Team Tamilas IQ-TT,Nebula Esports NEBULA,0,0,0.4761315650836648
+11,Myth Official MYTH,Nebula Esports NEBULA,Nebula Esports NEBULA,0,1,0.5063333112593502
+11,Myth Official MYTH,Vasista Esports VASISTA,Nebula Esports NEBULA,0,0,0.4223022094705285
+11,Myth Official MYTH,Victores Sumus V-SUMUS,Nebula Esports NEBULA,0,0,0.4415668933331982
+11,Myth Official MYTH,Welt Esports WELT,Nebula Esports NEBULA,0,0,0.4619873819096438
+11,Myth Official MYTH,Wyld Fangs WYLD-F,Nebula Esports NEBULA,0,1,0.5142474387931851
+11,Myth Official MYTH,iQOO Orangutan IQ-OG,Nebula Esports NEBULA,0,0,0.3771925069755366
+11,Myth Official MYTH,iQOO Reckoning Esports IQ-RGE,Nebula Esports NEBULA,0,1,0.5051685436519459
+11,Myth Official MYTH,iQOO Revenant XSpark IQ-RNTX,Nebula Esports NEBULA,0,0,0.3978251011330143
+11,Myth Official MYTH,iQOO SouL IQ-SOUL,Nebula Esports NEBULA,0,0,0.3367313857509613
+11,Myth Official MYTH,iQOO Team Tamilas IQ-TT,Nebula Esports NEBULA,0,0,0.4602123706650938
+11,Nebula Esports NEBULA,Vasista Esports VASISTA,Nebula Esports NEBULA,1,0,0.44952456955867276
+11,Nebula Esports NEBULA,Victores Sumus V-SUMUS,Nebula Esports NEBULA,1,0,0.469022864241989
+11,Nebula Esports NEBULA,Welt Esports WELT,Nebula Esports NEBULA,1,0,0.4895998597326988
+11,Nebula Esports NEBULA,Wyld Fangs WYLD-F,Nebula Esports NEBULA,1,1,0.5418377093812857
+11,Nebula Esports NEBULA,iQOO Orangutan IQ-OG,Nebula Esports NEBULA,1,0,0.4035382316862651
+11,Nebula Esports NEBULA,iQOO Reckoning Esports IQ-RGE,Nebula Esports NEBULA,1,1,0.5328059980573713
+11,Nebula Esports NEBULA,iQOO Revenant XSpark IQ-RNTX,Nebula Esports NEBULA,1,0,0.4246293928037272
+11,Nebula Esports NEBULA,iQOO SouL IQ-SOUL,Nebula Esports NEBULA,1,0,0.36189317209566474
+11,Nebula Esports NEBULA,iQOO Team Tamilas IQ-TT,Nebula Esports NEBULA,1,0,0.48781495003217606
+11,Vasista Esports VASISTA,Victores Sumus V-SUMUS,Nebula Esports NEBULA,0,1,0.5534442671150236
+11,Vasista Esports VASISTA,Welt Esports WELT,Nebula Esports NEBULA,0,1,0.5737230954762056
+11,Vasista Esports VASISTA,Wyld Fangs WYLD-F,Nebula Esports NEBULA,0,1,0.6239638951446428
+11,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,Nebula Esports NEBULA,0,0,0.4869830348944121
+11,Vasista Esports VASISTA,iQOO Reckoning Esports IQ-RGE,Nebula Esports NEBULA,0,1,0.6154019971754905
+11,Vasista Esports VASISTA,iQOO Revenant XSpark IQ-RNTX,Nebula Esports NEBULA,0,1,0.5087157891499413
+11,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,Nebula Esports NEBULA,0,0,0.4431241456003377
+11,Vasista Esports VASISTA,iQOO Team Tamilas IQ-TT,Nebula Esports NEBULA,0,1,0.57197518434072
+11,Victores Sumus V-SUMUS,Welt Esports WELT,Nebula Esports NEBULA,0,1,0.5544169455410841
+11,Victores Sumus V-SUMUS,Wyld Fangs WYLD-F,Nebula Esports NEBULA,0,1,0.6053680293961762
+11,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,Nebula Esports NEBULA,0,0,0.46739533350651113
+11,Victores Sumus V-SUMUS,iQOO Reckoning Esports IQ-RGE,Nebula Esports NEBULA,0,1,0.5966564241355611
+11,Victores Sumus V-SUMUS,iQOO Revenant XSpark IQ-RNTX,Nebula Esports NEBULA,0,0,0.489087313222479
+11,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,Nebula Esports NEBULA,0,0,0.4238430873129109
+11,Victores Sumus V-SUMUS,iQOO Team Tamilas IQ-TT,Nebula Esports NEBULA,0,1,0.5526515970349359
+11,Welt Esports WELT,Wyld Fangs WYLD-F,Nebula Esports NEBULA,0,1,0.5855070103322514
+11,Welt Esports WELT,iQOO Orangutan IQ-OG,Nebula Esports NEBULA,0,0,0.44693437886502524
+11,Welt Esports WELT,iQOO Reckoning Esports IQ-RGE,Nebula Esports NEBULA,0,1,0.5766635688488937
+11,Welt Esports WELT,iQOO Revenant XSpark IQ-RNTX,Nebula Esports NEBULA,0,0,0.4685120856141398
+11,Welt Esports WELT,iQOO SouL IQ-SOUL,Nebula Esports NEBULA,0,0,0.4038430610997892
+11,Welt Esports WELT,iQOO Team Tamilas IQ-TT,Nebula Esports NEBULA,0,1,0.5321877206471675
+11,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,Nebula Esports NEBULA,0,0,0.3959391261314186
+11,Wyld Fangs WYLD-F,iQOO Reckoning Esports IQ-RGE,Nebula Esports NEBULA,0,1,0.5249148970618661
+11,Wyld Fangs WYLD-F,iQOO Revenant XSpark IQ-RNTX,Nebula Esports NEBULA,0,0,0.41691072788542716
+11,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,Nebula Esports NEBULA,0,0,0.354612049797481
+11,Wyld Fangs WYLD-F,iQOO Team Tamilas IQ-TT,Nebula Esports NEBULA,0,0,0.47990571887982014
+11,iQOO Orangutan IQ-OG,iQOO Reckoning Esports IQ-RGE,Nebula Esports NEBULA,0,1,0.6588624837266115
+11,iQOO Orangutan IQ-OG,iQOO Revenant XSpark IQ-RNTX,Nebula Esports NEBULA,0,1,0.5555247499621887
+11,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,Nebula Esports NEBULA,0,0,0.4899163018702347
+11,iQOO Orangutan IQ-OG,iQOO Team Tamilas IQ-TT,Nebula Esports NEBULA,0,1,0.6172912108970926
+11,iQOO Reckoning Esports IQ-RGE,iQOO Revenant XSpark IQ-RNTX,Nebula Esports NEBULA,0,0,0.42576824252871226
+11,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,Nebula Esports NEBULA,0,0,0.36296990875143614
+11,iQOO Reckoning Esports IQ-RGE,iQOO Team Tamilas IQ-TT,Nebula Esports NEBULA,0,0,0.48897924442823104
+11,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,Nebula Esports NEBULA,0,0,0.4682212499119945
+11,iQOO Revenant XSpark IQ-RNTX,iQOO Team Tamilas IQ-TT,Nebula Esports NEBULA,0,1,0.5965523394364245
+11,iQOO SouL IQ-SOUL,iQOO Team Tamilas IQ-TT,Nebula Esports NEBULA,0,1,0.6580191443913896
+12,Genesis Esports GENs,Hero Xtreme GodLike HX-GODL,iQOO SouL IQ-SOUL,0,1,0.6344370316004745
+12,Genesis Esports GENs,K9 Esports K9,iQOO SouL IQ-SOUL,0,1,0.7898172949471124
+12,Genesis Esports GENs,Learn From Past LEFP,iQOO SouL IQ-SOUL,0,1,0.6472503027926865
+12,Genesis Esports GENs,Meta Ninza META-N,iQOO SouL IQ-SOUL,0,1,0.6684722776875346
+12,Genesis Esports GENs,Myth Official MYTH,iQOO SouL IQ-SOUL,0,1,0.7281222869797344
+12,Genesis Esports GENs,Nebula Esports NEBULA,iQOO SouL IQ-SOUL,0,1,0.7730624597576897
+12,Genesis Esports GENs,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,0,1,0.6288464878212898
+12,Genesis Esports GENs,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,0,1,0.6036139150898255
+12,Genesis Esports GENs,Welt Esports WELT,iQOO SouL IQ-SOUL,0,1,0.6441817528685787
+12,Genesis Esports GENs,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,0,1,0.6205083123386114
+12,Genesis Esports GENs,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,0,1,0.5753611140020104
+12,Genesis Esports GENs,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,0,1,0.6614680850495455
+12,Genesis Esports GENs,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,0,1,0.5533822792026728
+12,Genesis Esports GENs,iQOO SouL IQ-SOUL,iQOO SouL IQ-SOUL,0,1,0.5335908101459684
+12,Genesis Esports GENs,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,0,1,0.6286620581750414
+12,Hero Xtreme GodLike HX-GODL,K9 Esports K9,iQOO SouL IQ-SOUL,0,1,0.7127130710739908
+12,Hero Xtreme GodLike HX-GODL,Learn From Past LEFP,iQOO SouL IQ-SOUL,0,1,0.5477904958953183
+12,Hero Xtreme GodLike HX-GODL,Meta Ninza META-N,iQOO SouL IQ-SOUL,0,1,0.5710304183502514
+12,Hero Xtreme GodLike HX-GODL,Myth Official MYTH,iQOO SouL IQ-SOUL,0,1,0.6387377018934421
+12,Hero Xtreme GodLike HX-GODL,Nebula Esports NEBULA,iQOO SouL IQ-SOUL,0,1,0.6922070919859434
+12,Hero Xtreme GodLike HX-GODL,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,0,1,0.5279818297960354
+12,Hero Xtreme GodLike HX-GODL,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,0,1,0.5013297613240216
+12,Hero Xtreme GodLike HX-GODL,Welt Esports WELT,iQOO SouL IQ-SOUL,0,1,0.5444656745359878
+12,Hero Xtreme GodLike HX-GODL,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,0,1,0.5191105068608797
+12,Hero Xtreme GodLike HX-GODL,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,0,0,0.47216174768225433
+12,Hero Xtreme GodLike HX-GODL,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,0,1,0.5633124115862911
+12,Hero Xtreme GodLike HX-GODL,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,0,0,0.44994795093876216
+12,Hero Xtreme GodLike HX-GODL,iQOO SouL IQ-SOUL,iQOO SouL IQ-SOUL,0,0,0.43029170833457386
+12,Hero Xtreme GodLike HX-GODL,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,0,1,0.5277849162469336
+12,K9 Esports K9,Learn From Past LEFP,iQOO SouL IQ-SOUL,0,0,0.3587536776015489
+12,K9 Esports K9,Meta Ninza META-N,iQOO SouL IQ-SOUL,0,0,0.38072584999696696
+12,K9 Esports K9,Myth Official MYTH,iQOO SouL IQ-SOUL,0,0,0.4495137916285765
+12,K9 Esports K9,Nebula Esports NEBULA,iQOO SouL IQ-SOUL,0,1,0.5094821188420987
+12,K9 Esports K9,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,0,0,0.3406316631895465
+12,K9 Esports K9,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,0,0,0.3170838325679402
+12,K9 Esports K9,Welt Esports WELT,iQOO SouL IQ-SOUL,0,0,0.35567378994611704
+12,K9 Esports K9,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,0,0,0.33268953163412457
+12,K9 Esports K9,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,0,0,0.29235096189893073
+12,K9 Esports K9,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,0,0,0.3733413952179499
+12,K9 Esports K9,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,0,0,0.2742021409043586
+12,K9 Esports K9,iQOO SouL IQ-SOUL,iQOO SouL IQ-SOUL,0,0,0.25861375859260366
+12,K9 Esports K9,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,0,0,0.3404542251521538
+12,Learn From Past LEFP,Meta Ninza META-N,iQOO SouL IQ-SOUL,0,1,0.557342004823785
+12,Learn From Past LEFP,Myth Official MYTH,iQOO SouL IQ-SOUL,0,1,0.6257939889921382
+12,Learn From Past LEFP,Nebula Esports NEBULA,iQOO SouL IQ-SOUL,0,1,0.6802200268031433
+12,Learn From Past LEFP,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,0,1,0.5140886524760361
+12,Learn From Past LEFP,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,0,0,0.48741370960383834
+12,Learn From Past LEFP,Welt Esports WELT,iQOO SouL IQ-SOUL,0,1,0.5306263540306534
+12,Learn From Past LEFP,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,0,1,0.5052009189343721
+12,Learn From Past LEFP,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,0,0,0.4583112239009195
+12,Learn From Past LEFP,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,0,1,0.5495719830737703
+12,Learn From Past LEFP,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,0,0,0.4362105431887836
+12,Learn From Past LEFP,iQOO SouL IQ-SOUL,iQOO SouL IQ-SOUL,0,0,0.41669979274604596
+12,Learn From Past LEFP,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,0,1,0.513891279269072
+12,Meta Ninza META-N,Myth Official MYTH,iQOO SouL IQ-SOUL,0,1,0.6034606627995813
+12,Meta Ninza META-N,Nebula Esports NEBULA,iQOO SouL IQ-SOUL,0,1,0.6593668579308503
+12,Meta Ninza META-N,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,0,0,0.4905162356384403
+12,Meta Ninza META-N,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,0,0,0.46389670735854754
+12,Meta Ninza META-N,Welt Esports WELT,iQOO SouL IQ-SOUL,0,1,0.5070869833272742
+12,Meta Ninza META-N,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,0,0,0.481632091054932
+12,Meta Ninza META-N,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,0,0,0.4350067390985411
+12,Meta Ninza META-N,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,0,1,0.5261342473838403
+12,Meta Ninza META-N,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,0,0,0.4131726781613043
+12,Meta Ninza META-N,iQOO SouL IQ-SOUL,iQOO SouL IQ-SOUL,0,0,0.3939723012355553
+12,Meta Ninza META-N,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,0,0,0.4903187803428566
+12,Myth Official MYTH,Nebula Esports NEBULA,iQOO SouL IQ-SOUL,0,1,0.5930626651926169
+12,Myth Official MYTH,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,0,0,0.42024377730327545
+12,Myth Official MYTH,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,0,0,0.394485034261926
+12,Myth Official MYTH,Welt Esports WELT,iQOO SouL IQ-SOUL,0,0,0.436474334262949
+12,Myth Official MYTH,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,0,0,0.4116041498438204
+12,Myth Official MYTH,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,0,0,0.3669589183965539
+12,Myth Official MYTH,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,0,0,0.45531930686257605
+12,Myth Official MYTH,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,0,0,0.3464460156543282
+12,Myth Official MYTH,iQOO SouL IQ-SOUL,iQOO SouL IQ-SOUL,0,0,0.3286100725840688
+12,Myth Official MYTH,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,0,0,0.42005128753592225
+12,Nebula Esports NEBULA,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,0,0,0.3630059394848341
+12,Nebula Esports NEBULA,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,0,0,0.33870590618230323
+12,Nebula Esports NEBULA,Welt Esports WELT,iQOO SouL IQ-SOUL,0,0,0.3784689826712944
+12,Nebula Esports NEBULA,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,0,0,0.35482285893110305
+12,Nebula Esports NEBULA,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,0,0,0.31305962990349867
+12,Nebula Esports NEBULA,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,0,0,0.3965719838748949
+12,Nebula Esports NEBULA,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,0,0,0.2941596314926115
+12,Nebula Esports NEBULA,iQOO SouL IQ-SOUL,iQOO SouL IQ-SOUL,0,0,0.27787104044757216
+12,Nebula Esports NEBULA,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,0,0,0.3628232597332454
+12,Vasista Esports VASISTA,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,0,1,0.5073362588907485
+12,Vasista Esports VASISTA,Welt Esports WELT,iQOO SouL IQ-SOUL,0,1,0.5504185406613163
+12,Vasista Esports VASISTA,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,0,1,0.5251057111133953
+12,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,0,0,0.47815386747105976
+12,Vasista Esports VASISTA,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,0,1,0.5692138552405047
+12,Vasista Esports VASISTA,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,0,0,0.45590165035782865
+12,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,iQOO SouL IQ-SOUL,0,0,0.4361915690798164
+12,Vasista Esports VASISTA,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,0,1,0.533769104420367
+12,Victores Sumus V-SUMUS,Welt Esports WELT,iQOO SouL IQ-SOUL,0,1,0.576662451934004
+12,Victores Sumus V-SUMUS,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,0,1,0.5516235571730007
+12,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,0,1,0.504821133324554
+12,Victores Sumus V-SUMUS,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,0,1,0.5951675670213599
+12,Victores Sumus V-SUMUS,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,0,0,0.48247528591649347
+12,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,iQOO SouL IQ-SOUL,0,0,0.4625931064239899
+12,Victores Sumus V-SUMUS,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,0,1,0.5602083539768896
+12,Welt Esports WELT,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,0,1,0.5085536473334199
+12,Welt Esports WELT,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,0,0,0.46164310044756723
+12,Welt Esports WELT,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,0,1,0.5528901402694771
+12,Welt Esports WELT,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,0,0,0.43951211322481754
+12,Welt Esports WELT,iQOO SouL IQ-SOUL,iQOO SouL IQ-SOUL,0,0,0.4199636908342751
+12,Welt Esports WELT,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,0,1,0.5172413918309111
+12,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,0,0,0.48703413383572886
+12,Wyld Fangs WYLD-F,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,0,1,0.5779124256407627
+12,Wyld Fangs WYLD-F,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,0,0,0.4647366897974115
+12,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,iQOO SouL IQ-SOUL,0,0,0.4449570095001307
+12,Wyld Fangs WYLD-F,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,0,1,0.5426082764611082
+12,iQOO Orangutan IQ-OG,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,0,1,0.6229661229445657
+12,iQOO Orangutan IQ-OG,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,0,1,0.51166282400188
+12,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,iQOO SouL IQ-SOUL,0,0,0.4917206732721387
+12,iQOO Orangutan IQ-OG,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,0,1,0.5887487144723538
+12,iQOO Reckoning Esports IQ-RGE,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,0,0,0.4208159190824486
+12,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,iQOO SouL IQ-SOUL,0,0,0.40150337210238246
+12,iQOO Reckoning Esports IQ-RGE,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,0,0,0.4981776104349181
+12,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,iQOO SouL IQ-SOUL,0,1,0.5140693796256253
+12,iQOO Revenant XSpark IQ-RNTX,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,0,1,0.6102130253297634
+12,iQOO SouL IQ-SOUL,iQOO Team Tamilas IQ-TT,iQOO SouL IQ-SOUL,1,1,0.6290136856120618
+13,Genesis Esports GENs,Hero Xtreme GodLike HX-GODL,iQOO Orangutan IQ-OG,0,1,0.5225157575945543
+13,Genesis Esports GENs,K9 Esports K9,iQOO Orangutan IQ-OG,0,1,0.7983133718859792
+13,Genesis Esports GENs,Learn From Past LEFP,iQOO Orangutan IQ-OG,0,1,0.6591131275160389
+13,Genesis Esports GENs,Meta Ninza META-N,iQOO Orangutan IQ-OG,0,1,0.5218079085525017
+13,Genesis Esports GENs,Myth Official MYTH,iQOO Orangutan IQ-OG,0,1,0.6954665139750006
+13,Genesis Esports GENs,Nebula Esports NEBULA,iQOO Orangutan IQ-OG,0,1,0.7688261199261116
+13,Genesis Esports GENs,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,0,1,0.63378916885966
+13,Genesis Esports GENs,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,0,1,0.5866309544658388
+13,Genesis Esports GENs,Welt Esports WELT,iQOO Orangutan IQ-OG,0,1,0.6364333705426861
+13,Genesis Esports GENs,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,0,1,0.6386655971187966
+13,Genesis Esports GENs,iQOO Orangutan IQ-OG,iQOO Orangutan IQ-OG,0,1,0.5639384528262363
+13,Genesis Esports GENs,iQOO Reckoning Esports IQ-RGE,iQOO Orangutan IQ-OG,0,1,0.6658537051401915
+13,Genesis Esports GENs,iQOO Revenant XSpark IQ-RNTX,iQOO Orangutan IQ-OG,0,1,0.5767266472231162
+13,Genesis Esports GENs,iQOO SouL IQ-SOUL,iQOO Orangutan IQ-OG,0,1,0.5863112863155429
+13,Genesis Esports GENs,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,0,1,0.6172844780242829
+13,Hero Xtreme GodLike HX-GODL,K9 Esports K9,iQOO Orangutan IQ-OG,0,1,0.8056101967564915
+13,Hero Xtreme GodLike HX-GODL,Learn From Past LEFP,iQOO Orangutan IQ-OG,0,1,0.6693602531359725
+13,Hero Xtreme GodLike HX-GODL,Meta Ninza META-N,iQOO Orangutan IQ-OG,0,1,0.5332596888465032
+13,Hero Xtreme GodLike HX-GODL,Myth Official MYTH,iQOO Orangutan IQ-OG,0,1,0.7051097689216085
+13,Hero Xtreme GodLike HX-GODL,Nebula Esports NEBULA,iQOO Orangutan IQ-OG,0,1,0.7768916155506489
+13,Hero Xtreme GodLike HX-GODL,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,0,1,0.644386821935436
+13,Hero Xtreme GodLike HX-GODL,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,0,1,0.5977271160760022
+13,Hero Xtreme GodLike HX-GODL,Welt Esports WELT,iQOO Orangutan IQ-OG,0,1,0.6469971232686539
+13,Hero Xtreme GodLike HX-GODL,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,0,1,0.6492002407396278
+13,Hero Xtreme GodLike HX-GODL,iQOO Orangutan IQ-OG,iQOO Orangutan IQ-OG,0,1,0.5752026576386844
+13,Hero Xtreme GodLike HX-GODL,iQOO Reckoning Esports IQ-RGE,iQOO Orangutan IQ-OG,0,1,0.6759978117100041
+13,Hero Xtreme GodLike HX-GODL,iQOO Revenant XSpark IQ-RNTX,iQOO Orangutan IQ-OG,0,1,0.5879019078639129
+13,Hero Xtreme GodLike HX-GODL,iQOO SouL IQ-SOUL,iQOO Orangutan IQ-OG,0,1,0.5974101399812808
+13,Hero Xtreme GodLike HX-GODL,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,0,1,0.6280794754031459
+13,K9 Esports K9,Learn From Past LEFP,iQOO Orangutan IQ-OG,0,0,0.3588476722598454
+13,K9 Esports K9,Meta Ninza META-N,iQOO Orangutan IQ-OG,0,0,0.24004613648395767
+13,K9 Esports K9,Myth Official MYTH,iQOO Orangutan IQ-OG,0,0,0.39797452030218383
+13,K9 Esports K9,Nebula Esports NEBULA,iQOO Orangutan IQ-OG,0,0,0.49049641460232524
+13,K9 Esports K9,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,0,0,0.3337647465321592
+13,K9 Esports K9,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,0,0,0.2911803185134253
+13,K9 Esports K9,Welt Esports WELT,iQOO Orangutan IQ-OG,0,0,0.33630673527907373
+13,K9 Esports K9,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,0,0,0.3384662867770703
+13,K9 Esports K9,iQOO Orangutan IQ-OG,iQOO Orangutan IQ-OG,0,0,0.27238572948636636
+13,K9 Esports K9,iQOO Reckoning Esports IQ-RGE,iQOO Orangutan IQ-OG,0,0,0.3658127844997658
+13,K9 Esports K9,iQOO Revenant XSpark IQ-RNTX,iQOO Orangutan IQ-OG,0,0,0.2828509971950962
+13,K9 Esports K9,iQOO SouL IQ-SOUL,iQOO Orangutan IQ-OG,0,0,0.29090834593999454
+13,K9 Esports K9,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,0,0,0.3182825937095146
+13,Learn From Past LEFP,Meta Ninza META-N,iQOO Orangutan IQ-OG,0,0,0.39269807086205477
+13,Learn From Past LEFP,Myth Official MYTH,iQOO Orangutan IQ-OG,0,1,0.5750608231769415
+13,Learn From Past LEFP,Nebula Esports NEBULA,iQOO Orangutan IQ-OG,0,1,0.6633865548877869
+13,Learn From Past LEFP,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,0,1,0.506308441833949
+13,Learn From Past LEFP,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,0,0,0.45680373022044957
+13,Learn From Past LEFP,Welt Esports WELT,iQOO Orangutan IQ-OG,0,1,0.5091602521991658
+13,Learn From Past LEFP,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,0,1,0.5115742068192827
+13,Learn From Past LEFP,iQOO Orangutan IQ-OG,iQOO Orangutan IQ-OG,0,0,0.43386225390496147
+13,Learn From Past LEFP,iQOO Reckoning Esports IQ-RGE,iQOO Orangutan IQ-OG,0,1,0.5414593470993362
+13,Learn From Past LEFP,iQOO Revenant XSpark IQ-RNTX,iQOO Orangutan IQ-OG,0,0,0.4467225633954034
+13,Learn From Past LEFP,iQOO SouL IQ-SOUL,iQOO Orangutan IQ-OG,0,0,0.4564766844473243
+13,Learn From Past LEFP,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,0,0,0.48869342552414285
+13,Meta Ninza META-N,Myth Official MYTH,iQOO Orangutan IQ-OG,0,1,0.7056993166223747
+13,Meta Ninza META-N,Nebula Esports NEBULA,iQOO Orangutan IQ-OG,0,1,0.7773829642128127
+13,Meta Ninza META-N,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,0,1,0.6450366539562599
+13,Meta Ninza META-N,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,0,1,0.5984090743405445
+13,Meta Ninza META-N,Welt Esports WELT,iQOO Orangutan IQ-OG,0,1,0.6476447935809931
+13,Meta Ninza META-N,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,0,1,0.6498460565037644
+13,Meta Ninza META-N,iQOO Orangutan IQ-OG,iQOO Orangutan IQ-OG,0,1,0.5758957075301285
+13,Meta Ninza META-N,iQOO Reckoning Esports IQ-RGE,iQOO Orangutan IQ-OG,0,1,0.676618867928886
+13,Meta Ninza META-N,iQOO Revenant XSpark IQ-RNTX,iQOO Orangutan IQ-OG,0,1,0.588589058029422
+13,Meta Ninza META-N,iQOO SouL IQ-SOUL,iQOO Orangutan IQ-OG,0,1,0.5980922742878192
+13,Meta Ninza META-N,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,0,1,0.6287419381217632
+13,Myth Official MYTH,Nebula Esports NEBULA,iQOO Orangutan IQ-OG,0,1,0.6252670823991188
+13,Myth Official MYTH,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,0,0,0.46475301260379415
+13,Myth Official MYTH,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,0,0,0.41588862444638847
+13,Myth Official MYTH,Welt Esports WELT,iQOO Orangutan IQ-OG,0,0,0.46759244916516274
+13,Myth Official MYTH,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,0,0,0.46999803571444126
+13,Myth Official MYTH,iQOO Orangutan IQ-OG,iQOO Orangutan IQ-OG,0,0,0.3935133754144983
+13,Myth Official MYTH,iQOO Reckoning Esports IQ-RGE,iQOO Orangutan IQ-OG,0,0,0.4999404348929654
+13,Myth Official MYTH,iQOO Revenant XSpark IQ-RNTX,iQOO Orangutan IQ-OG,0,0,0.4060354593301156
+13,Myth Official MYTH,iQOO SouL IQ-SOUL,iQOO Orangutan IQ-OG,0,0,0.415568461250762
+13,Myth Official MYTH,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,0,0,0.44727392867063104
+13,Nebula Esports NEBULA,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,0,0,0.3735270772887802
+13,Nebula Esports NEBULA,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,0,0,0.32836989537351413
+13,Nebula Esports NEBULA,Welt Esports WELT,iQOO Orangutan IQ-OG,0,0,0.3762008998527316
+13,Nebula Esports NEBULA,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,0,0,0.3784705429255799
+13,Nebula Esports NEBULA,iQOO Orangutan IQ-OG,iQOO Orangutan IQ-OG,0,0,0.30821865470672155
+13,Nebula Esports NEBULA,iQOO Reckoning Esports IQ-RGE,iQOO Orangutan IQ-OG,0,0,0.407060360381914
+13,Nebula Esports NEBULA,iQOO Revenant XSpark IQ-RNTX,iQOO Orangutan IQ-OG,0,0,0.3194562035591538
+13,Nebula Esports NEBULA,iQOO SouL IQ-SOUL,iQOO Orangutan IQ-OG,0,0,0.3280792642649582
+13,Nebula Esports NEBULA,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,0,0,0.3571893494320834
+13,Vasista Esports VASISTA,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,0,0,0.4844101752907738
+13,Vasista Esports VASISTA,Welt Esports WELT,iQOO Orangutan IQ-OG,0,1,0.5368039325416436
+13,Vasista Esports VASISTA,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,0,1,0.5392049730672157
+13,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,iQOO Orangutan IQ-OG,0,0,0.4612595653243913
+13,Vasista Esports VASISTA,iQOO Reckoning Esports IQ-RGE,iQOO Orangutan IQ-OG,0,1,0.5688244145434145
+13,Vasista Esports VASISTA,iQOO Revenant XSpark IQ-RNTX,iQOO Orangutan IQ-OG,0,0,0.47425168077275853
+13,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,iQOO Orangutan IQ-OG,0,0,0.48408097855713067
+13,Vasista Esports VASISTA,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,0,1,0.5163949596336143
+13,Victores Sumus V-SUMUS,Welt Esports WELT,iQOO Orangutan IQ-OG,0,1,0.5856313516894693
+13,Victores Sumus V-SUMUS,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,0,1,0.5879735594906648
+13,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,iQOO Orangutan IQ-OG,0,1,0.5107930825398541
+13,Victores Sumus V-SUMUS,iQOO Reckoning Esports IQ-RGE,iQOO Orangutan IQ-OG,0,1,0.6166866878940118
+13,Victores Sumus V-SUMUS,iQOO Revenant XSpark IQ-RNTX,iQOO Orangutan IQ-OG,0,1,0.5238238279359441
+13,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,iQOO Orangutan IQ-OG,0,1,0.5336377081188476
+13,Victores Sumus V-SUMUS,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,0,1,0.5656329236306534
+13,Welt Esports WELT,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,0,1,0.5363687719845381
+13,Welt Esports WELT,iQOO Orangutan IQ-OG,iQOO Orangutan IQ-OG,0,0,0.4584254725424535
+13,Welt Esports WELT,iQOO Reckoning Esports IQ-RGE,iQOO Orangutan IQ-OG,0,1,0.5660237918829132
+13,Welt Esports WELT,iQOO Revenant XSpark IQ-RNTX,iQOO Orangutan IQ-OG,0,0,0.4714076110865714
+13,Welt Esports WELT,iQOO SouL IQ-SOUL,iQOO Orangutan IQ-OG,0,0,0.48123191777401075
+13,Welt Esports WELT,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,0,1,0.5135450237197908
+13,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,iQOO Orangutan IQ-OG,0,0,0.4560281531279767
+13,Wyld Fangs WYLD-F,iQOO Reckoning Esports IQ-RGE,iQOO Orangutan IQ-OG,0,1,0.563649407681307
+13,Wyld Fangs WYLD-F,iQOO Revenant XSpark IQ-RNTX,iQOO Orangutan IQ-OG,0,0,0.46900119416837244
+13,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,iQOO Orangutan IQ-OG,0,0,0.47882077873625006
+13,Wyld Fangs WYLD-F,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,0,1,0.5111315014175586
+13,iQOO Orangutan IQ-OG,iQOO Reckoning Esports IQ-RGE,iQOO Orangutan IQ-OG,1,1,0.638394323748874
+13,iQOO Orangutan IQ-OG,iQOO Revenant XSpark IQ-RNTX,iQOO Orangutan IQ-OG,1,1,0.5469267233486438
+13,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,iQOO Orangutan IQ-OG,1,1,0.5566674385924963
+13,iQOO Orangutan IQ-OG,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,1,1,0.5883016203927974
+13,iQOO Reckoning Esports IQ-RGE,iQOO Revenant XSpark IQ-RNTX,iQOO Orangutan IQ-OG,0,0,0.43928400372115617
+13,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,iQOO Orangutan IQ-OG,0,0,0.44900751534677946
+13,iQOO Reckoning Esports IQ-RGE,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,0,0,0.48116377527576054
+13,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,iQOO Orangutan IQ-OG,0,1,0.543752641057185
+13,iQOO Revenant XSpark IQ-RNTX,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,0,1,0.5756057959406153
+13,iQOO SouL IQ-SOUL,iQOO Team Tamilas IQ-TT,iQOO Orangutan IQ-OG,0,1,0.5659567415345688
+14,Genesis Esports GENs,Hero Xtreme GodLike HX-GODL,Genesis Esports GENs,1,1,0.573472163082445
+14,Genesis Esports GENs,K9 Esports K9,Genesis Esports GENs,1,1,0.7133549515579789
+14,Genesis Esports GENs,Learn From Past LEFP,Genesis Esports GENs,1,1,0.6814946515834814
+14,Genesis Esports GENs,Meta Ninza META-N,Genesis Esports GENs,1,1,0.6159571502926101
+14,Genesis Esports GENs,Myth Official MYTH,Genesis Esports GENs,1,1,0.7246081708001041
+14,Genesis Esports GENs,Nebula Esports NEBULA,Genesis Esports GENs,1,1,0.7989546604639864
+14,Genesis Esports GENs,Vasista Esports VASISTA,Genesis Esports GENs,1,1,0.6836397175989503
+14,Genesis Esports GENs,Victores Sumus V-SUMUS,Genesis Esports GENs,1,1,0.6294248126842388
+14,Genesis Esports GENs,Welt Esports WELT,Genesis Esports GENs,1,1,0.621587322878542
+14,Genesis Esports GENs,Wyld Fangs WYLD-F,Genesis Esports GENs,1,1,0.6439306029736127
+14,Genesis Esports GENs,iQOO Orangutan IQ-OG,Genesis Esports GENs,1,1,0.7334181562262879
+14,Genesis Esports GENs,iQOO Reckoning Esports IQ-RGE,Genesis Esports GENs,1,1,0.6895260084512869
+14,Genesis Esports GENs,iQOO Revenant XSpark IQ-RNTX,Genesis Esports GENs,1,1,0.513977587101989
+14,Genesis Esports GENs,iQOO SouL IQ-SOUL,Genesis Esports GENs,1,1,0.6718399312269279
+14,Genesis Esports GENs,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,1,1,0.6209929540541319
+14,Hero Xtreme GodLike HX-GODL,K9 Esports K9,Genesis Esports GENs,0,1,0.6795653720470338
+14,Hero Xtreme GodLike HX-GODL,Learn From Past LEFP,Genesis Esports GENs,0,1,0.6458141159540821
+14,Hero Xtreme GodLike HX-GODL,Meta Ninza META-N,Genesis Esports GENs,0,1,0.5774865751942032
+14,Hero Xtreme GodLike HX-GODL,Myth Official MYTH,Genesis Esports GENs,0,1,0.691571575156465
+14,Hero Xtreme GodLike HX-GODL,Nebula Esports NEBULA,Genesis Esports GENs,0,1,0.7720308953614481
+14,Hero Xtreme GodLike HX-GODL,Vasista Esports VASISTA,Genesis Esports GENs,0,1,0.6480753911864717
+14,Hero Xtreme GodLike HX-GODL,Victores Sumus V-SUMUS,Genesis Esports GENs,0,1,0.5914084169090899
+14,Hero Xtreme GodLike HX-GODL,Welt Esports WELT,Genesis Esports GENs,0,1,0.5832991929447433
+14,Hero Xtreme GodLike HX-GODL,Wyld Fangs WYLD-F,Genesis Esports GENs,0,1,0.6064719244424125
+14,Hero Xtreme GodLike HX-GODL,iQOO Orangutan IQ-OG,Genesis Esports GENs,0,1,0.7010023274543706
+14,Hero Xtreme GodLike HX-GODL,iQOO Reckoning Esports IQ-RGE,Genesis Esports GENs,0,1,0.654288775510424
+14,Hero Xtreme GodLike HX-GODL,iQOO Revenant XSpark IQ-RNTX,Genesis Esports GENs,0,0,0.47401483972391023
+14,Hero Xtreme GodLike HX-GODL,iQOO SouL IQ-SOUL,Genesis Esports GENs,0,1,0.6356560600843116
+14,Hero Xtreme GodLike HX-GODL,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,0,1,0.5826850607045323
+14,K9 Esports K9,Learn From Past LEFP,Genesis Esports GENs,0,0,0.4962468627063612
+14,K9 Esports K9,Meta Ninza META-N,Genesis Esports GENs,0,0,0.42476594731588685
+14,K9 Esports K9,Myth Official MYTH,Genesis Esports GENs,0,1,0.5477971447943804
+14,K9 Esports K9,Nebula Esports NEBULA,Genesis Esports GENs,0,1,0.6465964521913309
+14,K9 Esports K9,Vasista Esports VASISTA,Genesis Esports GENs,0,0,0.4987218490430472
+14,K9 Esports K9,Victores Sumus V-SUMUS,Genesis Esports GENs,0,0,0.4388299695789571
+14,K9 Esports K9,Welt Esports WELT,Genesis Esports GENs,0,0,0.43060801483709893
+14,K9 Esports K9,Wyld Fangs WYLD-F,Genesis Esports GENs,0,0,0.45432849712978013
+14,K9 Esports K9,iQOO Orangutan IQ-OG,Genesis Esports GENs,0,1,0.5588195759213732
+14,K9 Esports K9,iQOO Reckoning Esports IQ-RGE,Genesis Esports GENs,0,1,0.505560349685538
+14,K9 Esports K9,iQOO Revenant XSpark IQ-RNTX,Genesis Esports GENs,0,0,0.3274508895773315
+14,K9 Esports K9,iQOO SouL IQ-SOUL,Genesis Esports GENs,0,0,0.48521846944257335
+14,K9 Esports K9,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,0,0,0.4299887561308909
+14,Learn From Past LEFP,Meta Ninza META-N,Genesis Esports GENs,0,0,0.4620348655739195
+14,Learn From Past LEFP,Myth Official MYTH,Genesis Esports GENs,0,1,0.5848849558523983
+14,Learn From Past LEFP,Nebula Esports NEBULA,Genesis Esports GENs,0,1,0.680310061524578
+14,Learn From Past LEFP,Vasista Esports VASISTA,Genesis Esports GENs,0,1,0.536428510193113
+14,Learn From Past LEFP,Victores Sumus V-SUMUS,Genesis Esports GENs,0,0,0.4763110945639528
+14,Learn From Past LEFP,Welt Esports WELT,Genesis Esports GENs,0,0,0.4679725122330389
+14,Learn From Past LEFP,Wyld Fangs WYLD-F,Genesis Esports GENs,0,0,0.4919728523821296
+14,Learn From Past LEFP,iQOO Orangutan IQ-OG,Genesis Esports GENs,0,1,0.595670626134083
+14,Learn From Past LEFP,iQOO Reckoning Esports IQ-RGE,Genesis Esports GENs,0,1,0.5432237466865278
+14,Learn From Past LEFP,iQOO Revenant XSpark IQ-RNTX,Genesis Esports GENs,0,0,0.3615479862059664
+14,Learn From Past LEFP,iQOO SouL IQ-SOUL,Genesis Esports GENs,0,1,0.5229693085991275
+14,Learn From Past LEFP,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,0,0,0.46734362313748684
+14,Meta Ninza META-N,Myth Official MYTH,Genesis Esports GENs,0,1,0.6527355200278211
+14,Meta Ninza META-N,Nebula Esports NEBULA,Genesis Esports GENs,0,1,0.7395099270411073
+14,Meta Ninza META-N,Vasista Esports VASISTA,Genesis Esports GENs,0,1,0.6068757985606169
+14,Meta Ninza META-N,Victores Sumus V-SUMUS,Genesis Esports GENs,0,1,0.5481996717737668
+14,Meta Ninza META-N,Welt Esports WELT,Genesis Esports GENs,0,1,0.539900047892053
+14,Meta Ninza META-N,Wyld Fangs WYLD-F,Genesis Esports GENs,0,1,0.5636809161440143
+14,Meta Ninza META-N,iQOO Orangutan IQ-OG,Genesis Esports GENs,0,1,0.6627747123899057
+14,Meta Ninza META-N,iQOO Reckoning Esports IQ-RGE,Genesis Esports GENs,0,1,0.6133826422420194
+14,Meta Ninza META-N,iQOO Revenant XSpark IQ-RNTX,Genesis Esports GENs,0,0,0.4303493706190773
+14,Meta Ninza META-N,iQOO SouL IQ-SOUL,Genesis Esports GENs,0,1,0.5939135778491039
+14,Meta Ninza META-N,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,0,1,0.5392724750891622
+14,Myth Official MYTH,Nebula Esports NEBULA,Genesis Esports GENs,0,1,0.633766639115266
+14,Myth Official MYTH,Vasista Esports VASISTA,Genesis Esports GENs,0,0,0.48480110569687296
+14,Myth Official MYTH,Victores Sumus V-SUMUS,Genesis Esports GENs,0,0,0.42516306848944024
+14,Myth Official MYTH,Welt Esports WELT,Genesis Esports GENs,0,0,0.417006895978892
+14,Myth Official MYTH,Wyld Fangs WYLD-F,Genesis Esports GENs,0,0,0.4405578525388713
+14,Myth Official MYTH,iQOO Orangutan IQ-OG,Genesis Esports GENs,0,1,0.5450452967899796
+14,Myth Official MYTH,iQOO Reckoning Esports IQ-RGE,Genesis Esports GENs,0,0,0.49163593467464173
+14,Myth Official MYTH,iQOO Revenant XSpark IQ-RNTX,Genesis Esports GENs,0,0,0.31530377245974905
+14,Myth Official MYTH,iQOO SouL IQ-SOUL,Genesis Esports GENs,0,0,0.47132025183740195
+14,Myth Official MYTH,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,0,0,0.4163928931128778
+14,Nebula Esports NEBULA,Vasista Esports VASISTA,Genesis Esports GENs,0,0,0.3838704978137081
+14,Nebula Esports NEBULA,Victores Sumus V-SUMUS,Genesis Esports GENs,0,0,0.32872635226365604
+14,Nebula Esports NEBULA,Welt Esports WELT,Genesis Esports GENs,0,0,0.3213858652567086
+14,Nebula Esports NEBULA,Wyld Fangs WYLD-F,Genesis Esports GENs,0,0,0.3427110706172628
+14,Nebula Esports NEBULA,iQOO Orangutan IQ-OG,Genesis Esports GENs,0,0,0.4423410054085772
+14,Nebula Esports NEBULA,iQOO Reckoning Esports IQ-RGE,Genesis Esports GENs,0,0,0.39036053249115826
+14,Nebula Esports NEBULA,iQOO Revenant XSpark IQ-RNTX,Genesis Esports GENs,0,0,0.23365686895814933
+14,Nebula Esports NEBULA,iQOO SouL IQ-SOUL,Genesis Esports GENs,0,0,0.3711742265098974
+14,Nebula Esports NEBULA,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,0,0,0.32083517353519125
+14,Vasista Esports VASISTA,Victores Sumus V-SUMUS,Genesis Esports GENs,0,0,0.47384219535204325
+14,Vasista Esports VASISTA,Welt Esports WELT,Genesis Esports GENs,0,0,0.46550841487445377
+14,Vasista Esports VASISTA,Wyld Fangs WYLD-F,Genesis Esports GENs,0,0,0.48949865309418006
+14,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,Genesis Esports GENs,0,1,0.5932839463955487
+14,Vasista Esports VASISTA,iQOO Reckoning Esports IQ-RGE,Genesis Esports GENs,0,1,0.5407661575506383
+14,Vasista Esports VASISTA,iQOO Revenant XSpark IQ-RNTX,Genesis Esports GENs,0,0,0.35926585577835607
+14,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,Genesis Esports GENs,0,1,0.5204989362137309
+14,Vasista Esports VASISTA,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,0,0,0.4648799437128454
+14,Victores Sumus V-SUMUS,Welt Esports WELT,Genesis Esports GENs,0,1,0.5256308865696457
+14,Victores Sumus V-SUMUS,Wyld Fangs WYLD-F,Genesis Esports GENs,0,1,0.5495339244130845
+14,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,Genesis Esports GENs,0,1,0.6498448121819199
+14,Victores Sumus V-SUMUS,iQOO Reckoning Esports IQ-RGE,Genesis Esports GENs,0,1,0.5997027470615953
+14,Victores Sumus V-SUMUS,iQOO Revenant XSpark IQ-RNTX,Genesis Esports GENs,0,0,0.4163554870220384
+14,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,Genesis Esports GENs,0,1,0.5800164778206042
+14,Victores Sumus V-SUMUS,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,0,1,0.5250009741294143
+14,Welt Esports WELT,Wyld Fangs WYLD-F,Genesis Esports GENs,0,1,0.5578020999317609
+14,Welt Esports WELT,iQOO Orangutan IQ-OG,Genesis Esports GENs,0,1,0.6574196034109275
+14,Welt Esports WELT,iQOO Reckoning Esports IQ-RGE,Genesis Esports GENs,0,1,0.6077074388525757
+14,Welt Esports WELT,iQOO Revenant XSpark IQ-RNTX,Genesis Esports GENs,0,0,0.4245081959831865
+14,Welt Esports WELT,iQOO SouL IQ-SOUL,Genesis Esports GENs,0,1,0.5881444784401981
+14,Welt Esports WELT,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,0,1,0.533337055208993
+14,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,Genesis Esports GENs,0,1,0.6354435542135219
+14,Wyld Fangs WYLD-F,iQOO Reckoning Esports IQ-RGE,Genesis Esports GENs,0,1,0.5845576233736979
+14,Wyld Fangs WYLD-F,iQOO Revenant XSpark IQ-RNTX,Genesis Esports GENs,0,0,0.40119992197233223
+14,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,Genesis Esports GENs,0,1,0.5646672085275729
+14,Wyld Fangs WYLD-F,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,0,1,0.5093419374623678
+14,iQOO Orangutan IQ-OG,iQOO Reckoning Esports IQ-RGE,Genesis Esports GENs,0,0,0.48049541405517016
+14,iQOO Orangutan IQ-OG,iQOO Revenant XSpark IQ-RNTX,Genesis Esports GENs,0,0,0.30575573866005445
+14,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,Genesis Esports GENs,0,0,0.4602233256683189
+14,iQOO Orangutan IQ-OG,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,0,0,0.40559704538658353
+14,iQOO Reckoning Esports IQ-RGE,iQOO Revenant XSpark IQ-RNTX,Genesis Esports GENs,0,0,0.3529934560337073
+14,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,Genesis Esports GENs,0,1,0.5136682939463144
+14,iQOO Reckoning Esports IQ-RGE,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,0,0,0.4580819059517451
+14,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,Genesis Esports GENs,0,1,0.6892608899022948
+14,iQOO Revenant XSpark IQ-RNTX,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,0,1,0.6396654714380573
+14,iQOO SouL IQ-SOUL,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,0,0,0.47834325884023987
+15,Genesis Esports GENs,Hero Xtreme GodLike HX-GODL,iQOO Reckoning Esports IQ-RGE,0,0,0.4705562673174019
+15,Genesis Esports GENs,K9 Esports K9,iQOO Reckoning Esports IQ-RGE,0,1,0.6453973792940652
+15,Genesis Esports GENs,Learn From Past LEFP,iQOO Reckoning Esports IQ-RGE,0,1,0.5692547180370402
+15,Genesis Esports GENs,Meta Ninza META-N,iQOO Reckoning Esports IQ-RGE,0,1,0.5113442849952466
+15,Genesis Esports GENs,Myth Official MYTH,iQOO Reckoning Esports IQ-RGE,0,1,0.561341748624218
+15,Genesis Esports GENs,Nebula Esports NEBULA,iQOO Reckoning Esports IQ-RGE,0,1,0.6159636299111844
+15,Genesis Esports GENs,Vasista Esports VASISTA,iQOO Reckoning Esports IQ-RGE,0,1,0.5017976768099894
+15,Genesis Esports GENs,Victores Sumus V-SUMUS,iQOO Reckoning Esports IQ-RGE,0,1,0.5283881455711823
+15,Genesis Esports GENs,Welt Esports WELT,iQOO Reckoning Esports IQ-RGE,0,0,0.4949042068739895
+15,Genesis Esports GENs,Wyld Fangs WYLD-F,iQOO Reckoning Esports IQ-RGE,0,1,0.5333457206133532
+15,Genesis Esports GENs,iQOO Orangutan IQ-OG,iQOO Reckoning Esports IQ-RGE,0,1,0.5994758452326524
+15,Genesis Esports GENs,iQOO Reckoning Esports IQ-RGE,iQOO Reckoning Esports IQ-RGE,0,1,0.5640789922968685
+15,Genesis Esports GENs,iQOO Revenant XSpark IQ-RNTX,iQOO Reckoning Esports IQ-RGE,0,0,0.42255141791871514
+15,Genesis Esports GENs,iQOO SouL IQ-SOUL,iQOO Reckoning Esports IQ-RGE,0,1,0.6371502075435822
+15,Genesis Esports GENs,iQOO Team Tamilas IQ-TT,iQOO Reckoning Esports IQ-RGE,0,1,0.5029607338953777
+15,Hero Xtreme GodLike HX-GODL,K9 Esports K9,iQOO Reckoning Esports IQ-RGE,0,1,0.701165126500491
+15,Hero Xtreme GodLike HX-GODL,Learn From Past LEFP,iQOO Reckoning Esports IQ-RGE,0,1,0.6301347407227541
+15,Hero Xtreme GodLike HX-GODL,Meta Ninza META-N,iQOO Reckoning Esports IQ-RGE,0,1,0.5742881960748413
+15,Hero Xtreme GodLike HX-GODL,Myth Official MYTH,iQOO Reckoning Esports IQ-RGE,0,1,0.6225986978001469
+15,Hero Xtreme GodLike HX-GODL,Nebula Esports NEBULA,iQOO Reckoning Esports IQ-RGE,0,1,0.6740223571142724
+15,Hero Xtreme GodLike HX-GODL,Vasista Esports VASISTA,iQOO Reckoning Esports IQ-RGE,0,1,0.5649250034296485
+15,Hero Xtreme GodLike HX-GODL,Victores Sumus V-SUMUS,iQOO Reckoning Esports IQ-RGE,0,1,0.5908931066343325
+15,Hero Xtreme GodLike HX-GODL,Welt Esports WELT,iQOO Reckoning Esports IQ-RGE,0,1,0.5581358590691968
+15,Hero Xtreme GodLike HX-GODL,Wyld Fangs WYLD-F,iQOO Reckoning Esports IQ-RGE,0,1,0.5956963824885676
+15,Hero Xtreme GodLike HX-GODL,iQOO Orangutan IQ-OG,iQOO Reckoning Esports IQ-RGE,0,1,0.6586458381082227
+15,Hero Xtreme GodLike HX-GODL,iQOO Reckoning Esports IQ-RGE,iQOO Reckoning Esports IQ-RGE,0,1,0.6252089098155003
+15,Hero Xtreme GodLike HX-GODL,iQOO Revenant XSpark IQ-RNTX,iQOO Reckoning Esports IQ-RGE,0,0,0.48542302207736304
+15,Hero Xtreme GodLike HX-GODL,iQOO SouL IQ-SOUL,iQOO Reckoning Esports IQ-RGE,0,1,0.6935992170231203
+15,Hero Xtreme GodLike HX-GODL,iQOO Team Tamilas IQ-TT,iQOO Reckoning Esports IQ-RGE,0,1,0.5660681292416541
+15,K9 Esports K9,Learn From Past LEFP,iQOO Reckoning Esports IQ-RGE,0,0,0.45413308881489706
+15,K9 Esports K9,Meta Ninza META-N,iQOO Reckoning Esports IQ-RGE,0,0,0.3971364327547742
+15,K9 Esports K9,Myth Official MYTH,iQOO Reckoning Esports IQ-RGE,0,0,0.4461628417920043
+15,K9 Esports K9,Nebula Esports NEBULA,iQOO Reckoning Esports IQ-RGE,0,1,0.5024136550988988
+15,K9 Esports K9,Vasista Esports VASISTA,iQOO Reckoning Esports IQ-RGE,0,0,0.3880289032866967
+15,K9 Esports K9,Victores Sumus V-SUMUS,iQOO Reckoning Esports IQ-RGE,0,0,0.41359556114611756
+15,K9 Esports K9,Welt Esports WELT,iQOO Reckoning Esports IQ-RGE,0,0,0.3815015338833988
+15,K9 Esports K9,Wyld Fangs WYLD-F,iQOO Reckoning Esports IQ-RGE,0,0,0.41843168687790516
+15,K9 Esports K9,iQOO Orangutan IQ-OG,iQOO Reckoning Esports IQ-RGE,0,0,0.4851258009929507
+15,K9 Esports K9,iQOO Reckoning Esports IQ-RGE,iQOO Reckoning Esports IQ-RGE,0,0,0.4489132155307808
+15,K9 Esports K9,iQOO Revenant XSpark IQ-RNTX,iQOO Reckoning Esports IQ-RGE,0,0,0.3153759952553776
+15,K9 Esports K9,iQOO SouL IQ-SOUL,iQOO Reckoning Esports IQ-RGE,0,1,0.5250341787025924
+15,K9 Esports K9,iQOO Team Tamilas IQ-TT,iQOO Reckoning Esports IQ-RGE,0,0,0.3891342322507309
+15,Learn From Past LEFP,Meta Ninza META-N,iQOO Reckoning Esports IQ-RGE,0,0,0.4756807871843162
+15,Learn From Past LEFP,Myth Official MYTH,iQOO Reckoning Esports IQ-RGE,0,1,0.5259443428776245
+15,Learn From Past LEFP,Nebula Esports NEBULA,iQOO Reckoning Esports IQ-RGE,0,1,0.5816893148088885
+15,Learn From Past LEFP,Vasista Esports VASISTA,iQOO Reckoning Esports IQ-RGE,0,0,0.46616482425842254
+15,Learn From Past LEFP,Victores Sumus V-SUMUS,iQOO Reckoning Esports IQ-RGE,0,0,0.4927345700932028
+15,Learn From Past LEFP,Welt Esports WELT,iQOO Reckoning Esports IQ-RGE,0,0,0.45930956834782793
+15,Learn From Past LEFP,Wyld Fangs WYLD-F,iQOO Reckoning Esports IQ-RGE,0,0,0.49771065721428814
+15,Learn From Past LEFP,iQOO Orangutan IQ-OG,iQOO Reckoning Esports IQ-RGE,0,1,0.5647697704474209
+15,Learn From Past LEFP,iQOO Reckoning Esports IQ-RGE,iQOO Reckoning Esports IQ-RGE,0,1,0.528717023576512
+15,Learn From Past LEFP,iQOO Revenant XSpark IQ-RNTX,iQOO Reckoning Esports IQ-RGE,0,0,0.38816150143276923
+15,Learn From Past LEFP,iQOO SouL IQ-SOUL,iQOO Reckoning Esports IQ-RGE,0,1,0.6035497423124764
+15,Learn From Past LEFP,iQOO Team Tamilas IQ-TT,iQOO Reckoning Esports IQ-RGE,0,0,0.46732276230592995
+15,Meta Ninza META-N,Myth Official MYTH,iQOO Reckoning Esports IQ-RGE,0,1,0.5835337348352605
+15,Meta Ninza META-N,Nebula Esports NEBULA,iQOO Reckoning Esports IQ-RGE,0,1,0.6371783481635606
+15,Meta Ninza META-N,Vasista Esports VASISTA,iQOO Reckoning Esports IQ-RGE,0,1,0.5244500540481972
+15,Meta Ninza META-N,Victores Sumus V-SUMUS,iQOO Reckoning Esports IQ-RGE,0,1,0.5509135214780906
+15,Meta Ninza META-N,Welt Esports WELT,iQOO Reckoning Esports IQ-RGE,0,1,0.5175686807652006
+15,Meta Ninza META-N,Wyld Fangs WYLD-F,iQOO Reckoning Esports IQ-RGE,0,1,0.555833354378874
+15,Meta Ninza META-N,iQOO Orangutan IQ-OG,iQOO Reckoning Esports IQ-RGE,0,1,0.6210410158611857
+15,Meta Ninza META-N,iQOO Reckoning Esports IQ-RGE,iQOO Reckoning Esports IQ-RGE,0,1,0.5862345725327823
+15,Meta Ninza META-N,iQOO Revenant XSpark IQ-RNTX,iQOO Reckoning Esports IQ-RGE,0,0,0.4448204837937151
+15,Meta Ninza META-N,iQOO SouL IQ-SOUL,iQOO Reckoning Esports IQ-RGE,0,1,0.6578446696019766
+15,Meta Ninza META-N,iQOO Team Tamilas IQ-TT,iQOO Reckoning Esports IQ-RGE,0,1,0.5256102227413016
+15,Myth Official MYTH,Nebula Esports NEBULA,iQOO Reckoning Esports IQ-RGE,0,1,0.5895036493745912
+15,Myth Official MYTH,Vasista Esports VASISTA,iQOO Reckoning Esports IQ-RGE,0,0,0.47418645895160183
+15,Myth Official MYTH,Victores Sumus V-SUMUS,iQOO Reckoning Esports IQ-RGE,0,1,0.5007845111310574
+15,Myth Official MYTH,Welt Esports WELT,iQOO Reckoning Esports IQ-RGE,0,0,0.4673165041884771
+15,Myth Official MYTH,Wyld Fangs WYLD-F,iQOO Reckoning Esports IQ-RGE,0,1,0.5057608393818382
+15,Myth Official MYTH,iQOO Orangutan IQ-OG,iQOO Reckoning Esports IQ-RGE,0,1,0.5726679771621814
+15,Myth Official MYTH,iQOO Reckoning Esports IQ-RGE,iQOO Reckoning Esports IQ-RGE,0,1,0.5367328157094249
+15,Myth Official MYTH,iQOO Revenant XSpark IQ-RNTX,iQOO Reckoning Esports IQ-RGE,0,0,0.39583615544087886
+15,Myth Official MYTH,iQOO SouL IQ-SOUL,iQOO Reckoning Esports IQ-RGE,0,1,0.6112286411461504
+15,Myth Official MYTH,iQOO Team Tamilas IQ-TT,iQOO Reckoning Esports IQ-RGE,0,0,0.47534658009449404
+15,Nebula Esports NEBULA,Vasista Esports VASISTA,iQOO Reckoning Esports IQ-RGE,0,0,0.41843834301626753
+15,Nebula Esports NEBULA,Victores Sumus V-SUMUS,iQOO Reckoning Esports IQ-RGE,0,0,0.4445531382722087
+15,Nebula Esports NEBULA,Welt Esports WELT,iQOO Reckoning Esports IQ-RGE,0,0,0.4117436044936864
+15,Nebula Esports NEBULA,Wyld Fangs WYLD-F,iQOO Reckoning Esports IQ-RGE,0,0,0.44947379034969903
+15,Nebula Esports NEBULA,iQOO Orangutan IQ-OG,iQOO Reckoning Esports IQ-RGE,0,1,0.5167196191996603
+15,Nebula Esports NEBULA,iQOO Reckoning Esports IQ-RGE,iQOO Reckoning Esports IQ-RGE,0,0,0.4803488930283141
+15,Nebula Esports NEBULA,iQOO Revenant XSpark IQ-RNTX,iQOO Reckoning Esports IQ-RGE,0,0,0.3432856039720004
+15,Nebula Esports NEBULA,iQOO SouL IQ-SOUL,iQOO Reckoning Esports IQ-RGE,0,1,0.5564182865370124
+15,Nebula Esports NEBULA,iQOO Team Tamilas IQ-TT,iQOO Reckoning Esports IQ-RGE,0,0,0.4195709059205451
+15,Vasista Esports VASISTA,Victores Sumus V-SUMUS,iQOO Reckoning Esports IQ-RGE,0,1,0.5603435785722188
+15,Vasista Esports VASISTA,Welt Esports WELT,iQOO Reckoning Esports IQ-RGE,0,1,0.5270978867080923
+15,Vasista Esports VASISTA,Wyld Fangs WYLD-F,iQOO Reckoning Esports IQ-RGE,0,1,0.5652416298749848
+15,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,iQOO Reckoning Esports IQ-RGE,0,1,0.629987535258882
+15,Vasista Esports VASISTA,iQOO Reckoning Esports IQ-RGE,iQOO Reckoning Esports IQ-RGE,0,1,0.5954675600965957
+15,Vasista Esports VASISTA,iQOO Revenant XSpark IQ-RNTX,iQOO Reckoning Esports IQ-RGE,0,0,0.4542715080197397
+15,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,iQOO Reckoning Esports IQ-RGE,0,1,0.6663890605835522
+15,Vasista Esports VASISTA,iQOO Team Tamilas IQ-TT,iQOO Reckoning Esports IQ-RGE,0,1,0.5351232576893183
+15,Victores Sumus V-SUMUS,Welt Esports WELT,iQOO Reckoning Esports IQ-RGE,0,1,0.5005034402064135
+15,Victores Sumus V-SUMUS,Wyld Fangs WYLD-F,iQOO Reckoning Esports IQ-RGE,0,1,0.5389158328131144
+15,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,iQOO Reckoning Esports IQ-RGE,0,1,0.6048414416089446
+15,Victores Sumus V-SUMUS,iQOO Reckoning Esports IQ-RGE,iQOO Reckoning Esports IQ-RGE,0,1,0.569578312287377
+15,Victores Sumus V-SUMUS,iQOO Revenant XSpark IQ-RNTX,iQOO Reckoning Esports IQ-RGE,0,0,0.42802574776499747
+15,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,iQOO Reckoning Esports IQ-RGE,0,1,0.6423122411241651
+15,Victores Sumus V-SUMUS,iQOO Team Tamilas IQ-TT,iQOO Reckoning Esports IQ-RGE,0,1,0.5085593421948961
+15,Welt Esports WELT,Wyld Fangs WYLD-F,iQOO Reckoning Esports IQ-RGE,0,1,0.5720053169388993
+15,Welt Esports WELT,iQOO Orangutan IQ-OG,iQOO Reckoning Esports IQ-RGE,0,1,0.6363919063785142
+15,Welt Esports WELT,iQOO Reckoning Esports IQ-RGE,iQOO Reckoning Esports IQ-RGE,0,1,0.6020920390871684
+15,Welt Esports WELT,iQOO Revenant XSpark IQ-RNTX,iQOO Reckoning Esports IQ-RGE,0,0,0.4611156974872412
+15,Welt Esports WELT,iQOO SouL IQ-SOUL,iQOO Reckoning Esports IQ-RGE,0,1,0.6724909199811974
+15,Welt Esports WELT,iQOO Team Tamilas IQ-TT,iQOO Reckoning Esports IQ-RGE,0,1,0.5419758235973088
+15,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,iQOO Reckoning Esports IQ-RGE,0,1,0.6000738715047876
+15,Wyld Fangs WYLD-F,iQOO Reckoning Esports IQ-RGE,iQOO Reckoning Esports IQ-RGE,0,1,0.5646914919924313
+15,Wyld Fangs WYLD-F,iQOO Revenant XSpark IQ-RNTX,iQOO Reckoning Esports IQ-RGE,0,0,0.4231594187388453
+15,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,iQOO Reckoning Esports IQ-RGE,0,1,0.6377259759359859
+15,Wyld Fangs WYLD-F,iQOO Team Tamilas IQ-TT,iQOO Reckoning Esports IQ-RGE,0,1,0.503583534542269
+15,iQOO Orangutan IQ-OG,iQOO Reckoning Esports IQ-RGE,iQOO Reckoning Esports IQ-RGE,0,0,0.49763104615923565
+15,iQOO Orangutan IQ-OG,iQOO Revenant XSpark IQ-RNTX,iQOO Reckoning Esports IQ-RGE,0,0,0.3590436479955953
+15,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,iQOO Reckoning Esports IQ-RGE,0,1,0.5734172690499758
+15,iQOO Orangutan IQ-OG,iQOO Team Tamilas IQ-TT,iQOO Reckoning Esports IQ-RGE,0,0,0.43650317272177674
+15,iQOO Reckoning Esports IQ-RGE,iQOO Revenant XSpark IQ-RNTX,iQOO Reckoning Esports IQ-RGE,1,0,0.3931789610854922
+15,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,iQOO Reckoning Esports IQ-RGE,1,1,0.6085820204834127
+15,iQOO Reckoning Esports IQ-RGE,iQOO Team Tamilas IQ-TT,iQOO Reckoning Esports IQ-RGE,1,0,0.4725731332027246
+15,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,iQOO Reckoning Esports IQ-RGE,0,1,0.7332934975705951
+15,iQOO Revenant XSpark IQ-RNTX,iQOO Team Tamilas IQ-TT,iQOO Reckoning Esports IQ-RGE,0,1,0.6130672690113913
+15,iQOO SouL IQ-SOUL,iQOO Team Tamilas IQ-TT,iQOO Reckoning Esports IQ-RGE,0,0,0.39768964635464676
+16,Genesis Esports GENs,Hero Xtreme GodLike HX-GODL,Genesis Esports GENs,1,1,0.5451583842963205
+16,Genesis Esports GENs,K9 Esports K9,Genesis Esports GENs,1,1,0.6642111678840736
+16,Genesis Esports GENs,Learn From Past LEFP,Genesis Esports GENs,1,1,0.5561549316544271
+16,Genesis Esports GENs,Meta Ninza META-N,Genesis Esports GENs,1,1,0.5863162873617597
+16,Genesis Esports GENs,Myth Official MYTH,Genesis Esports GENs,1,1,0.5665235804750071
+16,Genesis Esports GENs,Nebula Esports NEBULA,Genesis Esports GENs,1,1,0.6291946163547834
+16,Genesis Esports GENs,Vasista Esports VASISTA,Genesis Esports GENs,1,1,0.5092951436626891
+16,Genesis Esports GENs,Victores Sumus V-SUMUS,Genesis Esports GENs,1,1,0.537085766439069
+16,Genesis Esports GENs,Welt Esports WELT,Genesis Esports GENs,1,1,0.5524406951834838
+16,Genesis Esports GENs,Wyld Fangs WYLD-F,Genesis Esports GENs,1,1,0.5897965074731779
+16,Genesis Esports GENs,iQOO Orangutan IQ-OG,Genesis Esports GENs,1,1,0.6416475498984211
+16,Genesis Esports GENs,iQOO Reckoning Esports IQ-RGE,Genesis Esports GENs,1,1,0.7069719000712578
+16,Genesis Esports GENs,iQOO Revenant XSpark IQ-RNTX,Genesis Esports GENs,1,0,0.4661707508400381
+16,Genesis Esports GENs,iQOO SouL IQ-SOUL,Genesis Esports GENs,1,1,0.6437597079215567
+16,Genesis Esports GENs,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,1,1,0.5388183430907441
+16,Hero Xtreme GodLike HX-GODL,K9 Esports K9,Genesis Esports GENs,0,1,0.6540892472545563
+16,Hero Xtreme GodLike HX-GODL,Learn From Past LEFP,Genesis Esports GENs,0,1,0.5450070288938024
+16,Hero Xtreme GodLike HX-GODL,Meta Ninza META-N,Genesis Esports GENs,0,1,0.5753475073093006
+16,Hero Xtreme GodLike HX-GODL,Myth Official MYTH,Genesis Esports GENs,0,1,0.5554279276346291
+16,Hero Xtreme GodLike HX-GODL,Nebula Esports NEBULA,Genesis Esports GENs,0,1,0.6186232304886042
+16,Hero Xtreme GodLike HX-GODL,Vasista Esports VASISTA,Genesis Esports GENs,0,0,0.49803256678572677
+16,Hero Xtreme GodLike HX-GODL,Victores Sumus V-SUMUS,Genesis Esports GENs,0,1,0.5258672272295145
+16,Hero Xtreme GodLike HX-GODL,Welt Esports WELT,Genesis Esports GENs,0,1,0.5412764493247113
+16,Hero Xtreme GodLike HX-GODL,Wyld Fangs WYLD-F,Genesis Esports GENs,0,1,0.5788537227818327
+16,Hero Xtreme GodLike HX-GODL,iQOO Orangutan IQ-OG,Genesis Esports GENs,0,1,0.631223105069589
+16,Hero Xtreme GodLike HX-GODL,iQOO Reckoning Esports IQ-RGE,Genesis Esports GENs,0,1,0.6975520164500293
+16,Hero Xtreme GodLike HX-GODL,iQOO Revenant XSpark IQ-RNTX,Genesis Esports GENs,0,0,0.45497760768460466
+16,Hero Xtreme GodLike HX-GODL,iQOO SouL IQ-SOUL,Genesis Esports GENs,0,1,0.633361597258386
+16,Hero Xtreme GodLike HX-GODL,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,0,1,0.5276048612654806
+16,K9 Esports K9,Learn From Past LEFP,Genesis Esports GENs,0,0,0.4205602809335018
+16,K9 Esports K9,Meta Ninza META-N,Genesis Esports GENs,0,0,0.4508374859861003
+16,K9 Esports K9,Myth Official MYTH,Genesis Esports GENs,0,0,0.4308549435314808
+16,K9 Esports K9,Nebula Esports NEBULA,Genesis Esports GENs,0,0,0.495679632169412
+16,K9 Esports K9,Vasista Esports VASISTA,Genesis Esports GENs,0,0,0.37546073463918783
+16,K9 Esports K9,Victores Sumus V-SUMUS,Genesis Esports GENs,0,0,0.40193016724583197
+16,K9 Esports K9,Welt Esports WELT,Genesis Esports GENs,0,0,0.41690101725632894
+16,K9 Esports K9,Wyld Fangs WYLD-F,Genesis Esports GENs,0,0,0.4543968490480684
+16,K9 Esports K9,iQOO Orangutan IQ-OG,Genesis Esports GENs,0,1,0.509118239481157
+16,K9 Esports K9,iQOO Reckoning Esports IQ-RGE,Genesis Esports GENs,0,1,0.5828969861102303
+16,K9 Esports K9,iQOO Revenant XSpark IQ-RNTX,Genesis Esports GENs,0,0,0.335911161612826
+16,K9 Esports K9,iQOO SouL IQ-SOUL,Genesis Esports GENs,0,1,0.511416737164859
+16,K9 Esports K9,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,0,0,0.40360688519684906
+16,Learn From Past LEFP,Meta Ninza META-N,Genesis Esports GENs,0,1,0.5644540797783921
+16,Learn From Past LEFP,Myth Official MYTH,Genesis Esports GENs,0,1,0.5444281227287805
+16,Learn From Past LEFP,Nebula Esports NEBULA,Genesis Esports GENs,0,1,0.6080837336889434
+16,Learn From Past LEFP,Vasista Esports VASISTA,Genesis Esports GENs,0,0,0.48692447646846754
+16,Learn From Past LEFP,Victores Sumus V-SUMUS,Genesis Esports GENs,0,1,0.5147749770113891
+16,Learn From Past LEFP,Welt Esports WELT,Genesis Esports GENs,0,1,0.5302226502078078
+16,Learn From Past LEFP,Wyld Fangs WYLD-F,Genesis Esports GENs,0,1,0.5679827019030567
+16,Learn From Past LEFP,iQOO Orangutan IQ-OG,Genesis Esports GENs,0,1,0.6208183820057325
+16,Learn From Past LEFP,iQOO Reckoning Esports IQ-RGE,Genesis Esports GENs,0,1,0.6880939859559979
+16,Learn From Past LEFP,iQOO Revenant XSpark IQ-RNTX,Genesis Esports GENs,0,0,0.44398045012598636
+16,Learn From Past LEFP,iQOO SouL IQ-SOUL,Genesis Esports GENs,0,1,0.6229811724143784
+16,Learn From Past LEFP,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,0,1,0.5165158874310831
+16,Meta Ninza META-N,Myth Official MYTH,Genesis Esports GENs,0,1,0.5137455599185831
+16,Meta Ninza META-N,Nebula Esports NEBULA,Genesis Esports GENs,0,1,0.5783681476495524
+16,Meta Ninza META-N,Vasista Esports VASISTA,Genesis Esports GENs,0,0,0.45623718095272686
+16,Meta Ninza META-N,Victores Sumus V-SUMUS,Genesis Esports GENs,0,0,0.48398817467341476
+16,Meta Ninza META-N,Welt Esports WELT,Genesis Esports GENs,0,0,0.4994629569019541
+16,Meta Ninza META-N,Wyld Fangs WYLD-F,Genesis Esports GENs,0,1,0.5375389802184902
+16,Meta Ninza META-N,iQOO Orangutan IQ-OG,Genesis Esports GENs,0,1,0.5914195810297537
+16,Meta Ninza META-N,iQOO Reckoning Esports IQ-RGE,Genesis Esports GENs,0,1,0.6610635169026751
+16,Meta Ninza META-N,iQOO Revenant XSpark IQ-RNTX,Genesis Esports GENs,0,0,0.41381673988266626
+16,Meta Ninza META-N,iQOO SouL IQ-SOUL,Genesis Esports GENs,0,1,0.5936402977449367
+16,Meta Ninza META-N,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,0,0,0.4857291932757645
+16,Myth Official MYTH,Nebula Esports NEBULA,Genesis Esports GENs,0,1,0.5980037896603744
+16,Myth Official MYTH,Vasista Esports VASISTA,Genesis Esports GENs,0,0,0.4764115299309055
+16,Myth Official MYTH,Victores Sumus V-SUMUS,Genesis Esports GENs,0,1,0.5042516892508866
+16,Myth Official MYTH,Welt Esports WELT,Genesis Esports GENs,0,1,0.5197218132871116
+16,Myth Official MYTH,Wyld Fangs WYLD-F,Genesis Esports GENs,0,1,0.5576217013021031
+16,Myth Official MYTH,iQOO Orangutan IQ-OG,Genesis Esports GENs,0,1,0.6108563651022139
+16,Myth Official MYTH,iQOO Reckoning Esports IQ-RGE,Genesis Esports GENs,0,1,0.678985521712229
+16,Myth Official MYTH,iQOO Revenant XSpark IQ-RNTX,Genesis Esports GENs,0,0,0.43361110444364376
+16,Myth Official MYTH,iQOO SouL IQ-SOUL,Genesis Esports GENs,0,1,0.6130405599497142
+16,Myth Official MYTH,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,0,1,0.5059941229687877
+16,Nebula Esports NEBULA,Vasista Esports VASISTA,Genesis Esports GENs,0,0,0.4120478870149768
+16,Nebula Esports NEBULA,Victores Sumus V-SUMUS,Genesis Esports GENs,0,0,0.43928242844796106
+16,Nebula Esports NEBULA,Welt Esports WELT,Genesis Esports GENs,0,0,0.4545870586974786
+16,Nebula Esports NEBULA,Wyld Fangs WYLD-F,Genesis Esports GENs,0,0,0.4926088947782582
+16,Nebula Esports NEBULA,iQOO Orangutan IQ-OG,Genesis Esports GENs,0,1,0.5473158400048782
+16,Nebula Esports NEBULA,iQOO Reckoning Esports IQ-RGE,Genesis Esports GENs,0,1,0.6196426231923897
+16,Nebula Esports NEBULA,iQOO Revenant XSpark IQ-RNTX,Genesis Esports GENs,0,0,0.3709333457739427
+16,Nebula Esports NEBULA,iQOO SouL IQ-SOUL,Genesis Esports GENs,0,1,0.5495937118736757
+16,Nebula Esports NEBULA,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,0,0,0.4410000693553744
+16,Vasista Esports VASISTA,Victores Sumus V-SUMUS,Genesis Esports GENs,0,1,0.5615619600082538
+16,Vasista Esports VASISTA,Welt Esports WELT,Genesis Esports GENs,0,1,0.5767448182317613
+16,Vasista Esports VASISTA,Wyld Fangs WYLD-F,Genesis Esports GENs,0,1,0.6134913292312397
+16,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,Genesis Esports GENs,0,1,0.6640532729283312
+16,Vasista Esports VASISTA,iQOO Reckoning Esports IQ-RGE,Genesis Esports GENs,0,1,0.7270308299441477
+16,Vasista Esports VASISTA,iQOO Revenant XSpark IQ-RNTX,Genesis Esports GENs,0,0,0.490841916663083
+16,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,Genesis Esports GENs,0,1,0.6661020912507291
+16,Vasista Esports VASISTA,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,0,1,0.5632774181250432
+16,Victores Sumus V-SUMUS,Welt Esports WELT,Genesis Esports GENs,0,1,0.549337307793803
+16,Victores Sumus V-SUMUS,Wyld Fangs WYLD-F,Genesis Esports GENs,0,1,0.5867583871801784
+16,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,Genesis Esports GENs,0,1,0.6387582461326784
+16,Victores Sumus V-SUMUS,iQOO Reckoning Esports IQ-RGE,Genesis Esports GENs,0,1,0.7043666204551556
+16,Victores Sumus V-SUMUS,iQOO Revenant XSpark IQ-RNTX,Genesis Esports GENs,0,0,0.46305058906259755
+16,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,Genesis Esports GENs,0,1,0.6408779025846058
+16,Victores Sumus V-SUMUS,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,0,1,0.5356998851981786
+16,Welt Esports WELT,Wyld Fangs WYLD-F,Genesis Esports GENs,0,1,0.5716679621049239
+16,Welt Esports WELT,iQOO Orangutan IQ-OG,Genesis Esports GENs,0,1,0.624351021082186
+16,Welt Esports WELT,iQOO Reckoning Esports IQ-RGE,Genesis Esports GENs,0,1,0.6913115018298609
+16,Welt Esports WELT,iQOO Revenant XSpark IQ-RNTX,Genesis Esports GENs,0,0,0.44769490753587515
+16,Welt Esports WELT,iQOO SouL IQ-SOUL,Genesis Esports GENs,0,1,0.6265057842107896
+16,Welt Esports WELT,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,0,1,0.5202693632916356
+16,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,Genesis Esports GENs,0,1,0.5879435107318881
+16,Wyld Fangs WYLD-F,iQOO Reckoning Esports IQ-RGE,Genesis Esports GENs,0,1,0.6578371621191899
+16,Wyld Fangs WYLD-F,iQOO Revenant XSpark IQ-RNTX,Genesis Esports GENs,0,0,0.410336183870868
+16,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,Genesis Esports GENs,0,1,0.5901700284015577
+16,Wyld Fangs WYLD-F,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,0,0,0.4821412828605243
+16,iQOO Orangutan IQ-OG,iQOO Reckoning Esports IQ-RGE,Genesis Esports GENs,0,1,0.6068934911919123
+16,iQOO Orangutan IQ-OG,iQOO Revenant XSpark IQ-RNTX,Genesis Esports GENs,0,0,0.35847856323372695
+16,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,Genesis Esports GENs,0,1,0.5362538550991205
+16,iQOO Orangutan IQ-OG,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,0,0,0.42779254971675373
+16,iQOO Reckoning Esports IQ-RGE,iQOO Revenant XSpark IQ-RNTX,Genesis Esports GENs,0,0,0.29314172662387056
+16,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,Genesis Esports GENs,0,0,0.4618418679645236
+16,iQOO Reckoning Esports IQ-RGE,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,0,0,0.35684976768586807
+16,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,Genesis Esports GENs,0,1,0.703353114477845
+16,iQOO Revenant XSpark IQ-RNTX,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,0,1,0.6052007923204795
+16,iQOO SouL IQ-SOUL,iQOO Team Tamilas IQ-TT,Genesis Esports GENs,0,0,0.4255425455413675
+17,Genesis Esports GENs,Hero Xtreme GodLike HX-GODL,K9 Esports K9,0,0,0.3760288713747416
+17,Genesis Esports GENs,K9 Esports K9,K9 Esports K9,0,0,0.4961080587136463
+17,Genesis Esports GENs,Learn From Past LEFP,K9 Esports K9,0,0,0.47414027710464407
+17,Genesis Esports GENs,Meta Ninza META-N,K9 Esports K9,0,0,0.3699856976181317
+17,Genesis Esports GENs,Myth Official MYTH,K9 Esports K9,0,0,0.39497937806303546
+17,Genesis Esports GENs,Nebula Esports NEBULA,K9 Esports K9,0,0,0.4830060906106252
+17,Genesis Esports GENs,Vasista Esports VASISTA,K9 Esports K9,0,0,0.3841756021829323
+17,Genesis Esports GENs,Victores Sumus V-SUMUS,K9 Esports K9,0,0,0.3916749675907925
+17,Genesis Esports GENs,Welt Esports WELT,K9 Esports K9,0,0,0.49291369952262026
+17,Genesis Esports GENs,Wyld Fangs WYLD-F,K9 Esports K9,0,0,0.4200925571747242
+17,Genesis Esports GENs,iQOO Orangutan IQ-OG,K9 Esports K9,0,0,0.3440000942469539
+17,Genesis Esports GENs,iQOO Reckoning Esports IQ-RGE,K9 Esports K9,0,1,0.5579514687689227
+17,Genesis Esports GENs,iQOO Revenant XSpark IQ-RNTX,K9 Esports K9,0,0,0.3442236562250124
+17,Genesis Esports GENs,iQOO SouL IQ-SOUL,K9 Esports K9,0,0,0.49000776526567663
+17,Genesis Esports GENs,iQOO Team Tamilas IQ-TT,K9 Esports K9,0,0,0.4160507665882697
+17,Hero Xtreme GodLike HX-GODL,K9 Esports K9,K9 Esports K9,0,1,0.6517958755158582
+17,Hero Xtreme GodLike HX-GODL,Learn From Past LEFP,K9 Esports K9,0,1,0.6315749627044133
+17,Hero Xtreme GodLike HX-GODL,Meta Ninza META-N,K9 Esports K9,0,1,0.5275302470635147
+17,Hero Xtreme GodLike HX-GODL,Myth Official MYTH,K9 Esports K9,0,1,0.5538112012084652
+17,Hero Xtreme GodLike HX-GODL,Nebula Esports NEBULA,K9 Esports K9,0,1,0.6398029085081994
+17,Hero Xtreme GodLike HX-GODL,Vasista Esports VASISTA,K9 Esports K9,0,1,0.5425589047145373
+17,Hero Xtreme GodLike HX-GODL,Victores Sumus V-SUMUS,K9 Esports K9,0,1,0.5503867997850377
+17,Hero Xtreme GodLike HX-GODL,Welt Esports WELT,K9 Esports K9,0,1,0.648889977123992
+17,Hero Xtreme GodLike HX-GODL,Wyld Fangs WYLD-F,K9 Esports K9,0,1,0.5793528137988012
+17,Hero Xtreme GodLike HX-GODL,iQOO Orangutan IQ-OG,K9 Esports K9,0,0,0.4992479835080534
+17,Hero Xtreme GodLike HX-GODL,iQOO Reckoning Esports IQ-RGE,K9 Esports K9,0,1,0.7058603908412205
+17,Hero Xtreme GodLike HX-GODL,iQOO Revenant XSpark IQ-RNTX,K9 Esports K9,0,0,0.4994956161215277
+17,Hero Xtreme GodLike HX-GODL,iQOO SouL IQ-SOUL,K9 Esports K9,0,1,0.6462363764286586
+17,Hero Xtreme GodLike HX-GODL,iQOO Team Tamilas IQ-TT,K9 Esports K9,0,1,0.5752988460453657
+17,K9 Esports K9,Learn From Past LEFP,K9 Esports K9,1,1,0.5120250014427069
+17,K9 Esports K9,Meta Ninza META-N,K9 Esports K9,1,0,0.40597312025003673
+17,K9 Esports K9,Myth Official MYTH,K9 Esports K9,1,0,0.43173192101900904
+17,K9 Esports K9,Nebula Esports NEBULA,K9 Esports K9,1,1,0.5208974996539629
+17,K9 Esports K9,Vasista Esports VASISTA,K9 Esports K9,1,0,0.42062175370998145
+17,K9 Esports K9,Victores Sumus V-SUMUS,K9 Esports K9,1,0,0.4283377198568619
+17,K9 Esports K9,Welt Esports WELT,K9 Esports K9,1,1,0.5307843761200252
+17,K9 Esports K9,Wyld Fangs WYLD-F,K9 Esports K9,1,0,0.45741519458343516
+17,K9 Esports K9,iQOO Orangutan IQ-OG,K9 Esports K9,1,0,0.37898039835281094
+17,K9 Esports K9,iQOO Reckoning Esports IQ-RGE,K9 Esports K9,1,1,0.5949562679741407
+17,K9 Esports K9,iQOO Revenant XSpark IQ-RNTX,K9 Esports K9,1,0,0.3792135522135888
+17,K9 Esports K9,iQOO SouL IQ-SOUL,K9 Esports K9,1,1,0.5278876004096651
+17,K9 Esports K9,iQOO Team Tamilas IQ-TT,K9 Esports K9,1,0,0.45329500349564156
+17,Learn From Past LEFP,Meta Ninza META-N,K9 Esports K9,0,0,0.4273492489089492
+17,Learn From Past LEFP,Myth Official MYTH,K9 Esports K9,0,0,0.4534290680434692
+17,Learn From Past LEFP,Nebula Esports NEBULA,K9 Esports K9,0,1,0.5427955120876328
+17,Learn From Past LEFP,Vasista Esports VASISTA,K9 Esports K9,0,0,0.4421950273297331
+17,Learn From Past LEFP,Victores Sumus V-SUMUS,K9 Esports K9,0,0,0.44999936571183974
+17,Learn From Past LEFP,Welt Esports WELT,K9 Esports K9,0,1,0.552618611328464
+17,Learn From Past LEFP,Wyld Fangs WYLD-F,K9 Esports K9,0,0,0.47931438728573456
+17,Learn From Past LEFP,iQOO Orangutan IQ-OG,K9 Esports K9,0,0,0.3998920375715278
+17,Learn From Past LEFP,iQOO Reckoning Esports IQ-RGE,K9 Esports K9,0,1,0.6159649059715531
+17,Learn From Past LEFP,iQOO Revenant XSpark IQ-RNTX,K9 Esports K9,0,0,0.4001297674148792
+17,Learn From Past LEFP,iQOO SouL IQ-SOUL,K9 Esports K9,0,1,0.549742286025166
+17,Learn From Past LEFP,iQOO Team Tamilas IQ-TT,K9 Esports K9,0,0,0.47516968725679287
+17,Meta Ninza META-N,Myth Official MYTH,K9 Esports K9,0,1,0.5601871569358686
+17,Meta Ninza META-N,Nebula Esports NEBULA,K9 Esports K9,0,1,0.6457361052991201
+17,Meta Ninza META-N,Vasista Esports VASISTA,K9 Esports K9,0,1,0.5489647003414446
+17,Meta Ninza META-N,Victores Sumus V-SUMUS,K9 Esports K9,0,1,0.556772526552385
+17,Meta Ninza META-N,Welt Esports WELT,K9 Esports K9,0,1,0.6547542617731396
+17,Meta Ninza META-N,Wyld Fangs WYLD-F,K9 Esports K9,0,1,0.5856368673679268
+17,Meta Ninza META-N,iQOO Orangutan IQ-OG,K9 Esports K9,0,1,0.5057077346058633
+17,Meta Ninza META-N,iQOO Reckoning Esports IQ-RGE,K9 Esports K9,0,1,0.7111966472962782
+17,Meta Ninza META-N,iQOO Revenant XSpark IQ-RNTX,K9 Esports K9,0,1,0.5059553339254184
+17,Meta Ninza META-N,iQOO SouL IQ-SOUL,K9 Esports K9,0,1,0.652121220881986
+17,Meta Ninza META-N,iQOO Team Tamilas IQ-TT,K9 Esports K9,0,1,0.5815997246848984
+17,Myth Official MYTH,Nebula Esports NEBULA,K9 Esports K9,0,1,0.6211658557520424
+17,Myth Official MYTH,Vasista Esports VASISTA,K9 Esports K9,0,1,0.5226443369642632
+17,Myth Official MYTH,Victores Sumus V-SUMUS,K9 Esports K9,0,1,0.5305181322514886
+17,Myth Official MYTH,Welt Esports WELT,K9 Esports K9,0,1,0.6304515281260862
+17,Myth Official MYTH,Wyld Fangs WYLD-F,K9 Esports K9,0,1,0.5597402668519064
+17,Myth Official MYTH,iQOO Orangutan IQ-OG,K9 Esports K9,0,0,0.479257597925572
+17,Myth Official MYTH,iQOO Reckoning Esports IQ-RGE,K9 Esports K9,0,1,0.6889797311680209
+17,Myth Official MYTH,iQOO Revenant XSpark IQ-RNTX,K9 Esports K9,0,0,0.4795048098203342
+17,Myth Official MYTH,iQOO SouL IQ-SOUL,K9 Esports K9,0,1,0.6277385197521381
+17,Myth Official MYTH,iQOO Team Tamilas IQ-TT,K9 Esports K9,0,1,0.5556422566872834
+17,Nebula Esports NEBULA,Vasista Esports VASISTA,K9 Esports K9,0,0,0.4334502657988443
+17,Nebula Esports NEBULA,Victores Sumus V-SUMUS,K9 Esports K9,0,0,0.4412223473530531
+17,Nebula Esports NEBULA,Welt Esports WELT,K9 Esports K9,0,1,0.5438190973894972
+17,Nebula Esports NEBULA,Wyld Fangs WYLD-F,K9 Esports K9,0,0,0.47045467373426847
+17,Nebula Esports NEBULA,iQOO Orangutan IQ-OG,K9 Esports K9,0,0,0.3913968488806067
+17,Nebula Esports NEBULA,iQOO Reckoning Esports IQ-RGE,K9 Esports K9,0,1,0.6075264609130211
+17,Nebula Esports NEBULA,iQOO Revenant XSpark IQ-RNTX,K9 Esports K9,0,0,0.39163282428259355
+17,Nebula Esports NEBULA,iQOO SouL IQ-SOUL,K9 Esports K9,0,1,0.5409331947343828
+17,Nebula Esports NEBULA,iQOO Team Tamilas IQ-TT,K9 Esports K9,0,0,0.4663179731017665
+17,Vasista Esports VASISTA,Victores Sumus V-SUMUS,K9 Esports K9,0,1,0.5418164893100049
+17,Vasista Esports VASISTA,Welt Esports WELT,K9 Esports K9,0,1,0.640972480349936
+17,Vasista Esports VASISTA,Wyld Fangs WYLD-F,K9 Esports K9,0,1,0.5709041798304801
+17,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,K9 Esports K9,0,0,0.4906050728154768
+17,Vasista Esports VASISTA,iQOO Reckoning Esports IQ-RGE,K9 Esports K9,0,1,0.6986309185588749
+17,Vasista Esports VASISTA,iQOO Revenant XSpark IQ-RNTX,K9 Esports K9,0,0,0.490852620679376
+17,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,K9 Esports K9,0,1,0.6382923966683407
+17,Vasista Esports VASISTA,iQOO Team Tamilas IQ-TT,K9 Esports K9,0,1,0.566829667320234
+17,Victores Sumus V-SUMUS,Welt Esports WELT,K9 Esports K9,0,1,0.6336720022201932
+17,Victores Sumus V-SUMUS,Wyld Fangs WYLD-F,K9 Esports K9,0,1,0.563149972693957
+17,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,K9 Esports K9,0,0,0.4827145808922058
+17,Victores Sumus V-SUMUS,iQOO Reckoning Esports IQ-RGE,K9 Esports K9,0,1,0.6919393829878179
+17,Victores Sumus V-SUMUS,iQOO Revenant XSpark IQ-RNTX,K9 Esports K9,0,0,0.48296192215951406
+17,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,K9 Esports K9,0,1,0.6309687974823593
+17,Victores Sumus V-SUMUS,iQOO Team Tamilas IQ-TT,K9 Esports K9,0,1,0.5590586986070194
+17,Welt Esports WELT,Wyld Fangs WYLD-F,K9 Esports K9,0,0,0.4605884590509587
+17,Welt Esports WELT,iQOO Orangutan IQ-OG,K9 Esports K9,0,0,0.3819926126253696
+17,Welt Esports WELT,iQOO Reckoning Esports IQ-RGE,K9 Esports K9,0,1,0.5980320244453365
+17,Welt Esports WELT,iQOO Revenant XSpark IQ-RNTX,K9 Esports K9,0,0,0.382226479057292
+17,Welt Esports WELT,iQOO SouL IQ-SOUL,K9 Esports K9,0,1,0.5310712391345475
+17,Welt Esports WELT,iQOO Team Tamilas IQ-TT,K9 Esports K9,0,0,0.4564637311086665
+17,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,K9 Esports K9,0,0,0.45337267516487434
+17,Wyld Fangs WYLD-F,iQOO Reckoning Esports IQ-RGE,K9 Esports K9,0,1,0.6662601095561141
+17,Wyld Fangs WYLD-F,iQOO Revenant XSpark IQ-RNTX,K9 Esports K9,0,0,0.453618165969387
+17,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,K9 Esports K9,0,1,0.6031222610130137
+17,Wyld Fangs WYLD-F,iQOO Team Tamilas IQ-TT,K9 Esports K9,0,1,0.5298293248768162
+17,iQOO Orangutan IQ-OG,iQOO Reckoning Esports IQ-RGE,K9 Esports K9,0,1,0.7338888477404517
+17,iQOO Orangutan IQ-OG,iQOO Revenant XSpark IQ-RNTX,K9 Esports K9,0,1,0.5342122079570077
+17,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,K9 Esports K9,0,1,0.6773493320734172
+17,iQOO Orangutan IQ-OG,iQOO Team Tamilas IQ-TT,K9 Esports K9,0,1,0.6088746747751586
+17,iQOO Reckoning Esports IQ-RGE,iQOO Revenant XSpark IQ-RNTX,K9 Esports K9,0,0,0.32271818224163656
+17,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,K9 Esports K9,0,0,0.46586465786881665
+17,iQOO Reckoning Esports IQ-RGE,iQOO Team Tamilas IQ-TT,K9 Esports K9,0,0,0.39274539497073424
+17,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,K9 Esports K9,0,1,0.6771328160380707
+17,iQOO Revenant XSpark IQ-RNTX,iQOO Team Tamilas IQ-TT,K9 Esports K9,0,1,0.60863875780729
+17,iQOO SouL IQ-SOUL,iQOO Team Tamilas IQ-TT,K9 Esports K9,0,0,0.4593499116785313
+18,Genesis Esports GENs,Hero Xtreme GodLike HX-GODL,Victores Sumus V-SUMUS,0,0,0.40921986320260856
+18,Genesis Esports GENs,K9 Esports K9,Victores Sumus V-SUMUS,0,1,0.6467885895297941
+18,Genesis Esports GENs,Learn From Past LEFP,Victores Sumus V-SUMUS,0,1,0.5507425479877663
+18,Genesis Esports GENs,Meta Ninza META-N,Victores Sumus V-SUMUS,0,0,0.4344155420422437
+18,Genesis Esports GENs,Myth Official MYTH,Victores Sumus V-SUMUS,0,0,0.4609705176009198
+18,Genesis Esports GENs,Nebula Esports NEBULA,Victores Sumus V-SUMUS,0,1,0.5646403831748288
+18,Genesis Esports GENs,Vasista Esports VASISTA,Victores Sumus V-SUMUS,0,0,0.46109526043236565
+18,Genesis Esports GENs,Victores Sumus V-SUMUS,Victores Sumus V-SUMUS,0,0,0.4255529771214579
+18,Genesis Esports GENs,Welt Esports WELT,Victores Sumus V-SUMUS,0,1,0.5388266689612985
+18,Genesis Esports GENs,Wyld Fangs WYLD-F,Victores Sumus V-SUMUS,0,0,0.4753939967589753
+18,Genesis Esports GENs,iQOO Orangutan IQ-OG,Victores Sumus V-SUMUS,0,0,0.44624032907615463
+18,Genesis Esports GENs,iQOO Reckoning Esports IQ-RGE,Victores Sumus V-SUMUS,0,1,0.5935812552176912
+18,Genesis Esports GENs,iQOO Revenant XSpark IQ-RNTX,Victores Sumus V-SUMUS,0,0,0.42386555596336184
+18,Genesis Esports GENs,iQOO SouL IQ-SOUL,Victores Sumus V-SUMUS,0,1,0.5044140533362774
+18,Genesis Esports GENs,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,0,0,0.46958957233543114
+18,Hero Xtreme GodLike HX-GODL,K9 Esports K9,Victores Sumus V-SUMUS,0,1,0.7517964697599641
+18,Hero Xtreme GodLike HX-GODL,Learn From Past LEFP,Victores Sumus V-SUMUS,0,1,0.6697235908958733
+18,Hero Xtreme GodLike HX-GODL,Meta Ninza META-N,Victores Sumus V-SUMUS,0,1,0.5595671976041521
+18,Hero Xtreme GodLike HX-GODL,Myth Official MYTH,Victores Sumus V-SUMUS,0,1,0.5858480808980391
+18,Hero Xtreme GodLike HX-GODL,Nebula Esports NEBULA,Victores Sumus V-SUMUS,0,1,0.6820655354545972
+18,Hero Xtreme GodLike HX-GODL,Vasista Esports VASISTA,Victores Sumus V-SUMUS,0,1,0.585969880926986
+18,Hero Xtreme GodLike HX-GODL,Victores Sumus V-SUMUS,Victores Sumus V-SUMUS,0,1,0.5506371556429905
+18,Hero Xtreme GodLike HX-GODL,Welt Esports WELT,Victores Sumus V-SUMUS,0,1,0.6590096064251248
+18,Hero Xtreme GodLike HX-GODL,Wyld Fangs WYLD-F,Victores Sumus V-SUMUS,0,1,0.5998308206160974
+18,Hero Xtreme GodLike HX-GODL,iQOO Orangutan IQ-OG,Victores Sumus V-SUMUS,0,1,0.5713572141870427
+18,Hero Xtreme GodLike HX-GODL,iQOO Reckoning Esports IQ-RGE,Victores Sumus V-SUMUS,0,1,0.707247663207399
+18,Hero Xtreme GodLike HX-GODL,iQOO Revenant XSpark IQ-RNTX,Victores Sumus V-SUMUS,0,1,0.5489277005840003
+18,Hero Xtreme GodLike HX-GODL,iQOO SouL IQ-SOUL,Victores Sumus V-SUMUS,0,1,0.6273629846710232
+18,Hero Xtreme GodLike HX-GODL,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,0,1,0.5942280320674147
+18,K9 Esports K9,Learn From Past LEFP,Victores Sumus V-SUMUS,0,0,0.43408367965468553
+18,K9 Esports K9,Meta Ninza META-N,Victores Sumus V-SUMUS,0,0,0.324594107954576
+18,K9 Esports K9,Myth Official MYTH,Victores Sumus V-SUMUS,0,0,0.34857328259012516
+18,K9 Esports K9,Nebula Esports NEBULA,Victores Sumus V-SUMUS,0,0,0.4479730988469665
+18,K9 Esports K9,Vasista Esports VASISTA,Victores Sumus V-SUMUS,0,0,0.34868728501716273
+18,K9 Esports K9,Victores Sumus V-SUMUS,Victores Sumus V-SUMUS,0,0,0.3167173937209838
+18,K9 Esports K9,Welt Esports WELT,Victores Sumus V-SUMUS,0,0,0.4223191463683843
+18,K9 Esports K9,Wyld Fangs WYLD-F,Victores Sumus V-SUMUS,0,0,0.3618407129105196
+18,K9 Esports K9,iQOO Orangutan IQ-OG,Victores Sumus V-SUMUS,0,0,0.3352012281477798
+18,K9 Esports K9,iQOO Reckoning Esports IQ-RGE,Victores Sumus V-SUMUS,0,0,0.4774926845118074
+18,K9 Esports K9,iQOO Revenant XSpark IQ-RNTX,Victores Sumus V-SUMUS,0,0,0.31522471614523734
+18,K9 Esports K9,iQOO SouL IQ-SOUL,Victores Sumus V-SUMUS,0,0,0.3890698913844678
+18,K9 Esports K9,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,0,0,0.3564806180423493
+18,Learn From Past LEFP,Meta Ninza META-N,Victores Sumus V-SUMUS,0,0,0.41788616505112913
+18,Learn From Past LEFP,Myth Official MYTH,Victores Sumus V-SUMUS,0,0,0.4442243324683832
+18,Learn From Past LEFP,Nebula Esports NEBULA,Victores Sumus V-SUMUS,0,1,0.5479565704591276
+18,Learn From Past LEFP,Vasista Esports VASISTA,Victores Sumus V-SUMUS,0,0,0.44434827930621473
+18,Learn From Past LEFP,Victores Sumus V-SUMUS,Victores Sumus V-SUMUS,0,0,0.40911689063095535
+18,Learn From Past LEFP,Welt Esports WELT,Victores Sumus V-SUMUS,0,1,0.5219910808479082
+18,Learn From Past LEFP,Wyld Fangs WYLD-F,Victores Sumus V-SUMUS,0,0,0.458569598499127
+18,Learn From Past LEFP,iQOO Orangutan IQ-OG,Victores Sumus V-SUMUS,0,0,0.42960277696221827
+18,Learn From Past LEFP,iQOO Reckoning Esports IQ-RGE,Victores Sumus V-SUMUS,0,1,0.5771759989674435
+18,Learn From Past LEFP,iQOO Revenant XSpark IQ-RNTX,Victores Sumus V-SUMUS,0,0,0.4074484160664793
+18,Learn From Past LEFP,iQOO SouL IQ-SOUL,Victores Sumus V-SUMUS,0,0,0.4875170452367244
+18,Learn From Past LEFP,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,0,0,0.45279329392972656
+18,Meta Ninza META-N,Myth Official MYTH,Victores Sumus V-SUMUS,0,1,0.5605746042267811
+18,Meta Ninza META-N,Nebula Esports NEBULA,Victores Sumus V-SUMUS,0,1,0.6592485287912753
+18,Meta Ninza META-N,Vasista Esports VASISTA,Victores Sumus V-SUMUS,0,1,0.5606982635266605
+18,Meta Ninza META-N,Victores Sumus V-SUMUS,Victores Sumus V-SUMUS,0,1,0.5249572744913886
+18,Meta Ninza META-N,Welt Esports WELT,Victores Sumus V-SUMUS,0,1,0.6354223974723985
+18,Meta Ninza META-N,Wyld Fangs WYLD-F,Victores Sumus V-SUMUS,0,1,0.5747913163492867
+18,Meta Ninza META-N,iQOO Orangutan IQ-OG,Victores Sumus V-SUMUS,0,1,0.5458848950392982
+18,Meta Ninza META-N,iQOO Reckoning Esports IQ-RGE,Victores Sumus V-SUMUS,0,1,0.6854043205092418
+18,Meta Ninza META-N,iQOO Revenant XSpark IQ-RNTX,Victores Sumus V-SUMUS,0,1,0.52323471352448
+18,Meta Ninza META-N,iQOO SouL IQ-SOUL,Victores Sumus V-SUMUS,0,1,0.6029057522106915
+18,Meta Ninza META-N,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,0,1,0.5690897998293096
+18,Myth Official MYTH,Nebula Esports NEBULA,Victores Sumus V-SUMUS,0,1,0.6347212803302715
+18,Myth Official MYTH,Vasista Esports VASISTA,Victores Sumus V-SUMUS,0,1,0.5340906498269801
+18,Myth Official MYTH,Victores Sumus V-SUMUS,Victores Sumus V-SUMUS,0,0,0.49812256374309466
+18,Myth Official MYTH,Welt Esports WELT,Victores Sumus V-SUMUS,0,1,0.610194207254817
+18,Myth Official MYTH,Wyld Fangs WYLD-F,Victores Sumus V-SUMUS,0,1,0.5483497135055014
+18,Myth Official MYTH,iQOO Orangutan IQ-OG,Victores Sumus V-SUMUS,0,1,0.5191495108857802
+18,Myth Official MYTH,iQOO Reckoning Esports IQ-RGE,Victores Sumus V-SUMUS,0,1,0.6617939092708078
+18,Myth Official MYTH,iQOO Revenant XSpark IQ-RNTX,Victores Sumus V-SUMUS,0,0,0.49639604473523913
+18,Myth Official MYTH,iQOO SouL IQ-SOUL,Victores Sumus V-SUMUS,0,1,0.5769256144825694
+18,Myth Official MYTH,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,0,1,0.5425758013673857
+18,Nebula Esports NEBULA,Vasista Esports VASISTA,Victores Sumus V-SUMUS,0,0,0.4304836052193191
+18,Nebula Esports NEBULA,Victores Sumus V-SUMUS,Victores Sumus V-SUMUS,0,0,0.3955689237349022
+18,Nebula Esports NEBULA,Welt Esports WELT,Victores Sumus V-SUMUS,0,1,0.5079182898618001
+18,Nebula Esports NEBULA,Wyld Fangs WYLD-F,Victores Sumus V-SUMUS,0,0,0.44461625269679056
+18,Nebula Esports NEBULA,iQOO Orangutan IQ-OG,Victores Sumus V-SUMUS,0,0,0.41585385889909604
+18,Nebula Esports NEBULA,iQOO Reckoning Esports IQ-RGE,Victores Sumus V-SUMUS,0,1,0.5633688861051502
+18,Nebula Esports NEBULA,iQOO Revenant XSpark IQ-RNTX,Victores Sumus V-SUMUS,0,0,0.3939188667316374
+18,Nebula Esports NEBULA,iQOO SouL IQ-SOUL,Victores Sumus V-SUMUS,0,0,0.47345311230991594
+18,Nebula Esports NEBULA,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,0,0,0.4388732406370343
+18,Vasista Esports VASISTA,Victores Sumus V-SUMUS,Victores Sumus V-SUMUS,0,0,0.49799706051558545
+18,Vasista Esports VASISTA,Welt Esports WELT,Victores Sumus V-SUMUS,0,1,0.6100747914491008
+18,Vasista Esports VASISTA,Wyld Fangs WYLD-F,Victores Sumus V-SUMUS,0,1,0.5482253789429024
+18,Vasista Esports VASISTA,iQOO Orangutan IQ-OG,Victores Sumus V-SUMUS,0,1,0.5190241886584934
+18,Vasista Esports VASISTA,iQOO Reckoning Esports IQ-RGE,Victores Sumus V-SUMUS,0,1,0.6616815365528553
+18,Vasista Esports VASISTA,iQOO Revenant XSpark IQ-RNTX,Victores Sumus V-SUMUS,0,0,0.49627054636748524
+18,Vasista Esports VASISTA,iQOO SouL IQ-SOUL,Victores Sumus V-SUMUS,0,1,0.5768030753662852
+18,Vasista Esports VASISTA,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,0,1,0.5424512036008589
+18,Victores Sumus V-SUMUS,Welt Esports WELT,Victores Sumus V-SUMUS,1,1,0.6437576056219654
+18,Victores Sumus V-SUMUS,Wyld Fangs WYLD-F,Victores Sumus V-SUMUS,1,1,0.5836043357633913
+18,Victores Sumus V-SUMUS,iQOO Orangutan IQ-OG,Victores Sumus V-SUMUS,1,1,0.5548330262591681
+18,Victores Sumus V-SUMUS,iQOO Reckoning Esports IQ-RGE,Victores Sumus V-SUMUS,1,1,0.6931486392772391
+18,Victores Sumus V-SUMUS,iQOO Revenant XSpark IQ-RNTX,Victores Sumus V-SUMUS,1,1,0.5322467245862923
+18,Victores Sumus V-SUMUS,iQOO SouL IQ-SOUL,Victores Sumus V-SUMUS,1,1,0.6115298837633616
+18,Victores Sumus V-SUMUS,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,1,1,0.5779342181441605
+18,Welt Esports WELT,Wyld Fangs WYLD-F,Victores Sumus V-SUMUS,0,0,0.4705214541609877
+18,Welt Esports WELT,iQOO Orangutan IQ-OG,Victores Sumus V-SUMUS,0,0,0.44141517109388395
+18,Welt Esports WELT,iQOO Reckoning Esports IQ-RGE,Victores Sumus V-SUMUS,0,1,0.5888570736091362
+18,Welt Esports WELT,iQOO Revenant XSpark IQ-RNTX,Victores Sumus V-SUMUS,0,0,0.4190992308552928
+18,Welt Esports WELT,iQOO SouL IQ-SOUL,Victores Sumus V-SUMUS,0,0,0.4995272916362307
+18,Welt Esports WELT,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,0,0,0.46472382060839695
+18,Wyld Fangs WYLD-F,iQOO Orangutan IQ-OG,Victores Sumus V-SUMUS,0,1,0.5046755967271414
+18,Wyld Fangs WYLD-F,iQOO Reckoning Esports IQ-RGE,Victores Sumus V-SUMUS,0,1,0.6487082835778893
+18,Wyld Fangs WYLD-F,iQOO Revenant XSpark IQ-RNTX,Victores Sumus V-SUMUS,0,0,0.4819207186634495
+18,Wyld Fangs WYLD-F,iQOO SouL IQ-SOUL,Victores Sumus V-SUMUS,0,1,0.5627259749433376
+18,Wyld Fangs WYLD-F,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,0,1,0.528166154790684
+18,iQOO Orangutan IQ-OG,iQOO Reckoning Esports IQ-RGE,Victores Sumus V-SUMUS,0,1,0.6749666941389717
+18,iQOO Orangutan IQ-OG,iQOO Revenant XSpark IQ-RNTX,Victores Sumus V-SUMUS,0,1,0.5112533177184103
+18,iQOO Orangutan IQ-OG,iQOO SouL IQ-SOUL,Victores Sumus V-SUMUS,0,1,0.5913628691041376
+18,iQOO Orangutan IQ-OG,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,0,1,0.5572857412750494
+18,iQOO Reckoning Esports IQ-RGE,iQOO Revenant XSpark IQ-RNTX,Victores Sumus V-SUMUS,0,0,0.3659473917331152
+18,iQOO Reckoning Esports IQ-RGE,iQOO SouL IQ-SOUL,Victores Sumus V-SUMUS,0,0,0.4439710633984418
+18,iQOO Reckoning Esports IQ-RGE,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,0,0,0.40986834511096426
+18,iQOO Revenant XSpark IQ-RNTX,iQOO SouL IQ-SOUL,Victores Sumus V-SUMUS,0,1,0.6131692803298455
+18,iQOO Revenant XSpark IQ-RNTX,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,0,1,0.579617930787613
+18,iQOO SouL IQ-SOUL,iQOO Team Tamilas IQ-TT,Victores Sumus V-SUMUS,0,0,0.4991559419907215

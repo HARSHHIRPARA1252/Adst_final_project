@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block title %}Methodology and Limitations | BGMI Analytics{% endblock %}
+{% block content %}
+<div class="page-head"><div><div class="eyebrow">Data science notes</div><h1>Methodology & limitations</h1><p>How the scorecards become a match-level probability estimate, and what the current data cannot answer.</p></div></div>
+<section class="grid-2">
+  <article class="card"><div class="eyebrow">Available records</div><h2 style="margin:7px 0 12px">Historical sources</h2><div class="notice-list">
+    {% for row in stats %}<div class="notice"><strong>{{ row.name }}</strong><p>{{ row.matches }} complete matches and {{ row.rows }} team-match rows are currently loaded.</p></div>{% else %}<p>No tournament scorecards are loaded yet.</p>{% endfor %}
+  </div></article>
+  <article class="card"><div class="eyebrow">Target</div><h2 style="margin:7px 0 12px">One match, one winner</h2><p>The model target is <strong>win = 1</strong> for the match-winning team (WWCD) and 0 for the other teams in that lobby. BGIS uses the source file's existing win flag because it has no raw WWCD column; this assumption is documented and should be checked against the source scorecards.</p><p>The displayed probability is for one team's chance of winning one future match. It does not estimate the chance of winning the full BMSD tournament.</p></article>
+</section>
+<section class="section grid-2">
+  <article class="card"><div class="eyebrow">Feature engineering</div><h2 style="margin:7px 0 12px">Past results only</h2><p>For every team-match row, historical averages, recent-three-match form, consistency, matches played, and pre-match ELO use only matches completed before the row's match. A team's current match points, kills, and outcome are added to its history only for later matches.</p><p>The 2026 BGIS fragment in the folder has only two teams per match, so it is excluded from complete-match training. Damage, survival time, assists, and player-level features are not present in the accepted data and are not invented.</p></article>
+  <article class="card"><div class="eyebrow">Validation strategy</div><h2 style="margin:7px 0 12px">Chronological calibration</h2><p>Model comparison uses the latest six complete matches as a forward holdout. Calibration windows expand through earlier match groups. All rows for a match stay together, so a match cannot be split between train and validation.</p><p>Logistic Regression, Random Forest, and Gradient Boosting are compared. The selected estimator minimizes conditional match log loss; Brier score is the tie-breaker. Class weighting and SMOTE are not used because they distort the natural one-winner-per-lobby probability rate.</p></article>
+</section>
+<section class="section grid-2">
+  <article class="card"><div class="eyebrow">Probability meaning</div><h2 style="margin:7px 0 12px">An estimate, not a guarantee</h2><p>Predictions are calibrated statistical estimates from a small historical sample. Their reliability may change with rosters, format, stage, map pool, and the quality of newly imported scorecards. Model feature importance describes model behavior; it does not establish cause and effect.</p></article>
+  <article class="card"><div class="eyebrow">Current BMSD source pages</div><h2 style="margin:7px 0 12px">Use scorecards with provenance</h2><p>Import completed match scorecards from eSportsAmaze. Use Liquipedia as a cross-check for match identity, team names, and results. Save the source export or notes with the imported raw CSV.</p><div class="source-links"><a class="source-link" href="{{ eam_url }}" target="_blank" rel="noopener">eSportsAmaze BMSD ↗</a><a class="source-link" href="{{ liquipedia_url }}" target="_blank" rel="noopener">Liquipedia BMSD 2026 ↗</a></div></article>
+</section>
+{% endblock %}

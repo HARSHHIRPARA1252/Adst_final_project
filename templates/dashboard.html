@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block title %}Historical Dashboard | BGMI Analytics{% endblock %}
+{% block content %}
+<div class="page-head">
+  <div><div class="eyebrow">Historical analysis</div><h1>Performance dashboard</h1><p>Filter every available tournament and compare measurable match performance.</p></div>
+  <form class="filter-form" method="get">
+    <div class="field"><label for="tournament">Tournament</label><select id="tournament" name="tournament">{% for name in tournaments %}<option value="{{ name }}" {% if name == tournament %}selected{% endif %}>{{ name }}</option>{% endfor %}</select></div>
+    <button class="btn btn-primary" type="submit">Apply filter</button>
+  </form>
+</div>
+<section class="stats-grid">
+  <div class="stat-card"><span class="stat-label">Matches</span><strong>{{ stats.matches }}</strong><span class="stat-note">unique completed scorecards</span></div>
+  <div class="stat-card"><span class="stat-label">Teams</span><strong>{{ stats.teams }}</strong><span class="stat-note">canonical team identities</span></div>
+  <div class="stat-card"><span class="stat-label">Match wins</span><strong>{{ stats.wins }}</strong><span class="stat-note">WWCD / supplied BGIS win flags</span></div>
+  <div class="stat-card"><span class="stat-label">Total kills</span><strong>{{ stats.kills }}</strong><span class="stat-note">recorded eliminations</span></div>
+</section>
+
+<section class="section two-column">
+  <article class="card">
+    <div class="section-heading"><div><div class="eyebrow">Measured comparison</div><h2>Average points per match</h2></div><span class="muted">Top 10 teams</span></div>
+    {% if chart_teams %}
+      {% set max_points = chart_teams|map(attribute='avg_points')|max %}
+      <div class="bar-chart">
+        {% for row in chart_teams %}
+        <div class="bar-row"><div class="bar-label" title="{{ row.team }}">{{ row.team }}</div><div class="bar-track"><div class="bar-fill" style="width:{{ (row.avg_points / max_points * 100) if max_points else 0 }}%"></div></div><div class="bar-number">{{ '%.2f'|format(row.avg_points) }}</div></div>
+        {% endfor %}
+      </div>
+    {% else %}<div class="empty-state">No match records for this filter.</div>{% endif %}
+  </article>
+  <article class="card">
+    <div class="section-heading"><div><div class="eyebrow">Leaderboard</div><h2>Team summaries</h2></div><a href="{{ url_for('leaderboard', tournament=tournament) }}">Full table →</a></div>
+    {% if leaderboard %}
+    <div class="table-wrap"><table><thead><tr><th>Team</th><th>Matches</th><th>Avg points</th><th>Avg kills</th><th>Wins</th></tr></thead><tbody>
+      {% for row in leaderboard %}<tr><td>{{ row.team }}</td><td>{{ row.matches }}</td><td class="metric-value">{{ '%.2f'|format(row.avg_points) }}</td><td class="metric-value">{{ '%.2f'|format(row.avg_kills) }}</td><td>{{ row.wins }}</td></tr>{% endfor %}
+    </tbody></table></div>
+    {% else %}<div class="empty-state">No teams to display.</div>{% endif %}
+  </article>
+</section>
+
+<section class="section card">
+  <div class="section-heading"><div><div class="eyebrow">Recent scorecards</div><h2>Latest matches in this filter</h2></div><a href="{{ url_for('history', tournament=tournament) }}">Browse match history →</a></div>
+  {% if latest_matches %}
+  <div class="table-wrap"><table><thead><tr><th>Tournament</th><th>Stage</th><th>Match</th><th>Date</th><th>Teams</th><th>Winner</th><th>Total points</th></tr></thead><tbody>
+    {% for row in latest_matches %}<tr><td>{{ row.tournament }}</td><td>{{ row.stage }}</td><td>{{ row.match_id }}</td><td>{{ row.date.strftime('%Y-%m-%d') if row.date and row.date == row.date else '—' }}</td><td>{{ row.teams }}</td><td>{{ row.winner }}</td><td>{{ row.total_points|int }}</td></tr>{% endfor %}
+  </tbody></table></div>
+  {% else %}<div class="empty-state">No completed matches for this selection.</div>{% endif %}
+</section>
+{% endblock %}

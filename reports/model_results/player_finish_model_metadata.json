@@ -1,0 +1,23 @@
+{
+  "selected_method": "Random Forest regressor",
+  "target": "player finishes in one match",
+  "metric": "lowest chronological holdout MAE",
+  "match_count": 66,
+  "row_count": 4224,
+  "holdout_match_orders": [
+    61.0,
+    62.0,
+    63.0,
+    64.0,
+    65.0,
+    66.0
+  ],
+  "features": [
+    "matches_before",
+    "prev_avg_finishes",
+    "recent3_avg_finishes",
+    "prev_std_finishes",
+    "team_prev_avg_finishes"
+  ],
+  "mvp_award_probability": false
+}

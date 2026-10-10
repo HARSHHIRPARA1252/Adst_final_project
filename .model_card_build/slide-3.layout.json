@@ -1,0 +1,1565 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/35m69f",
+    "id": "35m69f",
+    "slide": 3,
+    "layoutId": "7105cf3d-44f6-4ac9-af4f-36ee89e36aa9",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "5c96afb8-223c-4bc4-84b5-6e1cf01b839d",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#0B1119",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "7105cf3d-44f6-4ac9-af4f-36ee89e36aa9",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "5c96afb8-223c-4bc4-84b5-6e1cf01b839d",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "5c96afb8-223c-4bc4-84b5-6e1cf01b839d",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u5kfihkn",
+      "id": "1",
+      "bbox": [
+        74,
+        31,
+        720,
+        24
+      ],
+      "geometry": "rect",
+      "text": "MODEL DEVELOPMENT",
+      "textPreview": "MODEL DEVELOPMENT",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 16,
+        "typeface": "Arial",
+        "color": "#C9F36A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "MODEL DEVELOPMENT"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "MODEL DEVELOPMENT",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Arial",
+            "color": "#C9F36A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "MODEL DEVELOPMENT",
+              "fontSize": 16,
+              "typeface": "Arial",
+              "color": "#C9F36A",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h8vytw3y",
+      "id": "2",
+      "bbox": [
+        72,
+        60,
+        1080,
+        60
+      ],
+      "geometry": "rect",
+      "text": "What will improve the evidence",
+      "textPreview": "What will improve the evidence",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 48,
+        "typeface": "Arial",
+        "color": "#EDF3F5",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "What will improve the evidence"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "What will improve the evidence",
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "Arial",
+            "color": "#EDF3F5",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "What will improve the evidence",
+              "fontSize": 48,
+              "typeface": "Arial",
+              "color": "#EDF3F5",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g72hkr2d",
+      "id": "3",
+      "bbox": [
+        75,
+        122,
+        1120,
+        34
+      ],
+      "geometry": "rect",
+      "text": "More trustworthy validation matters more than adding model complexity.",
+      "textPreview": "More trustworthy validation matters more than adding model complexity.",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 21,
+        "typeface": "Arial",
+        "color": "#A7B7C0",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "More trustworthy validation matters more than adding model complexity."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "More trustworthy validation matters more than adding model complexity.",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Arial",
+            "color": "#A7B7C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "More trustworthy validation matters more than adding model complexity.",
+              "fontSize": 21,
+              "typeface": "Arial",
+              "color": "#A7B7C0",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7itgnmlw",
+      "id": "4",
+      "bbox": [
+        72,
+        172,
+        1136,
+        1.2
+      ],
+      "geometry": "rect",
+      "fillColor": "#2A3B46",
+      "lineColor": "#2A3B46",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6hkfehkb",
+      "id": "5",
+      "bbox": [
+        74,
+        190,
+        1132,
+        78
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#14202B",
+      "lineColor": "#2A3B46",
+      "lineWidth": 1
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t4bypc32",
+      "id": "6",
+      "bbox": [
+        89,
+        207,
+        45,
+        44
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#26351E",
+      "lineColor": "#536938",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s32xg72h",
+      "id": "7",
+      "bbox": [
+        89,
+        207,
+        45,
+        44
+      ],
+      "geometry": "rect",
+      "text": "01",
+      "textPreview": "01",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "Arial",
+        "color": "#C9F36A",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "01"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "01",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Arial",
+            "color": "#C9F36A",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "01",
+              "fontSize": 18,
+              "typeface": "Arial",
+              "color": "#C9F36A",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bedgz610",
+      "id": "8",
+      "bbox": [
+        153,
+        199,
+        1024,
+        27
+      ],
+      "geometry": "rect",
+      "text": "Expand verified match history",
+      "textPreview": "Expand verified match history",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 22,
+        "typeface": "Arial",
+        "color": "#EDF3F5",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Expand verified match history"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Expand verified match history",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Arial",
+            "color": "#EDF3F5",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Expand verified match history",
+              "fontSize": 22,
+              "typeface": "Arial",
+              "color": "#EDF3F5",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qd4zq1kv",
+      "id": "9",
+      "bbox": [
+        153,
+        226,
+        1020,
+        34
+      ],
+      "geometry": "rect",
+      "text": "Add complete official scorecards; check match order, team names, and exactly one WWCD winner per match.",
+      "textPreview": "Add complete official scorecards; check match order, team names, and exactly one WWCD winner per match.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "Arial",
+        "color": "#A7B7C0",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Add complete official scorecards; check match order, team names, and exactly one WWCD winner per match."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Add complete official scorecards; check match order, team names, and exactly one WWCD winner per match.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Arial",
+            "color": "#A7B7C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Add complete official scorecards; check match order, team names, and exactly one WWCD winner per match.",
+              "fontSize": 18,
+              "typeface": "Arial",
+              "color": "#A7B7C0",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4j65kf2h",
+      "id": "10",
+      "bbox": [
+        74,
+        278,
+        1132,
+        78
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#14202B",
+      "lineColor": "#2A3B46",
+      "lineWidth": 1
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5kfmtk32",
+      "id": "11",
+      "bbox": [
+        89,
+        295,
+        45,
+        44
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#26351E",
+      "lineColor": "#536938",
+      "lineWidth": 1
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ix4ni5kr",
+      "id": "12",
+      "bbox": [
+        89,
+        295,
+        45,
+        44
+      ],
+      "geometry": "rect",
+      "text": "02",
+      "textPreview": "02",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "Arial",
+        "color": "#C9F36A",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "02"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "02",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Arial",
+            "color": "#C9F36A",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "02",
+              "fontSize": 18,
+              "typeface": "Arial",
+              "color": "#C9F36A",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ix4ralw",
+      "id": "13",
+      "bbox": [
+        153,
+        287,
+        1024,
+        27
+      ],
+      "geometry": "rect",
+      "text": "Test across more future blocks",
+      "textPreview": "Test across more future blocks",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 22,
+        "typeface": "Arial",
+        "color": "#EDF3F5",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Test across more future blocks"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Test across more future blocks",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Arial",
+            "color": "#EDF3F5",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Test across more future blocks",
+              "fontSize": 22,
+              "typeface": "Arial",
+              "color": "#EDF3F5",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gvm5gv2l",
+      "id": "14",
+      "bbox": [
+        153,
+        314,
+        1020,
+        34
+      ],
+      "geometry": "rect",
+      "text": "Use several rolling chronological holdouts and unseen-tournament checks; keep every match group intact.",
+      "textPreview": "Use several rolling chronological holdouts and unseen-tournament checks; keep every match group intact.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "Arial",
+        "color": "#A7B7C0",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Use several rolling chronological holdouts and unseen-tournament checks; keep every match group intact."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Use several rolling chronological holdouts and unseen-tournament checks; keep every match group intact.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Arial",
+            "color": "#A7B7C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Use several rolling chronological holdouts and unseen-tournament checks; keep every match group intact.",
+              "fontSize": 18,
+              "typeface": "Arial",
+              "color": "#A7B7C0",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hwvmp036",
+      "id": "15",
+      "bbox": [
+        74,
+        366,
+        1132,
+        78
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#14202B",
+      "lineColor": "#2A3B46",
+      "lineWidth": 1
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ut43e5kf",
+      "id": "16",
+      "bbox": [
+        89,
+        383,
+        45,
+        44
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#26351E",
+      "lineColor": "#536938",
+      "lineWidth": 1
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vud4nal0",
+      "id": "17",
+      "bbox": [
+        89,
+        383,
+        45,
+        44
+      ],
+      "geometry": "rect",
+      "text": "03",
+      "textPreview": "03",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "Arial",
+        "color": "#C9F36A",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "03"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "03",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Arial",
+            "color": "#C9F36A",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "03",
+              "fontSize": 18,
+              "typeface": "Arial",
+              "color": "#C9F36A",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8rmlcv29",
+      "id": "18",
+      "bbox": [
+        153,
+        375,
+        1024,
+        27
+      ],
+      "geometry": "rect",
+      "text": "Add only source-backed features",
+      "textPreview": "Add only source-backed features",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 22,
+        "typeface": "Arial",
+        "color": "#EDF3F5",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Add only source-backed features"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Add only source-backed features",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Arial",
+            "color": "#EDF3F5",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Add only source-backed features",
+              "fontSize": 22,
+              "typeface": "Arial",
+              "color": "#EDF3F5",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tsvml03u",
+      "id": "19",
+      "bbox": [
+        153,
+        402,
+        1020,
+        34
+      ],
+      "geometry": "rect",
+      "text": "Use stage, map, roster, and player form only when the source provides reliable values. Do not invent damage or survival data.",
+      "textPreview": "Use stage, map, roster, and player form only when the source provides reliable values. Do not invent damage or survival data.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "Arial",
+        "color": "#A7B7C0",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Use stage, map, roster, and player form only when the source provides reliable values. Do not invent damage or survival data."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Use stage, map, roster, and player form only when the source provides reliable values. Do not invent damage or survival data.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Arial",
+            "color": "#A7B7C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Use stage, map, roster, and player form only when the source provides reliable values. Do not invent damage or survival data.",
+              "fontSize": 18,
+              "typeface": "Arial",
+              "color": "#A7B7C0",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9on2pwvy",
+      "id": "20",
+      "bbox": [
+        74,
+        454,
+        1132,
+        78
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#14202B",
+      "lineColor": "#2A3B46",
+      "lineWidth": 1
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8ne1grud",
+      "id": "21",
+      "bbox": [
+        89,
+        471,
+        45,
+        44
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#26351E",
+      "lineColor": "#536938",
+      "lineWidth": 1
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nm5knmds",
+      "id": "22",
+      "bbox": [
+        89,
+        471,
+        45,
+        44
+      ],
+      "geometry": "rect",
+      "text": "04",
+      "textPreview": "04",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "Arial",
+        "color": "#C9F36A",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "04"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "04",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Arial",
+            "color": "#C9F36A",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "04",
+              "fontSize": 18,
+              "typeface": "Arial",
+              "color": "#C9F36A",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mlcjehc7",
+      "id": "23",
+      "bbox": [
+        153,
+        463,
+        1024,
+        27
+      ],
+      "geometry": "rect",
+      "text": "Compare against simple baselines",
+      "textPreview": "Compare against simple baselines",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 22,
+        "typeface": "Arial",
+        "color": "#EDF3F5",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Compare against simple baselines"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Compare against simple baselines",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Arial",
+            "color": "#EDF3F5",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Compare against simple baselines",
+              "fontSize": 22,
+              "typeface": "Arial",
+              "color": "#EDF3F5",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lk32lcvm",
+      "id": "24",
+      "bbox": [
+        153,
+        490,
+        1020,
+        34
+      ],
+      "geometry": "rect",
+      "text": "Track per-lobby log loss, Brier score, calibration, and winner-ranked-first rate; report uncertainty from the small sample.",
+      "textPreview": "Track per-lobby log loss, Brier score, calibration, and winner-ranked-first rate; report uncertainty from the small sample.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "Arial",
+        "color": "#A7B7C0",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Track per-lobby log loss, Brier score, calibration, and winner-ranked-first rate; report uncertainty from the small sample."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Track per-lobby log loss, Brier score, calibration, and winner-ranked-first rate; report uncertainty from the small sample.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Arial",
+            "color": "#A7B7C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Track per-lobby log loss, Brier score, calibration, and winner-ranked-first rate; report uncertainty from the small sample.",
+              "fontSize": 18,
+              "typeface": "Arial",
+              "color": "#A7B7C0",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0ju1c7u1",
+      "id": "25",
+      "bbox": [
+        74,
+        548,
+        1132,
+        119
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#172824",
+      "lineColor": "#3C6056",
+      "lineWidth": 1
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zilkj2dg",
+      "id": "26",
+      "bbox": [
+        94,
+        559,
+        1090,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Jupyter Notebook: yes",
+      "textPreview": "Jupyter Notebook: yes",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 22,
+        "typeface": "Arial",
+        "color": "#C9F36A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Jupyter Notebook: yes"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Jupyter Notebook: yes",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Arial",
+            "color": "#C9F36A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Jupyter Notebook: yes",
+              "fontSize": 22,
+              "typeface": "Arial",
+              "color": "#C9F36A",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yhcjaxwb",
+      "id": "27",
+      "bbox": [
+        94,
+        589,
+        1090,
+        64
+      ],
+      "geometry": "rect",
+      "text": "Use notebooks/BGMI_Winning_Probability_Analysis.ipynb for the dataset walkthrough, cleaning, EDA, leakage-safe features, chronological evaluation, calibration, and saved artifacts. Flask loads the saved model; it does not retrain when the site starts.",
+      "textPreview": "Use notebooks/BGMI_Winning_Probability_Analysis.ipynb for the dataset walkthrough, cleaning, EDA, leakage-safe features, chronological ev...",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "Arial",
+        "color": "#D7E3E7",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Use notebooks/BGMI_Winning_Probability_Analysis.ipynb for the dataset walkthrough, cleaning, EDA, leakage-safe features,"
+          },
+          {
+            "index": 2,
+            "text": "chronological evaluation, calibration, and saved artifacts. Flask loads the saved model; it does not retrain when the site starts."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Use notebooks/BGMI_Winning_Probability_Analysis.ipynb for the dataset walkthrough, cleaning, EDA, leakage-safe features, chronological evaluation, calibration, and saved artifacts. Flask loads the saved model; it does not retrain when the site starts.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Arial",
+            "color": "#D7E3E7",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Use notebooks/BGMI_Winning_Probability_Analysis.ipynb for the dataset walkthrough, cleaning, EDA, leakage-safe features, chronological evaluation, calibration, and saved artifacts. Flask loads the saved model; it does not retrain when the site starts.",
+              "fontSize": 18,
+              "typeface": "Arial",
+              "color": "#D7E3E7",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5g72xgvq",
+      "id": "28",
+      "bbox": [
+        72,
+        683,
+        1136,
+        1.2
+      ],
+      "geometry": "rect",
+      "fillColor": "#20303A",
+      "lineColor": "#20303A",
+      "lineWidth": 0
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kfylobul",
+      "id": "29",
+      "bbox": [
+        74,
+        687,
+        1020,
+        20
+      ],
+      "geometry": "rect",
+      "text": "Notebook and training workflow: project README.md; validation recommendations use the observed holdout limits.",
+      "textPreview": "Notebook and training workflow: project README.md; validation recommendations use the observed holdout limits.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 14,
+        "typeface": "Arial",
+        "color": "#7E929D",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Notebook and training workflow: project README.md; validation recommendations use the observed holdout limits."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Notebook and training workflow: project README.md; validation recommendations use the observed holdout limits.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Arial",
+            "color": "#7E929D",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Notebook and training workflow: project README.md; validation recommendations use the observed holdout limits.",
+              "fontSize": 14,
+              "typeface": "Arial",
+              "color": "#7E929D",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/218zids3",
+      "id": "30",
+      "bbox": [
+        1147,
+        685,
+        55,
+        24
+      ],
+      "geometry": "rect",
+      "text": "03",
+      "textPreview": "03",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 16,
+        "typeface": "Arial",
+        "color": "#C9F36A",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "03"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "03",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Arial",
+            "color": "#C9F36A",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "03",
+              "fontSize": 16,
+              "typeface": "Arial",
+              "color": "#C9F36A",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+{% block title %}BGMI Win Probability | Home{% endblock %}
+{% block content %}
+<section class="hero">
+  <div class="hero-copy">
+    <div class="eyebrow">Tournament performance · probability estimates</div>
+    <h1>Read the match.<br><span style="color:var(--lime)">Estimate the win.</span></h1>
+    <p>Use completed BGIS, BMPS, and BMSD scorecards to estimate a team's chance of winning an upcoming match. Refresh the BMSD center when new results are published to update the next-match forecast from completed games.</p>
+    <div class="button-row">
+      <a class="btn btn-primary" href="{{ url_for('predict_page') }}">Predict a match</a>
+      <a class="btn btn-secondary" href="{{ url_for('live') }}">Open live BMSD</a>
+    </div>
+  </div>
+  <div class="hero-visual-panel">
+    <div class="hero-arena" aria-hidden="true">
+      <div class="arena-glow"></div>
+      <div class="arena-orbit arena-orbit-one"></div>
+      <div class="arena-orbit arena-orbit-two"></div>
+      <div class="arena-grid"></div>
+      <div class="arena-cube">
+        <span class="cube-face cube-front">B</span>
+        <span class="cube-face cube-back"></span>
+        <span class="cube-face cube-right"></span>
+        <span class="cube-face cube-left"></span>
+        <span class="cube-face cube-top"></span>
+        <span class="cube-face cube-bottom"></span>
+      </div>
+      <span class="arena-label arena-label-top">MATCH INTELLIGENCE</span>
+      <span class="arena-label arena-label-bottom">BGMI · DATA CORE</span>
+    </div>
+    <div class="hero-aside">
+      <div class="hero-stat"><strong>{{ stats.matches }}</strong><span>complete matches</span></div>
+      <div class="hero-stat"><strong>{{ stats.teams }}</strong><span>team records</span></div>
+      <div class="hero-stat"><strong>{% if model_available %}Ready{% else %}Train{% endif %}</strong><span>{% if model_available %}model loaded{% else %}model needed{% endif %}</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-heading"><div><div class="eyebrow">Data coverage</div><h2>Historical sources</h2></div><a href="{{ url_for('dashboard') }}">Explore dashboard →</a></div>
+  <div class="grid-3">
+    {% for item in per_tournament %}
+    <article class="card tournament-card" data-tilt>
+      <div><div class="status-pill"><span class="status-dot"></span>{{ item.name }}</div><h3>{{ item.name }} match history</h3></div>
+      <div><div class="tournament-count">{{ item.matches }} matches</div><div class="muted">{{ item.teams }} teams · {{ item.rows }} team-match rows</div></div>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="section grid-2">
+  <article class="card" data-tilt>
+    <div class="eyebrow">How it works</div><h2 style="margin-top:7px">Only prior match results become features</h2>
+    <p>For every historical match, the model sees each team's form before that match: average points and kills, recent results, consistency, matches played, and a pre-match ELO rating.</p>
+    <a class="btn btn-secondary" href="{{ url_for('about') }}">Read the methodology</a>
+  </article>
+  <article class="card" data-tilt>
+    <div class="eyebrow">Current BMSD</div><h2 style="margin-top:7px">Refresh as the bracket advances</h2>
+    <p>Historical BMSD matches are included in the analysis. Refresh the live center as new scorecards and stage updates are published to recalculate the next-match forecast.</p>
+    <a class="btn btn-secondary" href="{{ url_for('live') }}">Open BMSD live view</a>
+  </article>
+</section>
+{% endblock %}

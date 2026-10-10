@@ -1,0 +1,86 @@
+{"kind":"deck","id":"pr/hyysw9","name":"Deck"}
+{"kind":"layout","layoutId":"5c96afb8-223c-4bc4-84b5-6e1cf01b839d","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"7105cf3d-44f6-4ac9-af4f-36ee89e36aa9","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/wett1w","slide":1,"title":"MODEL REPORT CARD  ·  BGMI ESPORTS ANALYTICS","textShapes":18}
+{"kind":"textbox","id":"sh/axk7m5gb","slide":1,"text":"MODEL REPORT CARD  ·  BGMI ESPORTS ANALYTICS","textPreview":"MODEL REPORT CARD  ·  BGMI ESPORTS ANALYTICS","textChars":44,"textLines":1,"bbox":[74,29,740,26]}
+{"kind":"textbox","id":"sh/x0b6xkfm","slide":1,"text":"Team match win model","textPreview":"Team match win model","textChars":20,"textLines":1,"bbox":[72,58,880,60]}
+{"kind":"textbox","id":"sh/cz2pofy1","slide":1,"text":"One-match WWCD probability · chronological test · 2 October 2026","textPreview":"One-match WWCD probability · chronological test · 2 October 2026","textChars":64,"textLines":1,"bbox":[75,119,1090,32]}
+{"kind":"shape","id":"sh/nutoraxk","slide":1,"bbox":[956,68,250,38]}
+{"kind":"textbox","id":"sh/2t07i5gz","slide":1,"text":"PRELIMINARY EVIDENCE","textPreview":"PRELIMINARY EVIDENCE","textChars":20,"textLines":1,"bbox":[970,70,223,32]}
+{"kind":"shape","id":"sh/pwb6tkfq","slide":1,"bbox":[72,164,1136,1.2]}
+{"kind":"shape","id":"sh/ov2pkfy5","slide":1,"bbox":[74,178,354,82]}
+{"kind":"textbox","id":"sh/f69onqx8","slide":1,"text":"HISTORICAL SAMPLE","textPreview":"HISTORICAL SAMPLE","textChars":17,"textLines":1,"bbox":[90,187,322,18]}
+{"kind":"textbox","id":"sh/e507elg3","slide":1,"text":"102 matches","textPreview":"102 matches","textChars":11,"textLines":1,"bbox":[90,205,322,34]}
+{"kind":"textbox","id":"sh/o3m98bu9","slide":1,"text":"1,632 team-match rows","textPreview":"1,632 team-match rows","textChars":21,"textLines":1,"bbox":[90,238,322,16]}
+{"kind":"shape","id":"sh/p4vahgbu","slide":1,"bbox":[463,178,354,82]}
+{"kind":"textbox","id":"sh/214r61cj","slide":1,"text":"CHRONOLOGICAL HOLDOUT","textPreview":"CHRONOLOGICAL HOLDOUT","textChars":21,"textLines":1,"bbox":[479,187,322,18]}
+{"kind":"textbox","id":"sh/32dsf6to","slide":1,"text":"6 matches","textPreview":"6 matches","textChars":9,"textLines":1,"bbox":[479,205,322,34]}
+{"kind":"textbox","id":"sh/gzm94bud","slide":1,"text":"later matches · 96 team rows","textPreview":"later matches · 96 team rows","textChars":28,"textLines":1,"bbox":[479,238,322,16]}
+{"kind":"shape","id":"sh/10vadgby","slide":1,"bbox":[852,178,354,82]}
+{"kind":"textbox","id":"sh/edkr21c7","slide":1,"text":"WINNER RANKED FIRST","textPreview":"WINNER RANKED FIRST","textChars":19,"textLines":1,"bbox":[868,187,322,18]}
+{"kind":"textbox","id":"sh/fytsb6ts","slide":1,"text":"1 of 6","textPreview":"1 of 6","textChars":6,"textLines":1,"bbox":[868,205,322,34]}
+{"kind":"textbox","id":"sh/kv6tgvuh","slide":1,"text":"16.7% top-one hit rate","textPreview":"16.7% top-one hit rate","textChars":22,"textLines":1,"bbox":[868,238,322,16]}
+{"kind":"textbox","id":"sh/lwfap0b2","slide":1,"text":"Random Forest · sigmoid calibrated · target = match winner (WWCD)","textPreview":"Random Forest · sigmoid calibrated · target = match winner (WWCD)","textChars":65,"textLines":1,"bbox":[76,270,1110,27]}
+{"kind":"textbox","id":"sh/8r290v2l","slide":1,"text":"Most influential features: points variability 17.1% · finishes variability 14.0% · prior average points 12.5%. Importance describes model behavior; it does not prove cause.","textPreview":"Most influential features: points variability 17.1% · finishes variability 14.0% · prior average points 12.5%. Importance describes model...","textChars":172,"textLines":1,"bbox":[76,565,1120,39]}
+{"kind":"shape","id":"sh/7qtsrql0","slide":1,"bbox":[74,611,1132,54]}
+{"kind":"textbox","id":"sh/6pkryl4v","slide":1,"text":"Review: experimental only. Six test matches are too few to claim dependable win probabilities.","textPreview":"Review: experimental only. Six test matches are too few to claim dependable win probabilities.","textChars":94,"textLines":1,"bbox":[91,617,1095,42]}
+{"kind":"shape","id":"sh/lobapg3a","slide":1,"bbox":[72,683,1136,1.2]}
+{"kind":"textbox","id":"sh/kn29wbmp","slide":1,"text":"Source: project model_comparison.csv and model_metadata.json; final six complete matches held out.","textPreview":"Source: project model_comparison.csv and model_metadata.json; final six complete matches held out.","textChars":98,"textLines":1,"bbox":[74,687,1020,20]}
+{"kind":"textbox","id":"sh/zmtsnql4","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1147,685,55,24]}
+{"kind":"table","id":"tb/mdcf290r","slide":1,"name":"","rows":6,"cols":3,"preview":"Measure | Held-out result | Review","bbox":[74,300,1132,258]}
+{"kind":"notes","id":"nt/wett1w","slide":1,"text":"Primary source: D:/BGI_Win_Probability/reports/model_results/model_comparison.csv and model_metadata.json. The Random Forest was selected by the lowest held-out conditional match log loss; calibration used expanding chronological match-group folds. The test contains six later matches (96 team rows), so the result is preliminary. The always-loss accuracy baseline is 90/96 = 93.75%, based on six winning team rows among 96 team rows. Feature importance is descriptive and not causal."}
+{"kind":"slide","id":"sl/g3yxcp","slide":2,"title":"SECOND MODEL  ·  PLAYER PERFORMANCE","textShapes":14}
+{"kind":"textbox","id":"sh/u1srelgb","slide":2,"text":"SECOND MODEL  ·  PLAYER PERFORMANCE","textPreview":"SECOND MODEL  ·  PLAYER PERFORMANCE","textChars":35,"textLines":1,"bbox":[74,31,720,24]}
+{"kind":"textbox","id":"sh/h4jq90z2","slide":2,"text":"Player finishes forecast","textPreview":"Player finishes forecast","textChars":24,"textLines":1,"bbox":[72,60,920,60]}
+{"kind":"textbox","id":"sh/g3a9gvyh","slide":2,"text":"An MVP-style finish estimate, not an official MVP-award probability","textPreview":"An MVP-style finish estimate, not an official MVP-award probability","textChars":67,"textLines":1,"bbox":[75,122,1100,34]}
+{"kind":"shape","id":"sh/36l8bahs","slide":2,"bbox":[72,173,1136,1.2]}
+{"kind":"shape","id":"sh/i5sri5g7","slide":2,"bbox":[74,191,535,82]}
+{"kind":"textbox","id":"sh/5s3qd0zy","slide":2,"text":"CHRONOLOGICAL HOLDOUT","textPreview":"CHRONOLOGICAL HOLDOUT","textChars":21,"textLines":1,"bbox":[90,200,503,18]}
+{"kind":"textbox","id":"sh/47u9kvyd","slide":2,"text":"6 matches","textPreview":"6 matches","textChars":9,"textLines":1,"bbox":[90,218,503,34]}
+{"kind":"textbox","id":"sh/jah8f6ho","slide":2,"text":"384 player-match rows","textPreview":"384 player-match rows","textChars":21,"textLines":1,"bbox":[90,251,503,16]}
+{"kind":"shape","id":"sh/y9876103","slide":2,"bbox":[673,191,533,82]}
+{"kind":"textbox","id":"sh/cjqxwva9","slide":2,"text":"SELECTED METHOD","textPreview":"SELECTED METHOD","textChars":15,"textLines":1,"bbox":[689,200,501,18]}
+{"kind":"textbox","id":"sh/xkzyp0be","slide":2,"text":"Random Forest","textPreview":"Random Forest","textChars":13,"textLines":1,"bbox":[689,218,501,34]}
+{"kind":"textbox","id":"sh/qh8fuls3","slide":2,"text":"chosen by lower holdout MAE","textPreview":"chosen by lower holdout MAE","textChars":27,"textLines":1,"bbox":[689,251,501,16]}
+{"kind":"textbox","id":"sh/bihgnqto","slide":2,"text":"Held-out model comparison","textPreview":"Held-out model comparison","textChars":25,"textLines":1,"bbox":[76,299,1120,30]}
+{"kind":"shape","id":"sh/l8jyt0rq","slide":2,"bbox":[74,529,1132,65]}
+{"kind":"textbox","id":"sh/y58fy5sz","slide":2,"text":"Mixed evidence: MAE improves by just 0.015 finishes per player-match, while RMSE and R² are worse than the baseline.","textPreview":"Mixed evidence: MAE improves by just 0.015 finishes per player-match, while RMSE and R² are worse than the baseline.","textChars":116,"textLines":1,"bbox":[95,537,1090,49]}
+{"kind":"shape","id":"sh/z6hgratk","slide":2,"bbox":[74,607,1132,58]}
+{"kind":"textbox","id":"sh/gb6xoba1","slide":2,"text":"Use the output as an estimated finish count / likely finish leader. No validated MVP-award labels exist in the dataset.","textPreview":"Use the output as an estimated finish count / likely finish leader. No validated MVP-award labels exist in the dataset.","textChars":119,"textLines":1,"bbox":[94,612,1090,47]}
+{"kind":"shape","id":"sh/1cfyhgbm","slide":2,"bbox":[72,683,1136,1.2]}
+{"kind":"textbox","id":"sh/h87elc3a","slide":2,"text":"Source: project player_finish_model_comparison.csv and player_finish_model_metadata.json.","textPreview":"Source: project player_finish_model_comparison.csv and player_finish_model_metadata.json.","textChars":89,"textLines":1,"bbox":[74,687,1020,20]}
+{"kind":"textbox","id":"sh/g7ydc72p","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1147,685,55,24]}
+{"kind":"table","id":"tb/jy50nyt4","slide":2,"name":"","rows":3,"cols":4,"preview":"Method | MAE ↓ | RMSE ↓ | R² ↑","bbox":[74,336,1132,174]}
+{"kind":"notes","id":"nt/g3yxcp","slide":2,"text":"Primary source: D:/BGI_Win_Probability/reports/model_results/player_finish_model_comparison.csv and player_finish_model_metadata.json. The test covers six chronological matches and 384 player-match rows. Random Forest MAE is 1.091915 and rolling-average MAE is 1.106989, a difference of 0.015073 finishes per player-match. Random Forest RMSE (1.435741) and R-squared (-0.004730) are worse than the rolling-average baseline (1.424499 and 0.010944). The source does not supply match-level MVP-award labels. This model predicts finishes only."}
+{"kind":"slide","id":"sl/35m69f","slide":3,"title":"MODEL DEVELOPMENT","textShapes":19}
+{"kind":"textbox","id":"sh/u5kfihkn","slide":3,"text":"MODEL DEVELOPMENT","textPreview":"MODEL DEVELOPMENT","textChars":17,"textLines":1,"bbox":[74,31,720,24]}
+{"kind":"textbox","id":"sh/h8vytw3y","slide":3,"text":"What will improve the evidence","textPreview":"What will improve the evidence","textChars":30,"textLines":1,"bbox":[72,60,1080,60]}
+{"kind":"textbox","id":"sh/g72hkr2d","slide":3,"text":"More trustworthy validation matters more than adding model complexity.","textPreview":"More trustworthy validation matters more than adding model complexity.","textChars":70,"textLines":1,"bbox":[75,122,1120,34]}
+{"kind":"shape","id":"sh/7itgnmlw","slide":3,"bbox":[72,172,1136,1.2]}
+{"kind":"shape","id":"sh/6hkfehkb","slide":3,"bbox":[74,190,1132,78]}
+{"kind":"shape","id":"sh/t4bypc32","slide":3,"bbox":[89,207,45,44]}
+{"kind":"textbox","id":"sh/s32xg72h","slide":3,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[89,207,45,44]}
+{"kind":"textbox","id":"sh/bedgz610","slide":3,"text":"Expand verified match history","textPreview":"Expand verified match history","textChars":29,"textLines":1,"bbox":[153,199,1024,27]}
+{"kind":"textbox","id":"sh/qd4zq1kv","slide":3,"text":"Add complete official scorecards; check match order, team names, and exactly one WWCD winner per match.","textPreview":"Add complete official scorecards; check match order, team names, and exactly one WWCD winner per match.","textChars":103,"textLines":1,"bbox":[153,226,1020,34]}
+{"kind":"shape","id":"sh/4j65kf2h","slide":3,"bbox":[74,278,1132,78]}
+{"kind":"shape","id":"sh/5kfmtk32","slide":3,"bbox":[89,295,45,44]}
+{"kind":"textbox","id":"sh/ix4ni5kr","slide":3,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[89,295,45,44]}
+{"kind":"textbox","id":"sh/3ix4ralw","slide":3,"text":"Test across more future blocks","textPreview":"Test across more future blocks","textChars":30,"textLines":1,"bbox":[153,287,1024,27]}
+{"kind":"textbox","id":"sh/gvm5gv2l","slide":3,"text":"Use several rolling chronological holdouts and unseen-tournament checks; keep every match group intact.","textPreview":"Use several rolling chronological holdouts and unseen-tournament checks; keep every match group intact.","textChars":103,"textLines":1,"bbox":[153,314,1020,34]}
+{"kind":"shape","id":"sh/hwvmp036","slide":3,"bbox":[74,366,1132,78]}
+{"kind":"shape","id":"sh/ut43e5kf","slide":3,"bbox":[89,383,45,44]}
+{"kind":"textbox","id":"sh/vud4nal0","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[89,383,45,44]}
+{"kind":"textbox","id":"sh/8rmlcv29","slide":3,"text":"Add only source-backed features","textPreview":"Add only source-backed features","textChars":31,"textLines":1,"bbox":[153,375,1024,27]}
+{"kind":"textbox","id":"sh/tsvml03u","slide":3,"text":"Use stage, map, roster, and player form only when the source provides reliable values. Do not invent damage or survival data.","textPreview":"Use stage, map, roster, and player form only when the source provides reliable values. Do not invent damage or survival data.","textChars":125,"textLines":1,"bbox":[153,402,1020,34]}
+{"kind":"shape","id":"sh/9on2pwvy","slide":3,"bbox":[74,454,1132,78]}
+{"kind":"shape","id":"sh/8ne1grud","slide":3,"bbox":[89,471,45,44]}
+{"kind":"textbox","id":"sh/nm5knmds","slide":3,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[89,471,45,44]}
+{"kind":"textbox","id":"sh/mlcjehc7","slide":3,"text":"Compare against simple baselines","textPreview":"Compare against simple baselines","textChars":32,"textLines":1,"bbox":[153,463,1024,27]}
+{"kind":"textbox","id":"sh/lk32lcvm","slide":3,"text":"Track per-lobby log loss, Brier score, calibration, and winner-ranked-first rate; report uncertainty from the small sample.","textPreview":"Track per-lobby log loss, Brier score, calibration, and winner-ranked-first rate; report uncertainty from the small sample.","textChars":123,"textLines":1,"bbox":[153,490,1020,34]}
+{"kind":"shape","id":"sh/0ju1c7u1","slide":3,"bbox":[74,548,1132,119]}
+{"kind":"textbox","id":"sh/zilkj2dg","slide":3,"text":"Jupyter Notebook: yes","textPreview":"Jupyter Notebook: yes","textChars":21,"textLines":1,"bbox":[94,559,1090,28]}
+{"kind":"textbox","id":"sh/yhcjaxwb","slide":3,"text":"Use notebooks/BGMI_Winning_Probability_Analysis.ipynb for the dataset walkthrough, cleaning, EDA, leakage-safe features, chronological evaluation, calibration, and saved artifacts. Flask loads the saved model; it does not retrain when the site starts.","textPreview":"Use notebooks/BGMI_Winning_Probability_Analysis.ipynb for the dataset walkthrough, cleaning, EDA, leakage-safe features, chronological ev...","textChars":251,"textLines":1,"bbox":[94,589,1090,64]}
+{"kind":"shape","id":"sh/5g72xgvq","slide":3,"bbox":[72,683,1136,1.2]}
+{"kind":"textbox","id":"sh/kfylobul","slide":3,"text":"Notebook and training workflow: project README.md; validation recommendations use the observed holdout limits.","textPreview":"Notebook and training workflow: project README.md; validation recommendations use the observed holdout limits.","textChars":110,"textLines":1,"bbox":[74,687,1020,20]}
+{"kind":"textbox","id":"sh/218zids3","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1147,685,55,24]}
+{"kind":"notes","id":"nt/35m69f","slide":3,"text":"The Jupyter notebook exists at D:/BGI_Win_Probability/notebooks/BGMI_Winning_Probability_Analysis.ipynb and contains the analysis/training workflow. The standalone script src/model_training.py can retrain and save the model outside Flask startup. Recommendations are based on the current six-match team holdout and six-match player holdout; features should only be added when actual tournament sources contain them."}
